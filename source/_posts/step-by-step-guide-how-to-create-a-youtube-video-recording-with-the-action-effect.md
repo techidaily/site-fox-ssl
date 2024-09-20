@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect"
-date: 2024-09-18 11:18:30
-updated: 2024-09-20 11:51:36
+date: 2024-09-14T05:04:53.866Z
+updated: 2024-09-19T17:28:19.808Z
 tags:
   - product
 categories:
@@ -62,6 +62,13 @@ Action Tutorials
 
 ![Mirillis Action! - Recordings](https://mirillis.com/res/old/gfx/tutorials/howto/yt1_list.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Record YouTube Videos using the Active Desktop Region mode
 
  This method is suitable for recording videos from YouTube when using player in non-fullscreen mode. Open Action! And select the Active Desktop Region recording mode. 
@@ -72,6 +79,13 @@ Action Tutorials
 
 ![Mirillis Action! - Selecting desktop region to record](https://mirillis.com/res/old/gfx/tutorials/howto/yt2_video.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start YouTube video playback and press the “record” button or F9 hotkey to start recording it with Action!
 
 <ins class="adsbygoogle"
@@ -79,8 +93,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
