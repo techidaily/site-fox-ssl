@@ -1,7 +1,7 @@
 ---
 title: Explore Over 60 Inspiring UI Elements, Fonts & Color Palettes From Argon in Creative Tim’s Resource Hub
-date: 2024-09-15T19:04:41.236Z
-updated: 2024-09-20T02:15:00.650Z
+date: 2024-09-24T18:18:57.590Z
+updated: 2024-09-25T20:14:12.619Z
 tags:
   - product
 categories:
@@ -19,7 +19,27 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Loading...
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sharing is caring!
 
@@ -38,10 +58,20 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-video-freelancers-talent-agreement-form-for-2024/"><u>[New] Video Freelancers Talent Agreement Form for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-igtv-broadcasts-to-facebook-explained-for-2024/"><u>[Updated] IGTV Broadcasts to Facebook Explained for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>[Updated] In 2024, Conquering Social Media with IG Videos Planning an Optimal Strategy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-voice-over-fundamentals-from-syncing-dialogue-to-final-cut/"><u>[Updated] Voice Over Fundamentals From Syncing Dialogue to Final Cut</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-compelling-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>5 Compelling Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-stepwise-approach-to-youtube-caption-addition/"><u>A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V?</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-transfer-custom-designed-themes-from-flipbuilder-to-other-software-platforms/"><u>How to Transfer Custom-Designed Themes From FlipBuilder to Other Software Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-photo-wizards-perfecting-silhouette-art/"><u>In 2024, IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/innovative-design-elements-across-flipbuildercoms-various-template-options/"><u>Innovative Design Elements Across FlipBuilder.com's Various Template Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/insights-into-user-interaction-the-frequency-of-e-magazine-page-turning-on-flipbuilder-websites/"><u>Insights Into User Interaction - The Frequency of E-Magazine Page Turning on FlipBuilder Websites</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-file-categorization-in-flash-books-using-flipbuilder-tools/"><u>Mastering the Art of File Categorization in Flash Books Using FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/setting-up-pre-display-metadata-for-flip-booklets-a-guide-with-flipbuilder/"><u>Setting Up Pre-Display Metadata for Flip Booklets - A Guide with FlipBuilder</u></a></li>
+</ul></div>
 
