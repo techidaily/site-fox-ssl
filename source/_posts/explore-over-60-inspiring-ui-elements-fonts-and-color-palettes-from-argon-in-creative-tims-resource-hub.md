@@ -1,7 +1,7 @@
 ---
 title: Explore Over 60 Inspiring UI Elements, Fonts & Color Palettes From Argon in Creative Tim’s Resource Hub
-date: 2024-09-24T18:18:57.590Z
-updated: 2024-09-25T20:14:12.619Z
+date: 2024-09-28T05:42:41.336Z
+updated: 2024-09-29T17:42:07.687Z
 tags:
   - product
 categories:
@@ -20,25 +20,25 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,18 +60,24 @@ thumbnail: https://thmb.techidaily.com/a6fdfacdf6764bfbdcfc951cb0b411f7e9680e6d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-video-freelancers-talent-agreement-form-for-2024/"><u>[New] Video Freelancers Talent Agreement Form for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-igtv-broadcasts-to-facebook-explained-for-2024/"><u>[Updated] IGTV Broadcasts to Facebook Explained for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>[Updated] In 2024, Conquering Social Media with IG Videos Planning an Optimal Strategy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-voice-over-fundamentals-from-syncing-dialogue-to-final-cut/"><u>[Updated] Voice Over Fundamentals From Syncing Dialogue to Final Cut</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-compelling-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>5 Compelling Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-stepwise-approach-to-youtube-caption-addition/"><u>A Stepwise Approach to YouTube Caption Addition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-transfer-custom-designed-themes-from-flipbuilder-to-other-software-platforms/"><u>How to Transfer Custom-Designed Themes From FlipBuilder to Other Software Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-photo-wizards-perfecting-silhouette-art/"><u>In 2024, IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/innovative-design-elements-across-flipbuildercoms-various-template-options/"><u>Innovative Design Elements Across FlipBuilder.com's Various Template Options</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/insights-into-user-interaction-the-frequency-of-e-magazine-page-turning-on-flipbuilder-websites/"><u>Insights Into User Interaction - The Frequency of E-Magazine Page Turning on FlipBuilder Websites</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-file-categorization-in-flash-books-using-flipbuilder-tools/"><u>Mastering the Art of File Categorization in Flash Books Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/setting-up-pre-display-metadata-for-flip-booklets-a-guide-with-flipbuilder/"><u>Setting Up Pre-Display Metadata for Flip Booklets - A Guide with FlipBuilder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-clips-best-winter-bgs-for-video-warmth-for-2024/"><u>[New] Enhance Clips Best Winter Bg's for Video Warmth for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-optimizing-obs-video-compression-for-2024/"><u>[New] Optimizing OBS Video Compression for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-digitize-and-organize-with-mematic/"><u>[Updated] 2024 Approved Digitize and Organize with Mematic</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-game-aids-vrs-top-picks/"><u>[Updated] Innovative Game Aids VR's Top Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-insignia-ns-pcy5bma2-drivers-for-compatible-windows-versions/"><u>Get the Latest Insignia NS-PCY5BMA2 Drivers for Compatible Windows Versions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-downloading-and-converting-school-of-podcasting-shows-to-mp3wav-files-for-better-sound-quality/"><u>Guide to Downloading and Converting School of Podcasting Shows to MP3/WAV Files for Better Sound Quality</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-buy-and-activate-mirallis-offerings-a-comprehensive-guide/"><u>How To Buy & Activate Mirallis Offerings: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-convert-your-favorite-youtube-videos-into-gifs-quickly-and-effortlessly/"><u>How To Convert Your Favorite YouTube Videos Into GIFs Quickly and Effortlessly</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-save-and-convert-videos-into-mp4-or-avi-format-with-adobe-tv-downloads/"><u>How to Save and Convert Videos Into MP4 or AVI Format with Adobe TV Downloads</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-save-coub-videos-as-mp4-or-other-types-easy-guide/"><u>How To Save Coub Videos as MP4 or Other Types - Easy Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-obs-studio-vs-bandicam/"><u>In 2024, OBS Studio vs Bandicam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-quick-fixes-screen-capturing-on-instagrams-feed/"><u>In 2024, Quick Fixes Screen Capturing on Instagram's Feed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-least-expensive-stock-images-online-for-2024/"><u>Leading Least Expensive Stock Images Online for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-youtube-stops-playing-effective-troubleshooting-steps-for-pc-users/"><u>Resolving 'YouTube Stops Playing': Effective Troubleshooting Steps for PC Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-guide-on-transferring-your-favorite-spotify-tracks-onto-a-cd/"><u>Simple Guide on Transferring Your Favorite Spotify Tracks Onto a CD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/synchronous-capture-for-webcam-and-display-for-2024/"><u>Synchronous Capture for Webcam and Display for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
 </ul></div>
 
