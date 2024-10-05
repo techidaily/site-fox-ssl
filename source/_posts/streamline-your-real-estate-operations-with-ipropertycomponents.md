@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Real Estate Operations with IPropertyComponents
-date: 2024-09-25T16:54:22.437Z
-updated: 2024-09-29T22:03:01.983Z
+date: 2024-10-04T19:18:32.564Z
+updated: 2024-10-05T20:56:10.391Z
 tags:
   - user-guide
 categories:
@@ -108,22 +108,21 @@ Table of Contents
 
 ## IPropertyComponent
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPropertyComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +130,10 @@ IPropertyComponent : IDispatch
 This interface is meant edit properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -142,6 +141,19 @@ This interface is meant edit properties.
 **Array<IProperty> Properties** \- Gets or sets all the properties in the project.
 
 **Array<IProperty>**  \- Gets or sets the properties defined by user.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -161,10 +173,10 @@ This interface is meant edit properties.
 Finds a property by name/id
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -206,19 +218,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-pioneering-filmmakers-top-7-color-grading-hacks-for-2024/"><u>[New] Pioneering Filmmakers' Top 7 Color Grading Hacks for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-gratuitous-text-animations/"><u>[Updated] 2024 Approved Harnessing the Power of Gratuitous Text Animations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-cinematic-coloring-the-11-best-tutorials-ever-for-2024/"><u>[Updated] Mastering Cinematic Coloring The 11 Best Tutorials Ever for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-adult-swim-media-library-streaming-and-free-downloads-of-animated-series-original-movies-and-more/"><u>1. Adult Swim Media Library: Streaming and Free Downloads of Animated Series, Original Movies, and More</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-ranked-video-recording-software-a-replacement-for-movavi-screen-capture-suitable-for-mac-and-windows-systems/"><u>1. Top-Ranked Video Recording Software: A Replacement for Movavi Screen Capture Suitable for MAC & WINDOWS Systems</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-fubotv-to-your-firestick-a-complete-tutorial/"><u>Connecting FuboTV to Your Firestick: A Complete Tutorial</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/navigating-global-dvd-standards-enabling-playback-of-british-disc-media-beyond-its-home-zone/"><u>Navigating Global DVD Standards: Enabling Playback of British Disc Media Beyond Its Home Zone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/optimized-with-cutting-edge-cookiebot-technology/"><u>Optimized with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/stealthy-strategies-concealing-your-flipbuilder-website-in-the-digital-library-index/"><u>Stealthy Strategies: Concealing Your FlipBuilder Website in the Digital Library Index</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-uploading-files-online-using-ftp-flipbuilder-learn-how/"><u>Step-by-Step Guide: Uploading Files Online Using FTP (FlipBuilder) - Learn How</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-why-your-flipbook-lacks-a-frame-bar-on-flipbuildercom-a-user-friendly-guide-to-custom-layouts/"><u>Understanding Why Your FlipBook Lacks a Frame Bar on FlipBuilder.com – A User-Friendly Guide to Custom Layouts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ace-in-the-halls-boosting-youtube-traffic/"><u>[Updated] 2024 Approved Ace in the Halls Boosting YouTube Traffic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-demystifying-ajeys-monetization-strategy-youtube-edition/"><u>[Updated] Demystifying Ajey's Monetization Strategy - YouTube Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-capturing-adrenaline-with-the-latest-yi-technology/"><u>[Updated] In 2024, Capturing Adrenaline with the Latest Yi Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-present-day-vr-tech-diary/"><u>[Updated] Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>2024 Approved Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-visibility-mastering-the-art-of-ibasesearch/"><u>Boost Your Visibility: Mastering the Art of IBaseSearch</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/decoding-the-deception-how-verify-parcel-details-e-mails-are-spreading-malware-online/"><u>Decoding the Deception: How 'Verify Parcel Details' E-Mails Are Spreading Malware Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-crashes-expert-tips-for-running-guilty-gear-strive-smoothly-on-a-computer/"><u>Fixing Game Crashes: Expert Tips for Running Guilty Gear Strive Smoothly on a Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-secure-is-your-internet-activity-when-using-incognito-mode-unveiling-the-truth/"><u>How Secure Is Your Internet Activity When Using Incognito Mode? Unveiling the Truth</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/no-more-costs-discover-best-free-camera-screen-recorder-apps-for-2024/"><u>No More Costs? Discover Best FREE Camera Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimal-vehicle-control-preferences/"><u>Optimal Vehicle Control Preferences</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unheard-vocal-verifiers-6-stealthy-smartphone-recordings-for-2024/"><u>Unheard Vocal Verifiers 6 Stealthy Smartphone Recordings for 2024</u></a></li>
 </ul></div>
 

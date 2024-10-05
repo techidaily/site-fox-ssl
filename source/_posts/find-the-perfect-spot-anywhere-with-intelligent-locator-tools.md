@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Spot Anywhere with Intelligent Locator Tools
-date: 2024-09-27T18:41:40.240Z
-updated: 2024-09-29T22:04:26.518Z
+date: 2024-09-30T16:00:50.736Z
+updated: 2024-10-05T18:14:22.219Z
 tags:
   - user-guide
 categories:
@@ -124,26 +124,26 @@ Table of Contents
 
 ## ILocationSearch
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IAppSearch: IBaseSearch
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit an extension verb.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -151,10 +151,10 @@ This interface is meant to edit an extension verb.
 **Array<IDispath> Locators** \- Gets the collection of locators.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -178,10 +178,10 @@ Creates a new folder locator if it doesn’t exist and add it to the locator’s
 Removes a locator from the locator’s collection and destroys it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -223,24 +223,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-aspect-ratio-guidelines-for-twitter-videos/"><u>[New] 2024 Approved Aspect Ratio Guidelines for Twitter Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-cost-free-creative-conversion-twitter-to-tweeple-gifs/"><u>[New] 2024 Approved Cost-Free Creative Conversion Twitter to Tweeple GIFs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pivotal-ideas-in-tech-driven-story-weaving/"><u>[New] Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-review-camera-lenses-for-youtube/"><u>[Updated] A Comprehensive Review Camera Lenses for YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-comprehensive-guide-to-capturing-lol-games/"><u>[Updated] Comprehensive Guide to Capturing LOL Games</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-selection-of-ps1-games-now-on-your-computer/"><u>2024 Approved Ultimate Selection of PS1 Games, Now on Your Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/create-engaging-interfaces-easily-free-reactmaterial-ui-dashboard-with-customizable-argon-design-components-by-creativetim/"><u>Create Engaging Interfaces Easily: Free React/Material-UI Dashboard with Customizable Argon Design Components by @CreativeTim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-extensive-range-more-than-65-professional-bootstrap-elements-from-creative-tim/"><u>Discover the Extensive Range: More Than 65 Professional Bootstrap Elements From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-game-crashes-in-armored-core-n6-fires-of-rubicon-for-your-computer-system/"><u>Fixing Game Crashes in Armored Core N°6: Fires of Rubicon for Your Computer System</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-buy-and-activate-mirallis-offerings-a-comprehensive-guide/"><u>How To Buy & Activate Mirallis Offerings: A Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/in-depth-focusrite-scarlett-2i2-gen-4-assessment-unmatched-performance-meets-rising-rivals/"><u>In-Depth Focusrite Scarlett 2I2 Gen 4 Assessment: Unmatched Performance Meets Rising Rivals</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-youtube-stops-playing-effective-troubleshooting-steps-for-pc-users/"><u>Resolving 'YouTube Stops Playing': Effective Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-guide-on-transferring-your-favorite-spotify-tracks-onto-a-cd/"><u>Simple Guide on Transferring Your Favorite Spotify Tracks Onto a CD</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-create-a-youtube-video-recording-with-the-action-effect/"><u>Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-htc-u23-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/compatibility-check-and-troubleshooting-tips-how-to-watch-avi-movies-on-an-ipad-or-apple-tv/"><u>Compatibility Check & Troubleshooting Tips: How to Watch AVI Movies on an iPad or Apple TV</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-to-configuring-your-xml-data-integration-tab/"><u>Comprehensive Guide to Configuring Your XML Data Integration Tab</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a60s-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A60s Fingerprint Lock</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-configuration-system-didnt-initialize-error-on-your-windows-10-pc-guide/"><u>Resolve 'Configuration System Didn't Initialize' Error on Your Windows 10 PC [Guide]</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-cutting-out-sound-glitch-on-windows-11/"><u>Troubleshooting and Fixing the Cutting Out Sound Glitch on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-acer-chromebook-15-outstanding-capabilities-meet-an-expansive-screen/"><u>Unveiling the Acer Chromebook 15: Outstanding Capabilities Meet an Expansive Screen</u></a></li>
 </ul></div>
 

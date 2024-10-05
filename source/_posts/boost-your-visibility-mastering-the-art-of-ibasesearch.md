@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Visibility: Mastering the Art of IBaseSearch"
-date: 2024-09-27T08:41:26.501Z
-updated: 2024-09-30T02:37:35.791Z
+date: 2024-10-03T16:34:57.350Z
+updated: 2024-10-05T18:21:00.962Z
 tags:
   - user-guide
 categories:
@@ -125,16 +125,10 @@ Table of Contents
 ## IBaseSearch
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -142,10 +136,10 @@ Table of Contents
 IBaseSearch: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -153,10 +147,10 @@ IBaseSearch: IDispatch
 This interface is meant to retrieve basic information about a search.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -166,10 +160,10 @@ This interface is meant to retrieve basic information about a search.
 **String Type** \- Gets the type of search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -211,22 +205,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-momentum-in-life-coaching-video-series-for-2024/"><u>[New] Creating Momentum in Life Coaching Video Series for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-harness-your-footage-potential-with-vimeo-record/"><u>[Updated] Harness Your Footage Potential with Vimeo Record</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-share-of-pics-heres-how-you-do-it-right-for-2024/"><u>[Updated] Quick Share of Pics? Here's How You Do It Right for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/accelerate-your-reading-mastering-quick-page-flips-with-flipbuilder/"><u>Accelerate Your Reading: Mastering Quick Page Flips with FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-absence-of-a-frame-bar-in-your-flipbook-explore-how-flipbuilder-facilitates-seamless-publishing/"><u>Discover the Absence of a Frame Bar in Your FlipBook - Explore How FlipBuilder Facilitates Seamless Publishing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effortless-access-with-bookmarks-for-your-published-content-on-flipbuilder/"><u>Effortless Access with Bookmarks for Your Published Content on FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enabling-auto-play-feature-for-your-image-flipbooks-with-flipbuilder-easy-integration/"><u>Enabling Auto-Play Feature for Your Image FlipBooks with FlipBuilder - Easy Integration</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-your-learning-experience-full-screen-flashy-tech-guides-on-flipbuildercom/"><u>Enhance Your Learning Experience: Full-Screen Flashy Tech Guides on FlipBuilder.com!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-incornate-a-company-emblem-in-flipbook-slides-with-flipbuilder-techniques/"><u>How to Incornate a Company Emblem in FlipBook Slides with FlipBuilder Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix GT 10 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-f25-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo F25 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-your-collaboration-secrets-to-perfectly-planned-google-meets/"><u>In 2024, Streamline Your Collaboration Secrets to Perfectly Planned Google Meets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/infuse-satire-and-smiles-kapwings-meme-builder/"><u>Infuse Satire & Smiles - Kapwing's Meme Builder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-it-possible-to-transform-single-pages-into-flash-based-books-with-flipbuilder-technology/"><u>Is It Possible to Transform Single Pages Into Flash-Based Books with FlipBuilder Technology?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes-for-2024/"><u>New Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revamp-your-flipbook-appearance-transforming-fonts-and-colors-for-an-impressive-display-on-flipbuildercom/"><u>Revamp Your Flipbook Appearance: Transforming Fonts & Colors for an Impressive Display on FlipBuilder.com</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-a-closer-look-at-avs-video-editor-features-pricing-and-more/"><u>Updated 2024 Approved A Closer Look at AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-impactful-ppt-tutorials-for-online-learning-sessions-for-2024/"><u>[New] Crafting Impactful PPT Tutorials for Online Learning Sessions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method/"><u>[New] In 2024, Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-tiktok-experience-instant-download-savvy/"><u>[Updated] Elevate Your TikTok Experience Instant Download Savvy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-avoiding-malware-while-securing-free-and-safe-vlc-download-on-macos/"><u>[Updated] In 2024, Avoiding Malware While Securing Free & Safe VLC Download on macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-end-to-end-camera-rotation-explained/"><u>[Updated] In 2024, End-to-End Camera Rotation Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-chuckle-cache-uncovering-the-best-twitters-comedy-threads/"><u>2024 Approved Chuckle Cache Uncovering the Best Twitters Comedy Threads</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/achieve-impeccable-macbook-pro-video-capture-expert-tips-and-tricks-for-crystal-clear-results/"><u>Achieve Impeccable MacBook Pro Video Capture: Expert Tips and Tricks for Crystal Clear Results</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-your-videos-seamlessly-experience-the-top-free-flv-to-mp4-converter/"><u>Convert Your Videos Seamlessly: Experience the Top Free FLV-to-MP4 Converter!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/explore-the-best-no-cost-video-meeting-apps-iosandroid-for-2024/"><u>Explore the Best No-Cost Video Meeting Apps - iOS/Android for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-optimize-ifolder-synchronization-with-advanced-filter-settings/"><u>How To Optimize iFolder Synchronization with Advanced Filter Settings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leap-into-instagram-stardom-with-ease/"><u>In 2024, Leap Into Instagram Stardom with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spark-interest-everyones-free-with-our-youtube-banner-samples-in-2024/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples, In 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/the-ultimate-list-of-best-free-and-paid-software-for-making-professional-transparent-pngs-what-you-must-use/"><u>The Ultimate List of Best Free and Paid Software for Making Professional Transparent PNGs: What You Must Use</u></a></li>
 </ul></div>
 

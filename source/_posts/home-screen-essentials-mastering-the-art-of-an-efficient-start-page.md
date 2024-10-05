@@ -1,7 +1,7 @@
 ---
 title: "Home Screen Essentials: Mastering the Art of an Efficient Start Page"
-date: 2024-09-26T12:02:55.905Z
-updated: 2024-09-30T06:34:32.294Z
+date: 2024-10-03T21:54:15.932Z
+updated: 2024-10-05T16:00:39.055Z
 tags:
   - user-guide
 categories:
@@ -107,16 +107,22 @@ Import:
 
 If you need help use the F1 keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new project
 
 Select a project type and press \[Create Project \] or double click on a project type.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Opening a recent or existing project
 
@@ -128,18 +134,18 @@ Enabling "Automatically load most recent project" option skips the Start Page ne
 
 If a project is already open, press the \[Back to project \] button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Message Center
 
 The Message Center keeps you up-to-date with the latest news from Advanced Installer.
 
 ## Options
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the wizard to create the project
 
@@ -148,10 +154,17 @@ Enable this option if you want to create the project using a wizard. More inform
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Not all project templates support disabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -159,13 +172,6 @@ Enable this option if you want to create the project using a wizard. More inform
 Here you can select the language in which the project is created. Additional build languages can be specified later in the [Languages Tab](https://tools.techidaily.com/advancedinstaller/products/) tab, on the[Translation page](https://tools.techidaily.com/advancedinstaller/products/). By default, the drop-down list contains only the languages for which translation dictionaries are registered in Advanced Installer. Additional dictionaries can also be added from this page.
 
 To select a language which doesn't have a translation dictionary, use the “More...” option from the drop-down list to bring up the [Select Language Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -229,20 +235,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-premier-action-cam-editors-and-software/"><u>[New] In 2024, Premier Action Cam Editors and Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[Updated] In 2024, Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-material-ui-kit-pro-edition-by-creative-tim/"><u>Advanced Material UI Kit - Pro Edition by Creative Tim</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-photo-background-blur-apps-for-iphone-and-android-phones-for-2024/"><u>Best Photo Background Blur Apps for iPhone and Android Phones for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-argon-react-native-starterkit-complimentary-boost-for-rapid-prototyping/"><u>Creative Tim's Argon React Native Starterkit: Complimentary Boost for Rapid Prototyping</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-soft-ui-customizable-larvel-backend-with-updivision-collaboration/"><u>Creative Tim's Soft UI: Customizable Larvel Backend with UPDIVISION Collaboration</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-over-3-amazing-vuetifyjs-template-collections-and-design-inspirations-from-creative-tim/"><u>Discover Over 3 Amazing Vuetify.js Template Collections and Design Inspirations From Creative Tim!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/dive-into-a-world-of-innovative-ux-free-material-design-plus-tailwind-css-for-reactive-apps-from-the-experts-at-creative-tim/"><u>Dive Into a World of Innovative UX: Free Material Design + Tailwind CSS for Reactive Apps From the Experts at Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-noto-ui-dashboard-complimentary-wtforms-react-and-material-ui-framework-by-creativetim/"><u>Download Noto UI Dashboard: Complimentary WTForms, React & Material-UI Framework by CreativeTim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-epic-battle-god-of-war-ps4-port-delivers-as-a-stunning-pc-fps-title/"><u>Experience the Epic Battle: God of War PS4 Port Delivers as a Stunning PC FPS Title</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghostwire-tokyo-stability-improvement-no-more-pc-crashes/"><u>Ghostwire: Tokyo Stability Improvement - No More PC Crashes!</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 Premier 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-17-outils-essentiels-pour-optimiser-votre-experience-avec-windows-11-10-8-ou-7/"><u>Top 17 Outils Essentiels Pour Optimiser Votre Expérience Avec Windows 11, 10, 8 Ou 7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors-for-2024/"><u>[Updated] Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[Updated] From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-transcribe-speech-absolutely-gratis/"><u>[Updated] In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/complete-user-manual-mastering-the-use-of-windows-shutdown-utility/"><u>Complete User Manual: Mastering the Use of Windows Shutdown Utility</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/corrupted-file-conversion-basics/"><u>Corrupted File Conversion Basics</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-how-to-set-a-custom-ringtone-on-your-iphone-x/"><u>Easy Steps: How to Set a Custom Ringtone on Your iPhone X</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/hassle-free-guide-speedy-solutions-for-transforming-mov-files-into-mp4-format/"><u>Hassle-Free Guide: Speedy Solutions for Transforming MOV Files Into MP4 Format</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c210-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C210 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sony-xperia-5-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Sony Xperia 5 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-13-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 13</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slime-rancher-2-performance-problems-heres-how-to-address-pc-crashes-and-freezing-issues-effectively/"><u>Slime Rancher 2 Performance Problems? Here's How to Address PC Crashes & Freezing Issues Effectively!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-techniques-for-moving-images-from-your-pixel-3-smartphone-to-a-computer/"><u>Top Techniques for Moving Images From Your Pixel 3 Smartphone to a Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14</u></a></li>
 </ul></div>
 

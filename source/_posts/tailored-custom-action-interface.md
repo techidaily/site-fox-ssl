@@ -1,7 +1,7 @@
 ---
 title: Tailored Custom Action Interface
-date: 2024-09-28T03:52:25.623Z
-updated: 2024-09-29T18:49:45.741Z
+date: 2024-10-01T19:35:25.709Z
+updated: 2024-10-05T18:23:45.683Z
 tags:
   - user-guide
 categories:
@@ -78,53 +78,27 @@ Add [custom actions](https://tools.techidaily.com/advancedinstaller/products/) t
 ![Custom Actions Page](https://cdn.advancedinstaller.com/img/ui/custom-actions-page.png "Custom Actions Page")  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1982499">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installation Stages
 
 In the "Installation Sequence" pane are the installation stages. Each stage contains several standard actions and user defined custom actions.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Filters
 
 You can filter actions depending on their [execution condition](https://tools.techidaily.com/advancedinstaller/products/) by using the filters at the top: **Install**,**Uninstall** or **Maintenance**.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Applying filters does not guarantee the remaining visible custom actions will be executed in the selected scenario (Install, Uninstall or Maintenance). This happens because the custom action condition may evaluate to false at install-time.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Wizard Dialogs Stage
 
@@ -149,13 +123,6 @@ The action groups from this stage are:
 * **Add Resources** \- All resources are installed on the target machine.
 * **Finish Execution** \- Executes all deferred, rollback, commit actions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Finish Dialogs Stage
 
 Actions from this stage are executed last in the installation after the_Install Execution Stage_ once the progress is complete.
@@ -174,27 +141,20 @@ Actions from this stage are executed last in the installation after the_Install 
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg) Moving a standard action into a wrong place can break your installation. Organizing standard actions is reserved for advanced users with deep Windows Installer knowledge.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Custom Actions Tab
 
 In this tab from the bottom left pane you can filter using keywords to search among[available custom actions](https://tools.techidaily.com/advancedinstaller/products/). See the selected custom action's description in the bottom text area.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Operations
 
 ![Add custom action with sequence](https://cdn.advancedinstaller.com/img/articles/cogs.png "Add custom action with sequence") **Add custom action with sequence** \- The sequence will be placed in a default location appropriate for the type of custom action you are inserting. You can then move it to a more refined location.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Cog](https://cdn.advancedinstaller.com/img/articles/cog.png "Cog") **Add custom action without sequence** \- This is useful if you wish to launch this custom action through an Execute custom action event in Dialogs page. Without any event as trigger, the custom action will never be executed.
 
@@ -202,37 +162,65 @@ In this tab from the bottom left pane you can filter using keywords to search am
 
 This tab lists all custom actions added to the project (with and without sequence). Custom actions that are executed from other custom actions already added to the project are also added here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Custom Action Properties
 
 In the right-side pane you can see all the [Custom Action Properties](https://tools.techidaily.com/advancedinstaller/products/) for the one selected in the installation stage.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Toolbar Operations
 
 ![New Custom Action Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Custom Action Wizard")**Creating a new custom action using a wizard** \- Use the \[New Custom Action Wizard \] toolbar button, to quickly and easily create a new custom action, following step-by-step directions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![New Attached Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-attached-new.png "New Attached Custom Action")**Adding a custom action to be run from a file attached to the installation** \- Use the \[Launch attached file \] toolbar button, add it from the _Add Custom Action Tab_ or press the Insert key while the “Installation Stages” panel is focused. An "Open File" dialog will appear and you can choose the custom action file from your disk. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![New Installed Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-installed-new.png "New Installed Custom Action")**Adding a custom action to be run from an installed file** \- Use the \[Launch installed file \] toolbar button, add it from the _Add Custom Action Tab_ or press the + key while the “Installation Stages” panel is focused. An [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear and it will allow you to select a file only from your project. 
 
 ![New Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-new.png "New Custom Action")**Adding a Windows Installer custom action** \- To create a new Windows Installer custom action select an installation stage by clicking on it, then use the \[New Custom Action \] toolbar button or add it from the _Add Custom Action Tab_.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Show Standard Action](https://cdn.advancedinstaller.com/img/toolbar/show-standard-action.png "Show Standard Action")**Showing Standard Actions** \- To show a standard action select an installation stage by clicking on it, then use the \[Show Standard Action \] toolbar button or context menu item. This operation is recommended only to advanced users so that they can condition or organize standard actions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")**Removing a custom action** \- Use the \[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while the “Install Sequence” panel is focused. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Custom Action Return Code
 
@@ -282,16 +270,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-combat-profiles-hitbox-vs-streamer-supremacy-for-2024/"><u>[New] Combat Profiles Hitbox vs Streamer Supremacy for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>[Updated] The Art of iPhone Photography Top 10 Visual Arrangement Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-power-of-partnerships-youtube-ads-with-a-famebit-edge/"><u>[Updated] Unlock the Power of Partnerships YouTube Ads with a FameBit Edge</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-integration-starter-kit-with-customizable-landing-pages-by-creative-tim/"><u>Free NextJS and Tailwind Integration Starter Kit with Customizable Landing Pages by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-reactive-ui-dashboard-with-argon-and-material-ui-integration-by-creative-tim/"><u>Free Reactive UI Dashboard with Argon and Material-UI Integration by Creative Tim</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-gionee-f3-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Gionee F3 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/innovative-bootstrap-angular-admin-panel-and-dashboard-design-by-creative-tim-exceeds-11-features/"><u>Innovative Bootstrap Angular Admin Panel & Dashboard Design by Creative Tim - Exceeds 11 Features</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/modern-bootstrap-control-center-no-cost-bootstrap-4-management-theme-from-creative-tim/"><u>Modern Bootstrap Control Center: No-Cost Bootstrap 4 Management Theme From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/next-level-productivity-nuxt-dashboard-pro-v2-featuring-argon-and-seamless-laravel-support-designed-by-creative-tim/"><u>Next-Level Productivity: Nuxt Dashboard PRO v2 Featuring Argon & Seamless Laravel Support | Designed by Creative Tim</u></a></li>
-<li><a href="https://app-tips.techidaily.com/rethinking-microsoft-how-redirecting-their-approach-can-enhance-user-experience-and-satisfaction/"><u>Rethinking Microsoft: How Redirecting Their Approach Can Enhance User Experience and Satisfaction</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-essentials-of-creating-and-curating-instagram-highlights/"><u>2024 Approved The Essentials of Creating and Curating Instagram Highlights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/diving-into-galactic-warfare-an-in-depth-analysis-of-star-wars-squadrons/"><u>Diving Into Galactic Warfare: An In-Depth Analysis of Star Wars: Squadrons</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/download-free-pc-video-editor-convert-videos-on-windows-at-no-cost/"><u>Download Free PC Video Editor: Convert Videos on Windows at No Cost</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on U23 Pro?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-low-cost-footage-source-directory/"><u>In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>In 2024, How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/macs-best-choices-for-mkv-file-viewing-for-2024/"><u>Mac's Best Choices for MKV File Viewing for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamline-your-real-estate-operations-with-ipropertycomponents/"><u>Streamline Your Real Estate Operations with IPropertyComponents</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-hidden-touchpad-in-device-managers-depths/"><u>Unlock Hidden Touchpad in Device Manager's Depths!</u></a></li>
 </ul></div>
 

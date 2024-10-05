@@ -1,7 +1,7 @@
 ---
 title: Optimal Vehicle Control Preferences
-date: 2024-09-27T06:47:05.845Z
-updated: 2024-09-30T12:31:23.809Z
+date: 2024-10-02T18:27:46.807Z
+updated: 2024-10-05T16:54:12.181Z
 tags:
   - user-guide
 categories:
@@ -76,26 +76,26 @@ Table of Contents
 
 ![Driver settings](https://cdn.advancedinstaller.com/img/ui/driver-settings.png "Driver settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Force the installation of a new PnP function driver on a device
 
  This option forces the driver's installation even if a newer driver version is already present on the target machine. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Do not prompt the user to connect the device to the computer
 
  If the device that the driver controls cannot be detected Windows will ask the user to connect it. This option prevents this behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not create an Add or Remove Programs entry for the component
@@ -103,28 +103,28 @@ Table of Contents
  This option prevents the creation of a separate entry in the Add or Remove Programs list for the driver. The user can remove the driver only by uninstalling the whole product. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install unsigned driver packages and driver packages that have missing files
 
  This option will force the driver's installation even is the driver is unsigned or some of the files mentioned in the INF file are not found in the project. Advanced Installer will automatically check this option if it detects missing files. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On uninstall remove the binary files that where copied to the system when installed
 
  By default, the driver's binary files are not removed from the system when the product is uninstalled. This option prevents this.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Use this option with caution, to avoid removing files that may still be used by other programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -159,18 +159,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fuel-ambition-with-these-10-movie-masterpieces/"><u>[New] Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-essential-strategies-for-uploading-to-instagram-tv/"><u>[Updated] Essential Strategies for Uploading to Instagram TV</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-underappreciated-film-phenoms-of-this-year/"><u>2024 Approved The Underappreciated Film Phenoms of This Year</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/a-step-by-step-guide-to-linking-pages-within-an-interactive-ebook-on-flipbuildercom/"><u>A Step-by-Step Guide to Linking Pages Within an Interactive Ebook on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-your-books-online-presence-create-a-social-sharing-ebook-with-flipbuilder/"><u>Boost Your Book's Online Presence: Create a Social Sharing EBook with FlipBuilder</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-enhancements-for-high-quality-gopros-for-2024/"><u>Elite Enhancements for High-Quality GoPros for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-pathway-to-popularity-strategies-for-soaring-viewership/"><u>In 2024, The Pathway to Popularity Strategies for Soaring Viewership</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-look-into-pc-components-with-toms-hardware-experts/"><u>In-Depth Look Into PC Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/modern-bootstrap-control-center-no-cost-bootstrap-4-management-theme-from-creative-tim/"><u>Modern Bootstrap Control Center: No-Cost Bootstrap 4 Management Theme From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/next-level-productivity-nuxt-dashboard-pro-v2-featuring-argon-and-seamless-laravel-support-designed-by-creative-tim/"><u>Next-Level Productivity: Nuxt Dashboard PRO v2 Featuring Argon & Seamless Laravel Support | Designed by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/professional-gaia-bootstrap-pro-template-by-creative-tim-complete-web-design-suite/"><u>Professional Gaia Bootstrap Pro Template by Creative Tim - Complete Web Design Suite</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/react-admin-creators-ultimate-toolkit-explore-the-no-cost-bootstrap-4-enhanced-ui-dashboard-by-creative-tim/"><u>React Admin Creator's Ultimate Toolkit: Explore the No-Cost, Bootstrap 4 Enhanced UI Dashboard by Creative Tim</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-saving-your-iphone-screen-a-step-by-step-approach/"><u>[New] Saving Your iPhone Screen A Step-by-Step Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-nine-effective-ways-to-record-system-audio-and-mic-outputs/"><u>[Updated] 2024 Approved Nine Effective Ways to Record System Audio & Mic Outputs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>[Updated] In 2024, The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-scenes-into-memorable-moments-your-comprehensive-guide-to-gopro-timelapses/"><u>2024 Approved Transform Scenes Into Memorable Moments Your Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-display-glitch-resolved-methods-to-correct-vertically-reversed-videos/"><u>ASUS Laptop Display Glitch Resolved: Methods to Correct Vertically Reversed Videos</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-editing-event-handlers-in-the-windows-dialog-box-interface/"><u>Guide to Editing Event Handlers in the Windows Dialog Box Interface</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-limit-your-time-on-facebook/"><u>How to Limit Your Time on Facebook</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/improved-techniques-in-detecting-installed-file-updates/"><u>Improved Techniques in Detecting Installed File Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-essential-fixes-for-all-models/"><u>Mastering iPhone Maintenance: 15 Essential Fixes for All Models</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-methods-for-projecting-your-ios-device-onto-a-tv-without-using-apples-hardware/"><u>Simple Methods for Projecting Your iOS Device Onto a TV without Using Apple's Hardware</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-moving-your-favorite-tunes-from-computer-to-iphone-8/"><u>Step-by-Step Guide: Moving Your Favorite Tunes From Computer to iPhone 8</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-environment-variables-a-comprehensive-guide/"><u>Understanding Environment Variables: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance Usability with Custom Frame Adjustments in Application Setup Wizards
-date: 2024-09-22T16:51:43.808Z
-updated: 2024-09-30T06:27:53.562Z
+date: 2024-10-02T20:27:01.017Z
+updated: 2024-10-05T16:24:29.847Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ The frame is split into parts, and each part has a predefined property and image
  The image format is bitmap. RGB(255, 0, 255) color is considered as transparent color. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing a dialog window
@@ -126,10 +126,10 @@ The frame is split into parts, and each part has a predefined property and image
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) To set this types of properties go to [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page and sequence a "Set installer property" custom action before "Wizard Dialogs Stage > Searches". 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To customize the frame of a dialog, follow these steps:
@@ -181,22 +181,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-2019-game-changer-in-vegaspro/"><u>[New] 2024 Approved The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-integrating-social-features-for-playlist-dissemination/"><u>[New] Integrating Social Features for Playlist Dissemination</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-gamers-paradise-our-candidate-7-best-fps-titles/"><u>[Updated] 2024 Approved Gamer's Paradise Our Candidate 7 Best FPS Titles</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-pro-3-the-new-standard-for-action-video-recording-by-ion/"><u>[Updated] 2024 Approved Pro 3 - The New Standard for Action Video Recording by ION</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-guide-how-to-safely-convert-and-download-drakes-music-in-various-formats-mp3-flac-wav/"><u>1. Ultimate Guide: How To Safely Convert and Download Drake's Music in Various Formats (MP3, FLAC, WAV)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-se-2020-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone SE (2020)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/allavsoft-the-ultimate-replacement-for-snaptube-on-both-pc-and-mac-platforms/"><u>Allavsoft: The Ultimate Replacement for SnapTube on Both PC & Mac Platforms</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/complete-tutorial-on-securely-saving-dailymotion-content-offline-at-no-cost/"><u>Complete Tutorial on Securely Saving Dailymotion Content Offline at No Cost</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-your-youtube-playlist-downloads-into-high-quality-audio-and-video-files-windows-and-macos/"><u>Convert Your YouTube Playlist Downloads Into High-Quality Audio and Video Files - Windows & macOS</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-and-extract-high-quality-youtube-videos-mp4-avi-effortlessly-with-our-tool/"><u>Download & Extract High-Quality YouTube Videos (MP4, AVI) Effortlessly with Our Tool !</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-high-quality-mp4s-from-franklincovery-with-the-ultimate-video-converter/"><u>Download High-Quality MP4s From FranklinCovery with the Ultimate Video Converter</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-high-resolution-videos-in-4k-from-youtube-using-your-pc-or-laptop/"><u>Download High-Resolution Videos in 4K From YouTube Using Your PC or Laptop</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-professional-salsaindy-latin-moves-hd-video-library-mp4-mov-avi-wmv/"><u>Download Professional SalsaIndy Latin Moves HD Video Library (MP4, MOV, AVI, WMV)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-a78-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo A78</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/finding-the-best-4k-monitors-1-10-rankings/"><u>Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y77t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y77t</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-2021s-best-screen-capture-tools-roundup-for-2024/"><u>The 2021'S Best Screen Capture Tools Roundup for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-visual-glitches-solved-how-to-overcome-the-pitch-black-error/"><u>Cyberpunk 2077 Visual Glitches Solved – How to Overcome the Pitch-Black Error</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-methods-for-syncing-iphone-content-with-windows-11-a-comprehensive-tutorial/"><u>Efficient Methods for Syncing iPhone Content with Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-strategies-for-flawless-data-management-with-samsung-kies-a-comprehensive-backup-restore-handbook/"><u>Expert Strategies for Flawless Data Management with Samsung Kies: A Comprehensive Backup-Restore Handbook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-magic-6-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor Magic 6 for Free? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-crafting-engaging-and-dynamic-web-pages/"><u>Mastering the Art of Crafting Engaging and Dynamic Web Pages</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-frame-drops-and-performance-lags-in-outriders/"><u>Resolved: Fixing Frame Drops and Performance Lags in Outriders</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/switching-your-pcs-primary-money-symbol-a-guide-from-usd-to-eur/"><u>Switching Your PC's Primary Money Symbol: A Guide From USD to EUR</u></a></li>
 </ul></div>
 

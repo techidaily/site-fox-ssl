@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering IBaseShortcuts
-date: 2024-09-27T02:52:53.420Z
-updated: 2024-09-30T06:32:15.251Z
+date: 2024-10-04T17:45:35.454Z
+updated: 2024-10-05T22:05:53.796Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface, you can edit the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface, you can edit the shortcut.
 IBaseShortcut : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +162,10 @@ IBaseShortcut : IDirectoryMember
 **IFile Target** \- Gets the target file for the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -179,10 +179,10 @@ IBaseShortcut : IDirectoryMember
 ![Ishortcut](https://cdn.advancedinstaller.com/img/powershell-automation/ishortcut.png "Ishortcut")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -218,21 +218,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-transforming-chats-with-animated-gifs-a-complete-walkthrough-for-snapchat/"><u>[New] In 2024, Transforming Chats with Animated Gifs – A Complete Walkthrough for Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-top-10-flv-to-youtube-conversion-tools-for-2024/"><u>[Updated] Discover Top 10 Flv-to-YouTube Conversion Tools for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>2024 Approved Mastering Chronos Shifts Using Phantom's Time-Reversed Footage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mkv-playback-mac-app-selection-guide/"><u>2024 Approved MKV Playback Mac App Selection Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/a-step-by-step-guide-to-linking-pages-within-an-interactive-ebook-on-flipbuildercom/"><u>A Step-by-Step Guide to Linking Pages Within an Interactive Ebook on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/celebrating-redditenas-top-ten-upvoted-discussions/"><u>Celebrating Reddit'enas Top Ten Upvoted Discussions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-reactive-ui-dashboard-with-argon-and-material-ui-integration-by-creative-tim/"><u>Free Reactive UI Dashboard with Argon and Material-UI Integration by Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-m34-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy M34?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/innovative-bootstrap-angular-admin-panel-and-dashboard-design-by-creative-tim-exceeds-11-features/"><u>Innovative Bootstrap Angular Admin Panel & Dashboard Design by Creative Tim - Exceeds 11 Features</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/modern-bootstrap-control-center-no-cost-bootstrap-4-management-theme-from-creative-tim/"><u>Modern Bootstrap Control Center: No-Cost Bootstrap 4 Management Theme From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/next-level-productivity-nuxt-dashboard-pro-v2-featuring-argon-and-seamless-laravel-support-designed-by-creative-tim/"><u>Next-Level Productivity: Nuxt Dashboard PRO v2 Featuring Argon & Seamless Laravel Support | Designed by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/professional-gaia-bootstrap-pro-template-by-creative-tim-complete-web-design-suite/"><u>Professional Gaia Bootstrap Pro Template by Creative Tim - Complete Web Design Suite</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/react-admin-creators-ultimate-toolkit-explore-the-no-cost-bootstrap-4-enhanced-ui-dashboard-by-creative-tim/"><u>React Admin Creator's Ultimate Toolkit: Explore the No-Cost, Bootstrap 4 Enhanced UI Dashboard by Creative Tim</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-x-fold-2-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo X Fold 2</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-effective-system-to-integrate-gopro-video-into-fully-rotational-cinematic-pieces/"><u>[New] Effective System to Integrate GoPro Video Into Fully Rotational Cinematic Pieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-powerful-storytelling-through-screencasts/"><u>[New] In 2024, Unlocking Powerful Storytelling Through Screencasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[New] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-no-cost-audio-archives-for-professional-youtube-makers/"><u>[Updated] 2024 Approved No-Cost Audio Archives for Professional YouTube Makers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-free-and-premium-tools-for-effortless-signature-background-removal/"><u>1. Top Free and Premium Tools for Effortless Signature Background Removal</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-managing-and-resolving-issue-panes-efficiently/"><u>Effective Strategies for Managing and Resolving Issue Panes Efficiently</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhance-system-compatibility-checks-with-iupdateinstalledbasedetector/"><u>Enhance System Compatibility Checks with IUpdateInstalledBaseDetector</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-starting-strong-key-equipment-for-youtube-success/"><u>In 2024, Starting Strong Key Equipment for YouTube Success</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/solving-your-youtube-video-buffering-and-stuttering-problems-a-comprehensive-guide/"><u>Solving Your YouTube Video Buffering & Stuttering Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-creme-de-la-creme-of-cordless-telecommunication-gadgets/"><u>Unveiling the Crème De La Crème of Cordless Telecommunication Gadgets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-pc-with-new-nvidia-geforce-gtx-980-ti-driver-free-download/"><u>Upgrade Your PC with New NVIDIA GeForce GTX 980 Ti Driver [Free Download]</u></a></li>
 </ul></div>
 

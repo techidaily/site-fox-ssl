@@ -1,7 +1,7 @@
 ---
 title: Default Text Configuration Options
-date: 2024-09-29T11:08:06.376Z
-updated: 2024-09-29T17:12:24.747Z
+date: 2024-10-02T21:23:43.262Z
+updated: 2024-10-05T16:27:08.855Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Default strings can be used in subsequent projects, and their[localization ident
 
 ![Default strings tab](https://cdn.advancedinstaller.com/img/ui/default-strings-tab.png "Default strings tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Project Strings
 
 In this section, you can provide translations for untranslated default strings or change translated default strings. To edit a cell double-click it.
@@ -93,26 +86,33 @@ In this section, you can provide translations for untranslated default strings o
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Changes made to the texts are marked with a green outline, which disappears after saving. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store changes to repository
 
 Save changes to your repository. Each language will be stored in separate dictionaries.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Store changes to a specific location
 
 Save changes as a dictionary file to a specific location on your computer. All languages will be stored in a single dictionary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Inspect repository
 
@@ -121,10 +121,10 @@ Manage dictionaries with the [Repository Manager](https://tools.techidaily.com/a
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)We will gladly offer you a free license if you help us with missing translations. To contact us regarding this, just use the**Send to Advanced Installer team** item from the [Repository Manager](https://tools.techidaily.com/advancedinstaller/products/) \> Dictionaries tab context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -160,18 +160,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-best-vr-equipment-enhancing-flight-control/"><u>[New] Best VR Equipment Enhancing Flight Control</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-premium-and-basic-win-driven-design-applications-guide/"><u>[New] Premium & Basic Win-Driven Design Applications Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>[New] Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-sparking-interest-with-the-top-8-most-effective-youtube-thumbnails/"><u>[Updated] 2024 Approved Sparking Interest with the Top 8 Most Effective YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ideal-6-networks-for-thriving-business-ventures/"><u>[Updated] In 2024, Ideal 6 Networks for Thriving Business Ventures</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-buy-and-activate-mirallis-offerings-a-comprehensive-guide/"><u>How To Buy & Activate Mirallis Offerings: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-picture-perfect-your-essential-guide-to-uploading-on-youtube/"><u>In 2024, Picture Perfect Your Essential Guide to Uploading on YouTube</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-a60s-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel A60s FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-showdown-evaluating-the-features-of-ps5-slim-and-original-ps5/"><u>PS5 Showdown: Evaluating the Features of PS5 Slim and Original PS5</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-guide-on-transferring-your-favorite-spotify-tracks-onto-a-cd/"><u>Simple Guide on Transferring Your Favorite Spotify Tracks Onto a CD</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-create-a-youtube-video-recording-with-the-action-effect/"><u>Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-time-lapse-tales-smartphone-storytelling-techniques/"><u>[New] Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-first-steps-in-using-zooms-group-rooms/"><u>[Updated] 2024 Approved First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-youtube-video-editing-software-top-picks/"><u>Best Free YouTube Video Editing Software - Top Picks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-navigation-and-multitasking-master-phone-usage-while-driving-with-geolocation-features-and-task-organization-insights-from-the-abbyy-blog/"><u>Effective Navigation & Multitasking: Master Phone Usage While Driving with Geolocation Features & Task Organization - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-methods-for-syncing-iphone-content-with-windows-11-a-comprehensive-tutorial/"><u>Efficient Methods for Syncing iPhone Content with Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-strategies-for-flawless-data-management-with-samsung-kies-a-comprehensive-backup-restore-handbook/"><u>Expert Strategies for Flawless Data Management with Samsung Kies: A Comprehensive Backup-Restore Handbook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-blaze-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Blaze Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-free-mov-video-rotators/"><u>New Discover the Best Free MOV Video Rotators</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimizing-xml-data-retrieval-mastering-ixmlsearch-methods/"><u>Optimizing XML Data Retrieval: Mastering IXMLSearch Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-language-models-introducing-palm-2-by-google/"><u>The Evolution of Language Models: Introducing PaLM 2 by Google</u></a></li>
 </ul></div>
 

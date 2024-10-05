@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Crafting Engaging and Dynamic Web Pages
-date: 2024-09-24T07:21:24.330Z
-updated: 2024-09-29T22:46:55.781Z
+date: 2024-09-28T20:46:42.548Z
+updated: 2024-10-05T17:33:55.188Z
 tags:
   - user-guide
 categories:
@@ -114,27 +114,40 @@ You can exclude the following project items from a build:
 * Launch Conditions
 * Searches
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new build
 
 ![New Build](https://cdn.advancedinstaller.com/img/toolbar/new-build.png "New Build") Use the toolbar buttons or the “New” context menu option. You will have the choice to create a **MSI Build**, **Mac OS X Build**,**App-V 4.x Build**, **App-V 5.x Build**,**ThinApp Build** or **MSIX/APPX Build**. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can create an MSI Build by pressing theInsert key, while the "Builds" panel is focused.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can add only one Mac OS X Build.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Duplicating a build
 
@@ -144,26 +157,27 @@ You can exclude the following project items from a build:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can not duplicate a Mac OS X Build.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Building the selected package
 
 Use the “Build” context menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Rebuilding the selected package
 
 Use the “Rebuild” context menu option in order to perform a clean build, without using cached archives.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Running the selected package
 
@@ -174,10 +188,10 @@ Use the “Run” context menu option in order to launch the installation packag
 Use the “Run and Log” context menu option in order to launch the installation package and display the resulting Windows Installer log in the "Run Log" Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Running the project in a virtual machine
@@ -190,19 +204,6 @@ Use the “Run in VM” context menu option to test the installation by running 
 
 This option builds and repackages the selected build, then it compares the results with the original capture. When capturing the selected build, the option uses the same repackaging settings as the ones for the original capture.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Renaming a build
 
 Use the “Rename” context menu option or press theF2 key while a build is selected. 
@@ -210,13 +211,6 @@ Use the “Rename” context menu option or press theF2 key while a build is sel
 ### Deleting a build
 
 ![Delete build](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Delete build")Use the \[Delete \] toolbar button or the “Delete” context menu option or press the Del key while a build is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Specifying the builds' order
 
@@ -286,20 +280,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>[New] Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>[Updated] Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-the-mold-how-to-create-a-standout-youtube-channel-name/"><u>[Updated] In 2024, Breaking the Mold How to Create a Standout YouTube Channel Name</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-10-switch-knockouts-the-ultimate-list/"><u>[Updated] Top 10 Switch Knockouts The Ultimate List</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-guide-to-saving-movies-and-shows-from-atresplayer-for-windows-and-macos-users/"><u>Easy Guide to Saving Movies and Shows From Atresplayer for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-guide-converting-your-favorite-spotify-tracks-into-popular-audio-formats-like-aac-mp3-and-more/"><u>Easy Guide: Converting Your Favorite Spotify Tracks Into Popular Audio Formats Like AAC, MP3 & More</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-techniques-for-downloading-and-transforming-vimeo-media-into-mp3-audios/"><u>Efficient Techniques for Downloading and Transforming Vimeo Media Into MP3 Audios</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-to-downloading-and-converting-school-of-podcasting-shows-to-mp3wav-files-for-better-sound-quality/"><u>Guide to Downloading and Converting School of Podcasting Shows to MP3/WAV Files for Better Sound Quality</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-converting-6play-media-files-into-various-formats-like-mp4-avi-and-mov/"><u>Guide: Converting 6Play Media Files Into Various Formats Like MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-downloading-charlie-rose-show-episodes-as-mp4-or-mov-files-for-mac-and-pc-users/"><u>Guide: Downloading Charlie Rose Show Episodes as MP4 or MOV Files for Mac & PC Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-elite-narratives-from-cinemas-broad-spectrum/"><u>In 2024, Elite Narratives From Cinema's Broad Spectrum</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterclass-in-microsoft-essential-gratis-tools-for-win11/"><u>Masterclass in Microsoft: Essential Gratis Tools for Win11</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-with-strands-nyts-word-puzzle/"><u>The Ultimate Guide to Engaging with 'Strands', NYT's Word Puzzle</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-data-efficiency-enabledisable-ntfs-compaction/"><u>Unleashing Data Efficiency: Enable/Disable NTFS Compaction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-tips-to-maximize-creativity-and-efficiency-in-obs-edits/"><u>[New] Expert Tips to Maximize Creativity and Efficiency in OBS Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-explore-2023-finding-out-what-youve-lately-watched-on-fb-for-2024/"><u>[Updated] Explore 2023 Finding Out What You've Lately Watched on Fb for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>2024 Approved Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/8-apps-for-changing-the-createdmodified-date-on-a-file-on-windows/"><u>8 Apps for Changing the Created/Modified Date on a File on Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-2024-screen-mirroring-solutions-top-5-pick/"><u>Best 2024 Screen Mirroring Solutions: Top 5 Pick</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-no-cost-android-scanner-software-a-trustworthy-choice/"><u>Best No-Cost Android Scanner Software: A Trustworthy Choice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/complete-step-by-step-wsl-removal-procedure/"><u>Complete Step-by-Step WSL Removal Procedure</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhancing-itext-documents-with-update-features-tips-and-tricks/"><u>Enhancing iText Documents with Update Features: Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-an-apple-genius-bar-appointment/"><u>How to Make an Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-side-content-a-filmmakers-guide/"><u>In 2024, Incorporating Side Content A Filmmaker's Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/inlibrary-file-a-comprehensive-guide/"><u>InLibrary File: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-neighborhoods-purpose-and-participants/"><u>Navigating Facebook Neighborhoods: Purpose & Participants</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimize-your-programs-with-advanced-assembly-attributes-settings-interface/"><u>Optimize Your Programs with Advanced Assembly Attributes Settings Interface</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-troubleshooting-common-sound-problems/"><u>Resident Evil Village - Troubleshooting Common Sound Problems</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamlining-update-processes-with-the-advanced-iupdatercomponent-module/"><u>Streamlining Update Processes with the Advanced IUpdaterComponent Module</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-quality-e-learning-sites-for-skill-development/"><u>Top Quality E-Learning Sites for Skill Development</u></a></li>
 </ul></div>
 

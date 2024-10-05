@@ -1,7 +1,7 @@
 ---
 title: "2. Application Preferences Dashboard: Tailor Your Software Environment"
-date: 2024-09-23T08:24:38.681Z
-updated: 2024-09-30T04:39:20.226Z
+date: 2024-10-02T18:29:42.903Z
+updated: 2024-10-05T17:50:07.011Z
 tags:
   - user-guide
 categories:
@@ -82,46 +82,46 @@ This page allows you to specify settings for the application that is launched by
 
 ## Properties
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Task Name
 
 Specify the task name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this string.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a task with this name already exists on the target computer the Task Name will be prefixed with the underscore character (\_).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 Specify the folder in the Windows Task Scheduler Library in which the task will be created.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comments
 
 Additional comments for the task. This string is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Install Condition
 
 This condition is evaluated when the package is installed and based on the result the task will be created or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Application
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run
 
@@ -130,6 +130,13 @@ Specify the application that should be run by the scheduled task.
 ### Command Line
 
 Command line options for the launched application. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Working Folder
 
@@ -152,13 +159,6 @@ Specify the behavior if the executable is already running:
 * Do not start a new instance
 * Stop the existing instance
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Stop if runs longer then...
 
 In this field you can specify a time interval for a continous run of the task
@@ -175,10 +175,10 @@ Additional settings for the scheduled task:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a task is configured for Windows Vista, Windows 7 then this task will not be compatible with OSs below Windows Vista.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -214,18 +214,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-news.techidaily.com/2-instant-access-to-premium-hits-from-soundcloud-download-your-favorites-without-cost/"><u>2) Instant Access to Premium Hits From SoundCloud – Download Your Favorites Without Cost!</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyyocr/"><u>ABBYY組み込みOCR採用：東芝テックの新シリーズ印刷機</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-the-best-iphones-for-a-superior-gaming-experience/"><u>Comparing the Best iPhones for a Superior Gaming Experience</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-the-complimentary-argon-nodejs-dashboard-enhanced-project-insights-from-creative-tim/"><u>Download the Complimentary Argon Node.js Dashboard - Enhanced Project Insights From Creative Tim</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/elevate-your-live-broadcasts-with-manycam-advanced-virtual-cam-capabilities-and-superior-video-recording-tools/"><u>Elevate Your Live Broadcasts with ManyCam: Advanced Virtual Cam Capabilities and Superior Video Recording Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elite-creators-toolkit-revealed-advanced-integration-with-bootstrap-extreme-reactstrap-and-elegant-paper-styles-from-creative-tim-pro-edition/"><u>Elite Creator's Toolkit Revealed: Advanced Integration with Bootstrap eXtreme, Reactstrap and Elegant Paper Styles From Creative Tim - PRO Edition!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/explore-over-60-inspiring-ui-elements-fonts-and-color-palettes-from-argon-in-creative-tims-resource-hub/"><u>Explore Over 60 Inspiring UI Elements, Fonts & Color Palettes From Argon in Creative Tim’s Resource Hub</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-design-masterclass-get-started-with-our-expert-created-template-by-creative-tim/"><u>Free NextJS & Tailwind Design Masterclass: Get Started with Our Expert-Created Template by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-integration-starter-kit-with-customizable-landing-pages-by-creative-tim/"><u>Free NextJS and Tailwind Integration Starter Kit with Customizable Landing Pages by Creative Tim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-xiaomi-14-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Xiaomi 14 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G73 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-full-review-of-picsart-app-a-step-by-step-guide/"><u>In 2024, Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>[New] Streamline Stress Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhancing-follows-into-genuine-subscriptions/"><u>[Updated] 2024 Approved Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expert-strategies-for-vocal-identity-on-instagram-for-2024/"><u>[Updated] Expert Strategies for Vocal Identity on Instagram for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-streaming-showdown-whos-the-champion-for-2024-obs-or-shadowgl/"><u>[Updated] Screen Streaming Showdown Who's the Champion for 2024 OBS or ShadowGL?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS Max</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-to-configuring-your-xml-data-integration-tab/"><u>Comprehensive Guide to Configuring Your XML Data Integration Tab</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-management-of-app-v-5-series-tabs-a-comprehensive-guide/"><u>Efficient Management of App-V 5 Series Tabs: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-streets-cyberpunk-2077-audio-issues-on-windows-11/"><u>Fixing Silent Streets: Cyberpunk 2077 Audio Issues on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-epson-es-400-scanning-software-installed-on-your-pc-windows/"><u>How to Get the Latest Epson ES-400 Scanning Software Installed on Your PC (Windows)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-up-to-date-pl2303-driver-software-on-your-pc-free-download/"><u>Install Up-to-Date PL2303 Driver Software on Your PC - Free Download</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-recording-and-sharing-voice-calls-on-your-iphone/"><u>Mastering the Art of Recording & Sharing Voice Calls on Your iPhone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
 </ul></div>
 

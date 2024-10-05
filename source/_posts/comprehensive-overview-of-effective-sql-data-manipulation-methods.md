@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Overview of Effective SQL Data Manipulation Methods
-date: 2024-09-26T11:27:31.558Z
-updated: 2024-09-29T21:17:42.181Z
+date: 2024-09-29T18:00:53.861Z
+updated: 2024-10-05T17:25:06.806Z
 tags:
   - user-guide
 categories:
@@ -86,13 +86,6 @@ Follow the video tutorial to see a basic working sample:
 
 ![New SQL Server Browse](https://cdn.advancedinstaller.com/img/toolbar/new-sql-servers-browse.png "New SQL Server Browse")To create a new SQL Server Browse operation use the\[Browse SQL Servers \] toolbar button or the “New SQL Operation > Browse SQL Servers” context menu item.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new Browse SQL Databases operation
 
 ![New SQL Database Browse](https://cdn.advancedinstaller.com/img/toolbar/new-sql-databases-browse.png "New SQL Database Browse")To create a new SQL Database Browse operation use the\[Browse SQL Databases \] toolbar button or the “New SQL Operation > Browse SQL Databases” context menu item.
@@ -106,17 +99,23 @@ Use the “Rename” context menu item or press theF2 key while a browse operati
 ![Delete](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Delete")Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while a browse operation is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Testing SQL connections
@@ -124,10 +123,17 @@ Use the “Rename” context menu item or press theF2 key while a browse operati
 ![Test SQL Connection](https://cdn.advancedinstaller.com/img/toolbar/test-sql-connection.png "Test SQL Connection")To test an SQL connection use the \[Test SQL Connection \] toolbar button or the “New SQL Operation > Test SQL Connections” context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -172,18 +178,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pro-rated-webcam-recording-on-windows-10-for-2024/"><u>[New] Pro-Rated Webcam Recording on Windows 10 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-blueprint-optimizing-your-experience-with-mobizen-recorders/"><u>[Updated] 2024 Approved Expert Blueprint Optimizing Your Experience with Mobizen Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boosting-view-speed-for-instagram-media-content-for-2024/"><u>[Updated] Boosting View Speed for Instagram Media Content for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-top-10-accelerating-youtube-platforms-for-motivation-and-inspiration-for-2024/"><u>[Updated] The Top 10 Accelerating YouTube Platforms for Motivation and Inspiration for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-through-a-headsets-lens-a-history-of-vr/"><u>[Updated] Through a Headset's Lens A History of VR</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-integrity-in-ai-generated-content/"><u>Ensuring Integrity in AI-Generated Content</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-guide-to-image-resizing-and-preparation-for-flipbook-creation-with-flipbuilder/"><u>Essential Guide to Image Resizing and Preparation for Flipbook Creation with FlipBuilder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-turning-off-synchronized-dialogue-on-prime-video-streams/"><u>Guide: Turning Off Synchronized Dialogue on Prime Video Streams</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-can-i-accelerate-my-flipoffice-pro-upgrade-with-the-express-path-at-flipbuildercom/"><u>How Can I Accelerate My FlipOffice Pro Upgrade with the Express Path at FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-craft-a-diy-spiral-photo-book-using-traditional-prints-and-flipbuilder/"><u>How to Craft a DIY Spiral Photo Book Using Traditional Prints and FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-enable-zooming-on-both-sides-in-a-flip-pdf-using-flipbuilder/"><u>How to Enable Zooming on Both Sides in a Flip PDF Using FlipBuilder</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-free-video-text-dynamics-for-2024/"><u>Mastering FREE Video Text Dynamics for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-developer-unverified-hindrance-a-guide-to-overcoming-mac-errors/"><u>Resolving 'Developer Unverified' Hindrance: A Guide to Overcoming Mac Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-direct-methods-to-record-virtual-meetings/"><u>[New] Direct Methods to Record Virtual Meetings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-minefield-suddenly-banned-videos-on-social-media-for-2024/"><u>[Updated] Navigating the Minefield Suddenly Banned Videos on Social Media for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/action-cam-showdown-gopro-vs-yi-technology-review-for-2024/"><u>Action Cam Showdown GoPro Vs. Yi Technology Review for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-web-traffic-with-advanced-seo-techniques-a-guide-to-enhanced-online-discoverability/"><u>Boost Web Traffic with Advanced SEO Techniques: A Guide to Enhanced Online Discoverability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/ensuring-quality-export-of-camera-images-for-snapchat-sharing-for-2024/"><u>Ensuring Quality Export of Camera Images for Snapchat Sharing for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-features-of-the-xyz-file-handling-system-ixml/"><u>Exploring Features of the XYZ File Handling System (iXML)</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-spends-5-million-attracting-journalists-to-its-substack-rival/"><u>Facebook Spends $5 Million Attracting Journalists to Its Substack Rival</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-11-essential-android-home-screen-add-ons/"><u>Top 11 Essential Android Home Screen Add-Ons</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-screen-mirroring-tools-on-windows-11-a-comprehensive-guide/"><u>Top Rated Screen Mirroring Tools on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transforming-jpg-photos-into-semi-transparent-images-easy-methods-unveiled/"><u>Transforming JPG Photos Into Semi-Transparent Images - Easy Methods Unveiled</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-selection-the-leading-lightning-fast-hd-media-players-compatible-with-windows-11-and-macos/"><u>Ultimate Selection: The Leading Lightning-Fast HD Media Players Compatible with Windows 11 & macOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-creative-top-video-dubbing-tools-for-funny-videos/"><u>Updated In 2024, Get Creative Top Video Dubbing Tools for Funny Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Configuring Your XML Data Integration Tab
-date: 2024-09-27T06:15:31.256Z
-updated: 2024-09-30T00:40:47.679Z
+date: 2024-10-02T18:34:03.721Z
+updated: 2024-10-05T19:23:56.496Z
 tags:
   - user-guide
 categories:
@@ -103,6 +103,13 @@ In this section you can specify the installation behavior of the XML file.
 
  You have the following options: 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create file if it doesn't already exists
 
 If the XML file with the given name doesn't exist on the target machine, it will be created with the specified settings.
@@ -119,10 +126,10 @@ Select one of the following options if you want to remove the XML file from the 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two available checkbox options is checked, the file will not be removed on uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
@@ -130,10 +137,10 @@ Select one of the following options if you want to remove the XML file from the 
 This field specifies the component whose install or removal will trigger the XML update operation.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -142,13 +149,6 @@ Select what action should be performed in case an error occurs during the XML in
 
 * Abort installation - all system changes will rollback.
 * Skip file - the file which caused the error will be skipped. All the changes performed by the installation on this file will be reverted and the installation will continue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Create backup before updating
 
@@ -161,10 +161,10 @@ If this option is enabled a backup copy of the original XML file will be created
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option**enabled**, because an unexpected error during the XML update process may _corrupt_ parts of your existing XML file.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Common options
@@ -206,17 +206,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ranking-the-best-ios-videography-tech/"><u>[New] Ranking the Best iOS Videography Tech</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-online-slot-scanner-summary/"><u>[Updated] In 2024, ONLINE SLOT SCANNER SUMMARY</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-adult-swim-media-library-streaming-and-free-downloads-of-animated-series-original-movies-and-more/"><u>1. Adult Swim Media Library: Streaming and Free Downloads of Animated Series, Original Movies, and More</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-ranked-video-recording-software-a-replacement-for-movavi-screen-capture-suitable-for-mac-and-windows-systems/"><u>1. Top-Ranked Video Recording Software: A Replacement for Movavi Screen Capture Suitable for MAC & WINDOWS Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-groundbreaking-6-modern-mc-residentials/"><u>2024 Approved Groundbreaking 6 Modern MC Residentials</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/abbyy-2021-nelsonhall/"><u>ABBYYによる最新「プロセスマイニング」分析: 2021年での業界リード - NelsonHall調査報告</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-flv-to-ipod-video-conversion-both-online-tools-and-manual-techniques-unveiled/"><u>Mastering the Art of FLV to iPod Video Conversion: Both Online Tools and Manual Techniques Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-your-privacy-avoiding-risks-with-personalized-gpt-models-like-chatgpt/"><u>Protecting Your Privacy: Avoiding Risks with Personalized GPT Models Like ChatGPT</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-why-your-flipbook-lacks-a-frame-bar-on-flipbuildercom-a-user-friendly-guide-to-custom-layouts/"><u>Understanding Why Your FlipBook Lacks a Frame Bar on FlipBuilder.com – A User-Friendly Guide to Custom Layouts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-10-public-domain-image-sites/"><u>Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upcoming-enhancements-set-to-transform-windows-11-widgets-experience/"><u>Upcoming Enhancements Set to Transform Windows 11 Widgets Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[New] In 2024, Easy-to-Follow Guide to Mobile Recording Snapchat Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-striking-instagram-profile-overviews-for-2024/"><u>[Updated] Crafting Striking Instagram Profile Overviews for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/verified-quick-and-easy-platinum-edition-winx-dvd-ripping-software-for-hd-mp4-conversion-h264-within-5-mins/"><u>[VERIFIED] Quick & Easy: Platinum Edition WinX DVD Ripping Software for HD MP4 Conversion (H.264) Within 5 Mins!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-server-pages-collection-optimizing-web-performance/"><u>Efficient Server Pages Collection: Optimizing Web Performance</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-strategies-for-flawless-data-management-with-samsung-kies-a-comprehensive-backup-restore-handbook/"><u>Expert Strategies for Flawless Data Management with Samsung Kies: A Comprehensive Backup-Restore Handbook</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-zte-blade-a73-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on ZTE Blade A73 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-your-youtube-clicks-with-optimal-dimensions/"><u>In 2024, Maximizing Your YouTube Clicks with Optimal Dimensions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-podcasts-rss-feed-performance-and-structure/"><u>In 2024, Optimizing Your Podcast's RSS Feed Performance and Structure</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-a79-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo A79 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-crafting-engaging-and-dynamic-web-pages/"><u>Mastering the Art of Crafting Engaging and Dynamic Web Pages</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-test-nikon-d7500-vs-competitors-for-2024/"><u>The Ultimate Test Nikon D7500 vs Competitors for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
 </ul></div>
 

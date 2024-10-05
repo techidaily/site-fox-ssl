@@ -1,7 +1,7 @@
 ---
 title: Exploring the Various Aspects of Module Integration Projects
-date: 2024-09-28T09:42:49.029Z
-updated: 2024-09-29T16:20:16.154Z
+date: 2024-09-30T18:54:59.120Z
+updated: 2024-10-05T17:18:58.466Z
 tags:
   - user-guide
 categories:
@@ -84,20 +84,20 @@ Table of Contents
 ![Merge Module Project](https://cdn.advancedinstaller.com/img/project/merge-module.png "Merge Module Project")This type of project gives you the possibility to create [Merge Modules](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import MSM Package
 
@@ -108,10 +108,10 @@ Table of Contents
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio Wix Module
@@ -119,10 +119,10 @@ Table of Contents
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio MSM Project
@@ -162,18 +162,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-virtual-engagement-harnessing-the-power-of-zoom-in-gmail/"><u>[Updated] Innovative Virtual Engagement Harnessing the Power of Zoom in Gmail</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-invisible-modifications-the-essence-of-selective-edits/"><u>[Updated] Invisible Modifications The Essence of Selective Edits</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-noto-ui-dashboard-complimentary-wtforms-react-and-material-ui-framework-by-creativetim/"><u>Download Noto UI Dashboard: Complimentary WTForms, React & Material-UI Framework by CreativeTim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-the-complimentary-argon-nodejs-dashboard-enhanced-project-insights-from-creative-tim/"><u>Download the Complimentary Argon Node.js Dashboard - Enhanced Project Insights From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elite-creators-toolkit-revealed-advanced-integration-with-bootstrap-extreme-reactstrap-and-elegant-paper-styles-from-creative-tim-pro-edition/"><u>Elite Creator's Toolkit Revealed: Advanced Integration with Bootstrap eXtreme, Reactstrap and Elegant Paper Styles From Creative Tim - PRO Edition!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/explore-over-60-inspiring-ui-elements-fonts-and-color-palettes-from-argon-in-creative-tims-resource-hub/"><u>Explore Over 60 Inspiring UI Elements, Fonts & Color Palettes From Argon in Creative Tim’s Resource Hub</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-design-masterclass-get-started-with-our-expert-created-template-by-creative-tim/"><u>Free NextJS & Tailwind Design Masterclass: Get Started with Our Expert-Created Template by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-integration-starter-kit-with-customizable-landing-pages-by-creative-tim/"><u>Free NextJS and Tailwind Integration Starter Kit with Customizable Landing Pages by Creative Tim</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-connection-refused-issue-errconnectionrefused-including-images-for-better-understanding/"><u>How to Solve the Connection Refused Issue (ERR_CONNECTION_REFUSED) - Including Images for Better Understanding</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovate-on-screen-imagery-with-youtubes-green-screens-edge/"><u>In 2024, Innovate On-Screen Imagery with YouTube’s Green Screens Edge</u></a></li>
-<li><a href="https://article-tips.techidaily.com/interactive-learning-strategies-in-video-editing/"><u>Interactive Learning Strategies in Video Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-non-working-pc-mic-in-dota-2-gameplay/"><u>Step-by-Step Fixes for Non-Working PC Mic in Dota 2 Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tech-savvy-smartphones-in-windows-audio-realm/"><u>Tech-Savvy: Smartphones in Windows Audio Realm</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-nextgen-video-havens-step-away-from-youtube/"><u>[Updated] In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-tomorrows-teachers-today-through-vr/"><u>2024 Approved Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-photo-management-apps-top-5-choices-for-android-and-ios-users/"><u>Best Photo Management Apps: Top 5 Choices for Android & iOS Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/default-text-configuration-options/"><u>Default Text Configuration Options</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-g24-power-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola G24 Power</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-microsoft-pointing-device-smooth-update-its-windows-driver-today/"><u>Keep Your Microsoft Pointing Device Smooth: Update Its Windows Driver Today!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-seamless-connectivity-outdoors-an-expert-review-on-the-capabilities-of-the-netgear-orbi-rbs50y-smart-wifi-system/"><u>Unlocking Seamless Connectivity Outdoors: An Expert Review on the Capabilities of the Netgear Orbi RBS50Y Smart WiFi System</u></a></li>
 </ul></div>
 

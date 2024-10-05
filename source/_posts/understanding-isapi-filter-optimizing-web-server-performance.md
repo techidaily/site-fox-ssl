@@ -1,7 +1,7 @@
 ---
 title: "Understanding ISAPI Filter: Optimizing Web Server Performance"
-date: 2024-09-29T03:43:03.589Z
-updated: 2024-09-30T03:28:33.317Z
+date: 2024-10-03T19:19:05.271Z
+updated: 2024-10-05T20:49:31.202Z
 tags:
   - user-guide
 categories:
@@ -101,10 +101,16 @@ This view allows you to add, edit or remove ISAPI Filters on the target IIS serv
 ![Isapi filters](https://cdn.advancedinstaller.com/img/ui/isapi-filters.png "Isapi filters")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new ISAPI filter
@@ -112,10 +118,10 @@ This view allows you to add, edit or remove ISAPI Filters on the target IIS serv
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list control is focused. The[ISAPI Filter Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to add a new ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an ISAPI filter
@@ -123,10 +129,10 @@ Use the \[New... \] button, the “New...” context menu item or press theInser
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list control is selected. The [ISAPI Filter Properties Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be shown allowing you to edit an existing ISAPI filter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an ISAPI filter
@@ -134,10 +140,10 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -178,19 +184,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup/"><u>[New] 2024 Approved From Cameras to OBS A Step-by-Step Mac & PC Broadcast Setup</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-prestigious-zooids-introduction-spotlight/"><u>[Updated] Prestigious Zooids Introduction Spotlight</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-best-gopro-tools-for-deep-sea-cinematography/"><u>2024 Approved Best Gopro Tools for Deep-Sea Cinematography</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-comprehensive-guide-to-overcome-nvidia-geforce-experience-error-code-0x0003/"><u>Fixing the Issue: Comprehensive Guide to Overcome NVIDIA GeForce Experience Error Code 0X0003</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-game-lag-issues-on-dying-light-action-survival-platformer/"><u>How to Overcome Game Lag Issues on Dying Light Action Survival Platformer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-13-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 13</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-canon-mf8200c-driver-downloads-for-windows-users-windows-78110-supported/"><u>Latest Canon MF8200C Driver Downloads for Windows Users (Windows 7/8.1/10 Supported)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-file-categorization-in-flash-books-using-flipbuilder-tools/"><u>Mastering the Art of File Categorization in Flash Books Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/setting-up-pre-display-metadata-for-flip-booklets-a-guide-with-flipbuilder/"><u>Setting Up Pre-Display Metadata for Flip Booklets - A Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/sharing-offline-versions-of-your-online-created-flipbooks-using-flipbuilder-tips-and-tricks/"><u>Sharing Offline Versions of Your Online-Created Flipbooks Using FlipBuilder – Tips & Tricks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/stealthy-strategies-concealing-your-flipbuilder-website-in-the-digital-library-index/"><u>Stealthy Strategies: Concealing Your FlipBuilder Website in the Digital Library Index</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-uploading-files-online-using-ftp-flipbuilder-learn-how/"><u>Step-by-Step Guide: Uploading Files Online Using FTP (FlipBuilder) - Learn How</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-name-genius-mastering-branding-with-generators-for-2024/"><u>YouTube Name Genius Mastering Branding with Generators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-zoom-technology-for-professional-use/"><u>[New] Navigating Zoom Technology for Professional Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>[Updated] Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-video-editing-mastering-green-screen-integration-for-2024/"><u>[Updated] Cutting Edge Video Editing Mastering Green Screen Integration for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-harnessing-the-power-of-ps4-capture-for-gamers-everywhere/"><u>[Updated] Harnessing the Power of PS4 Capture for Gamers Everywhere</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-photo-management-apps-top-5-choices-for-android-and-ios-users/"><u>Best Photo Management Apps: Top 5 Choices for Android & iOS Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/default-text-configuration-options/"><u>Default Text Configuration Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/detailed-insights-into-ipaddress-management/"><u>Detailed Insights Into IPAddress Management</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-a-non-installable-windows-store-app/"><u>Fix a Non-Installable Windows Store App</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfectly-syncing-android-iconography-with-wallpapers-a-comprehensive-guide/"><u>Perfectly Syncing Android Iconography with Wallpapers: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/water-damage-woes-heres-how-to-recover-and-repair-your-iphoneipod/"><u>Water Damage Woes? Here's How to Recover and Repair Your iPhone/iPod</u></a></li>
 </ul></div>
 

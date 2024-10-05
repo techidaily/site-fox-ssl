@@ -1,7 +1,7 @@
 ---
 title: Understanding Route Settings in Project Management Dashboard
-date: 2024-09-23T18:24:03.311Z
-updated: 2024-09-30T04:30:54.794Z
+date: 2024-10-01T17:54:47.298Z
+updated: 2024-10-05T21:04:51.415Z
 tags:
   - user-guide
 categories:
@@ -76,10 +76,10 @@ In this page you can modify the path variables settings for the project.
 ![Pathvar project settings](https://cdn.advancedinstaller.com/img/dialog/pathvar-project-settings.png "Pathvar project settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Don't use path variables
@@ -87,10 +87,10 @@ In this page you can modify the path variables settings for the project.
 By default the project will not use path variables.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Automatically convert using existing path variables.
@@ -98,10 +98,10 @@ By default the project will not use path variables.
 When a file is added it is automatically converted to a path variable without any user prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt for each file that can use path variables.
@@ -141,21 +141,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-methods-to-develop-a-memorable-youtube-introduction-for-2024/"><u>[Updated] Pioneering Methods to Develop a Memorable YouTube Introduction for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-keyboard-warriors-guide-games-similar-to-gta-v/"><u>2024 Approved Keyboard Warriors' Guide Games Similar to GTA V</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-f5-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco F5 5G PC | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avatar-the-last-holdout-overcoming-glitches-on-your-windows-machine/"><u>Avatar: The Last Holdout - Overcoming Glitches on Your Windows Machine</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-can-i-accelerate-my-flipoffice-pro-upgrade-with-the-express-path-at-flipbuildercom/"><u>How Can I Accelerate My FlipOffice Pro Upgrade with the Express Path at FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-craft-a-diy-spiral-photo-book-using-traditional-prints-and-flipbuilder/"><u>How to Craft a DIY Spiral Photo Book Using Traditional Prints and FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-enable-zooming-on-both-sides-in-a-flip-pdf-using-flipbuilder/"><u>How to Enable Zooming on Both Sides in a Flip PDF Using FlipBuilder</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-x-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone X without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-fix-non-functional-links-post-conversion-to-flipbook-format-a-guide-using-flipbuilder/"><u>How to Fix Non-Functional Links Post Conversion to Flipbook Format - A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oneplus-nord-n30-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Nord N30 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-transfer-custom-designed-themes-from-flipbuilder-to-other-software-platforms/"><u>How to Transfer Custom-Designed Themes From FlipBuilder to Other Software Platforms</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/innovative-design-elements-across-flipbuildercoms-various-template-options/"><u>Innovative Design Elements Across FlipBuilder.com's Various Template Options</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/insights-into-user-interaction-the-frequency-of-e-magazine-page-turning-on-flipbuilder-websites/"><u>Insights Into User Interaction - The Frequency of E-Magazine Page Turning on FlipBuilder Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/qled-vs-oled-tv-showdown-understanding-key-features-and-performance/"><u>QLED Vs. OLED TV Showdown: Understanding Key Features and Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/which-is-more-beneficial-learning-german-or-french/"><u>Which Is More Beneficial? Learning German or French</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-uncomplicated-techniques-for-adding-igtv-to-your-story-for-2024/"><u>[New] Uncomplicated Techniques for Adding IGTV to Your Story for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[Updated] Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/3-simple-steps-how-to-transform-your-files-from-wav-to-wma-format/"><u>3 Simple Steps: How to Transform Your Files From WAV to WMA Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-practices-and-tools-for-taking-screenshots-on-a-laptop/"><u>Best Practices and Tools for Taking Screenshots on a Laptop</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/conquer-flip-trickster-gameplay-like-a-pro-a-step-by-step-tutorial-for-pc-users/"><u>Conquer Flip Trickster Gameplay Like a Pro - A Step-by-Step Tutorial for PC Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-the-positive-side-of-engaging-with-asmr-for-2024/"><u>Exploring The Positive Side of Engaging with ASMR for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/extreme-sports-gopro-vs-star-sj7-comparison/"><u>Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/fast-techniques-for-speeding-up-music-and-podcast-content-loading-times/"><u>Fast Techniques for Speeding Up Music & Podcast Content Loading Times</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478195485-how-to-accelerate-your-iphones-screen-shutdown-effective-solutions-inside/"><u>How to Accelerate Your iPhone's Screen Shutdown – Effective Solutions Inside!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-6-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 6</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-to-sustainable-earning-with-online-videos/"><u>In 2024, Secrets to Sustainable Earning with Online Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-6-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 6 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/metamorphic-rocks-help-geologists-understand-past-plate-movements-and-reconstruct-paleogeography/"><u>Metamorphic Rocks Help Geologists Understand Past Plate Movements and Reconstruct Paleogeography.</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-on-using-apowersofts-advanced-background-erase-feature/"><u>Step-by-Step Tutorial on Using Apowersoft's Advanced Background Erase Feature</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamlining-workflow-with-a-comprehensive-organization-lookup-dashboard/"><u>Streamlining Workflow with a Comprehensive Organization Lookup Dashboard</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/updating-your-documents-a-comprehensive-guide-on-editing-text-files/"><u>Updating Your Documents: A Comprehensive Guide on Editing Text Files</u></a></li>
 </ul></div>
 

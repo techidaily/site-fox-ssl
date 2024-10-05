@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Customize Your Chatbot Conversations
-date: 2024-09-23T04:14:38.214Z
-updated: 2024-09-29T18:48:00.448Z
+date: 2024-10-03T17:07:15.193Z
+updated: 2024-10-05T21:32:05.239Z
 tags:
   - user-guide
 categories:
@@ -89,40 +89,39 @@ The dialogs defined here will appear during a patch installation only.
 
 The first dialog displayed during a patch. It is used to inform the user about the application on which the patch operations will be performed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ready to Install Dialog (VerifyReadyDlg)
 
 Allows the user to proceed with the patch operation.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installation Progress Dialog (ProgressDlg)
 
 The dialog containing the progress bar that shows the evolution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installation Complete Dialog (ExitDialog)
 
 The dialog displayed at the end of the patching operation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### License Agreement Dialog (LicenseAgreementDlg)
 
@@ -131,6 +130,13 @@ Displays the license agreement text for your product. The user must interact wit
 You can select the Rich Text Format file that contains your license agreement in the "RTF File" field of the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane. This field is available when the "Scrollable Edit" control is selected on the dialog.
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ReadMe Dialog (ReadmeDlg)
 
@@ -143,10 +149,10 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to modify the layout of these dialogs, all the changes must be made in the upgraded version of the main installation package, prior to creating the patch package from a "Patch Project".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -182,22 +188,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[New] Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-recording-on-itunes/"><u>[Updated] 2024 Approved Step-by-Step Guide Recording on iTunes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>[Updated] Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>[Updated] Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-collection-30plus-vite-starter-templates-and-designs-creative-tim/"><u>1. Ultimate Collection: 30+ Vite Starter Templates and Designs | Creative Tim</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-photography-meets-canva-exclusive-editing-secrets/"><u>2024 Approved Pro Photography Meets Canva Exclusive Editing Secrets</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/202413/"><u>2024年度推荐：最佳免费的影片分割程序—选出了13种！</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-material-ui-kit-pro-edition-by-creative-tim/"><u>Advanced Material UI Kit - Pro Edition by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-argon-react-native-starterkit-complimentary-boost-for-rapid-prototyping/"><u>Creative Tim's Argon React Native Starterkit: Complimentary Boost for Rapid Prototyping</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-soft-ui-customizable-larvel-backend-with-updivision-collaboration/"><u>Creative Tim's Soft UI: Customizable Larvel Backend with UPDIVISION Collaboration</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-over-3-amazing-vuetifyjs-template-collections-and-design-inspirations-from-creative-tim/"><u>Discover Over 3 Amazing Vuetify.js Template Collections and Design Inspirations From Creative Tim!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-react-native-app-designs-top-templates-from-creative-tim/"><u>Free React Native App Designs: Top Templates From Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/stop-stalling-how-to-overcome-a-glitchy-tiktok-experience-chrome/"><u>Stop Stalling How to Overcome a Glitchy TikTok Experience (Chrome)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-step-by-step-guide-find-your-own-tiktok-stream-key/"><u>[New] In 2024, [Step-by-Step Guide] Find Your Own TikTok Stream Key</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-isolating-photographs-within-windows-10-movie-files/"><u>[Updated] In 2024, Isolating Photographs Within Windows 10 Movie Files</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>2024 Approved Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-fix-guide-resolving-srt-not-working-problems/"><u>2024 Approved The Ultimate Fix Guide Resolving SRT Not Working Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-s23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy S23 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-server-pages-collection-optimizing-web-performance/"><u>Efficient Server Pages Collection: Optimizing Web Performance</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-features-and-uses-of-idriverscomponent-in-modern-systems/"><u>Exploring the Features and Uses of IDriversComponent in Modern Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-p40plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel P40+</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y17s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y17s Phones with/without a PC</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminating-windows-11-flicker-effect/"><u>Step-by-Step Guide: Eliminating Window's 11 Flicker Effect</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-route-settings-in-project-management-dashboard/"><u>Understanding Route Settings in Project Management Dashboard</u></a></li>
 </ul></div>
 

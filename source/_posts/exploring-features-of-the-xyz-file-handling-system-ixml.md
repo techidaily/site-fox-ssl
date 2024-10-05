@@ -1,7 +1,7 @@
 ---
 title: Exploring Features of the XYZ File Handling System (iXML)
-date: 2024-09-22T22:19:30.242Z
-updated: 2024-09-30T01:24:03.784Z
+date: 2024-09-28T17:06:14.707Z
+updated: 2024-10-05T16:53:01.216Z
 tags:
   - user-guide
 categories:
@@ -114,21 +114,22 @@ Table of Contents
 This interface allows you to import or create an XML file and to get all the XML files from the project.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IXmlFilesComponent : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -137,10 +138,10 @@ IXmlFilesComponent : IDispatch
 **Bool ImpersonateUser** \- Sets or gets the impersonate user flag.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -156,17 +157,10 @@ IXmlFilesComponent : IDispatch
 ![Ixmlfilescomponent](https://cdn.advancedinstaller.com/img/powershell-automation/ixmlfilescomponent.png "Ixmlfilescomponent")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,19 +202,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide/"><u>[New] Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-facial-forgetting-strategies-for-image-anonymity/"><u>[Updated] Facial Forgetting Strategies for Image Anonymity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>[Updated] In 2024, Heroic Quests Ranking Gaming Epics in Action-Adventure</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-adult-swim-media-library-streaming-and-free-downloads-of-animated-series-original-movies-and-more/"><u>1. Adult Swim Media Library: Streaming and Free Downloads of Animated Series, Original Movies, and More</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-ranked-video-recording-software-a-replacement-for-movavi-screen-capture-suitable-for-mac-and-windows-systems/"><u>1. Top-Ranked Video Recording Software: A Replacement for Movavi Screen Capture Suitable for MAC & WINDOWS Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-photographic-distortion-tactics-for-2024/"><u>Advanced Photographic Distortion Tactics for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-high-quality-songs-from-jango-in-various-formats-mp3-wav-aac-m4a-using-jango-downloader/"><u>Download High-Quality Songs From Jango in Various Formats (MP3, WAV, AAC, M4A) Using Jango Downloader</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-4shared-media-extractor-seamless-music-and-video-downloads-from-4shared-compatible-with-windows-and-macos/"><u>Efficient 4Shared Media Extractor: Seamless Music & Video Downloads From 4Shared - Compatible with Windows and macOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-unveiling-the-latest-in-pc-components/"><u>Expert Reviews by Tom: Unveiling the Latest in PC Components</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/get-your-anime-fix-securely-download-episodes-from-animeseason/"><u>Get Your Anime Fix: Securely Download Episodes From AnimeSeason</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-itel-p40-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Itel P40?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-14-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi 14 Phone?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inserting-coding-snippets-directly-into-your-word-document-tips-and-tricks/"><u>Inserting Coding Snippets Directly Into Your Word Document - Tips & Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/next-gen-cameras-unearthing-the-top-of-2024-listings/"><u>Next-Gen Cameras Unearthing the Top of 2024 Listings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered-for-2024/"><u>[New] Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>[New] Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-playbook-to-conquer-spotify-advertising-for-2024/"><u>[New] The Complete Playbook to Conquer Spotify Advertising for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[Updated] 2024 Approved Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-2024-screen-mirroring-solutions-top-5-pick/"><u>Best 2024 Screen Mirroring Solutions: Top 5 Pick</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-no-cost-android-scanner-software-a-trustworthy-choice/"><u>Best No-Cost Android Scanner Software: A Trustworthy Choice</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-digital-safety-with-2fa-for-email-platforms-like-gmail-and-outlook/"><u>Boosting Digital Safety with 2FA for Email Platforms Like Gmail and Outlook</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhancing-itext-documents-with-update-features-tips-and-tricks/"><u>Enhancing iText Documents with Update Features: Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-resolve-libgdk-win32-20-0dll-missing-errors-in-windows/"><u>How to Troubleshoot and Resolve libgdk-win32-2.0-0.dll Missing Errors in Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-elevating-your-vlog-through-proper-lighting/"><u>In 2024, Elevating Your Vlog Through Proper Lighting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-power-of-yi-4k-cameras/"><u>In 2024, Exploring the Power of YI 4K Cameras</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-software-for-modifying-image-canvas-tones-2021-edition/"><u>Leading Software for Modifying Image Canvas Tones - 2021 Edition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimize-your-programs-with-advanced-assembly-attributes-settings-interface/"><u>Optimize Your Programs with Advanced Assembly Attributes Settings Interface</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-on-converting-audiobooks-to-mp3-format-for-optimal-listening-experience/"><u>Step-by-Step Tutorial on Converting Audiobooks to MP3 Format for Optimal Listening Experience</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamlining-update-processes-with-the-advanced-iupdatercomponent-module/"><u>Streamlining Update Processes with the Advanced IUpdaterComponent Module</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-lowering-the-cpu-load-when-playing-call-of-duty-modern-warfare/"><u>Tips for Lowering the CPU Load When Playing Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-quality-e-learning-sites-for-skill-development/"><u>Top Quality E-Learning Sites for Skill Development</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transforming-jpg-photos-into-semi-transparent-images-easy-methods-unveiled/"><u>Transforming JPG Photos Into Semi-Transparent Images - Easy Methods Unveiled</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-12-5g-cant-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 12 5G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Characteristics of App-Based Cartography Features
-date: 2024-09-27T00:36:35.270Z
-updated: 2024-09-30T02:01:41.034Z
+date: 2024-09-30T20:24:03.044Z
+updated: 2024-10-05T19:01:05.900Z
 tags:
   - user-guide
 categories:
@@ -108,6 +108,20 @@ You can set the web document extension to be mapped to this script processor.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can configure **wildcard script maps** by setting the extension field to:  \* .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Module
 
 In this field you can specify the module handler for your application mapping. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/).
@@ -120,13 +134,6 @@ For ISAPI/CGI Script Maps, IIS 7 requires CgiModule/IsapiModule to be set as the
 
 You can set the script processor file for the new web application mapping. The file can be from the installation package or external. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add ISAPI/CGI Restriction
 
 Allows dynamic content to execute on the target IIS server. 
@@ -134,26 +141,13 @@ Allows dynamic content to execute on the target IIS server.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Behavior
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Script engine
 
@@ -168,10 +162,10 @@ If the script does not exist or the user does not have permission, the appropria
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Because the script will be opened twice, once by the server and once by the script engine, there is some performance cost to enabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HTTP Verbs
@@ -215,20 +209,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-tackle-missing-thumbnails-on-youtube-shorts-for-2024/"><u>[Updated] How to Tackle Missing Thumbnails on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-collection-30plus-vite-starter-templates-and-designs-creative-tim/"><u>1. Ultimate Collection: 30+ Vite Starter Templates and Designs | Creative Tim</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-superior-5-android-screenshot-and-video-tools-reviewed/"><u>2024 Approved Superior 5 Android Screenshot and Video Tools Reviewed</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-economical-amazonbasics-6-sheet-shredder-with-cross-cut-technology/"><u>Comprehensive Review of the Economical AmazonBasics 6-Sheet Shredder with Cross-Cut Technology</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/create-engaging-interfaces-easily-free-reactmaterial-ui-dashboard-with-customizable-argon-design-components-by-creativetim/"><u>Create Engaging Interfaces Easily: Free React/Material-UI Dashboard with Customizable Argon Design Components by @CreativeTim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-extensive-range-more-than-65-professional-bootstrap-elements-from-creative-tim/"><u>Discover the Extensive Range: More Than 65 Professional Bootstrap Elements From Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-react-native-app-designs-top-templates-from-creative-tim/"><u>Free React Native App Designs: Top Templates From Creative Tim</u></a></li>
-<li><a href="https://win-top.techidaily.com/gratuit-mp4-vers-asf-en-direct-guide-complet-avec-movavi/"><u>Gratuit MP4 Vers ASF en Direct: Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-windows-file-check-up-tips-and-tricks/"><u>In 2024, Fast Windows File Check-Up Tips and Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/selecting-the-perfect-wedding-countdown-clock-for-android-and-ios-devices-for-2024/"><u>Selecting the Perfect Wedding Countdown Clock for Android & iOS Devices for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlock-zoom-broadcasting-potential-for-youtube-success-for-2024/"><u>Unlock Zoom Broadcasting Potential for YouTube Success for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-raucous-rhythms-repository-a-comprehensive-list-of-laugh-inducing-sounds/"><u>Updated 2024 Approved Raucous Rhythms Repository A Comprehensive List of Laugh-Inducing Sounds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-easy-ways-to-record-webcam-chat/"><u>[New] 2024 Approved Easy Ways to Record Webcam Chat</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-smart-strategies-for-entrepreneurial-video-marketing/"><u>[New] SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-thumbnails-neon-borders-top-3-methods/"><u>[Updated] 2024 Approved Enhancing YouTube Thumbnails Neon Borders - Top 3 Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-subtitle-craft-with-the-best-online-resources-today/"><u>[Updated] 2024 Approved Mastering Subtitle Craft with The Best Online Resources Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-combating-an-unresponsive-obs-camera-input-stream-for-2024/"><u>[Updated] Combating an Unresponsive OBS Camera Input Stream for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a1-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A1 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-web-traffic-with-advanced-seo-techniques-a-guide-to-enhanced-online-discoverability/"><u>Boost Web Traffic with Advanced SEO Techniques: A Guide to Enhanced Online Discoverability</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-features-of-the-xyz-file-handling-system-ixml/"><u>Exploring Features of the XYZ File Handling System (iXML)</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-customization-options-in-your-java-environment-settings-panel/"><u>Exploring the Customization Options in Your Java Environment Settings Panel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-depth-shots-the-art-of-closing-in-on-movies/"><u>In-Depth Shots The Art of Closing in on Movies</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/open-new-browser-tabs-and-windows-a-comprehensive-guide/"><u>Open New Browser Tabs and Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/revamp-your-billboard-messages-a-guide-to-editing-billboard-text/"><u>Revamp Your Billboard Messages: A Guide to Editing Billboard Text</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-methods-to-move-photographs-from-your-oneplus-amoled-6-device-to-a-desktop-system/"><u>Simple Methods to Move Photographs From Your OnePlus Amoled 6 Device to a Desktop System</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-11-essential-android-home-screen-add-ons/"><u>Top 11 Essential Android Home Screen Add-Ons</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-screen-mirroring-tools-on-windows-11-a-comprehensive-guide/"><u>Top Rated Screen Mirroring Tools on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transforming-jpg-photos-into-semi-transparent-images-easy-methods-unveiled/"><u>Transforming JPG Photos Into Semi-Transparent Images - Easy Methods Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-how-to-perform-a-factory-reset-on-your-samsung-tv/"><u>Troubleshooting Made Simple: How To Perform a Factory Reset On Your Samsung TV</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-mov-video-orientation-changers-top-5-list/"><u>Updated In 2024, Free MOV Video Orientation Changers Top 5 List</u></a></li>
 </ul></div>
 

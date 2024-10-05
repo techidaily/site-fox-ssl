@@ -1,7 +1,7 @@
 ---
 title: How To Optimize iFolder Synchronization with Advanced Filter Settings
-date: 2024-09-28T12:08:29.976Z
-updated: 2024-09-30T05:32:06.208Z
+date: 2024-10-01T20:03:53.661Z
+updated: 2024-10-05T19:23:35.761Z
 tags:
   - user-guide
 categories:
@@ -115,23 +115,9 @@ Table of Contents
 
 This interface is meant to specify the filters that allow you to select which files will be added from the synchronized folder to the package.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IFolderSyncFilters : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -156,6 +142,13 @@ IFolderSyncFilters : IDispatch
 **Bool EncriptedFiles** \- Gets or sets the option that will specify if the “Encripted” attribute of the files that will be added to the package.
 
 **String ExcludeSubfolders** \- Gets or sets the excluded sub-folders. This is available only on exclude filters.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -184,16 +177,10 @@ Method 2: use PowerShell for scanning folder contents + Advanced Installer
 $proj     = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## add new folder
@@ -201,10 +188,10 @@ $new_folder = $proj.PredefinedFolders.ApplicationFolder.CreateFolder("MyApplicat
 $folder_to_sync = "D:\MyApplication\MyApplication\bin\Release"
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## get all resources from folder
@@ -239,6 +226,13 @@ foreach ($res in $resources)
 $proj.SaveAs("D:\MyApplication\Setup\Setup.aip")
 
     Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -281,16 +275,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-sound-logging-system-inputs/"><u>[New] Digital Sound Logging System Inputs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-ingenious-approaches-to-facebook-video-ad-crafting/"><u>[New] Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-strategies-for-soundless-video/"><u>[Updated] In 2024, Advanced Strategies for Soundless Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-upgrade-voice-quality-in-sony-console-gaming/"><u>[Updated] Upgrade Voice Quality in Sony Console Gaming</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-absence-of-a-frame-bar-in-your-flipbook-explore-how-flipbuilder-facilitates-seamless-publishing/"><u>Discover the Absence of a Frame Bar in Your FlipBook - Explore How FlipBuilder Facilitates Seamless Publishing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effortless-access-with-bookmarks-for-your-published-content-on-flipbuilder/"><u>Effortless Access with Bookmarks for Your Published Content on FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enabling-auto-play-feature-for-your-image-flipbooks-with-flipbuilder-easy-integration/"><u>Enabling Auto-Play Feature for Your Image FlipBooks with FlipBuilder - Easy Integration</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-your-learning-experience-full-screen-flashy-tech-guides-on-flipbuildercom/"><u>Enhance Your Learning Experience: Full-Screen Flashy Tech Guides on FlipBuilder.com!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-incornate-a-company-emblem-in-flipbook-slides-with-flipbuilder-techniques/"><u>How to Incornate a Company Emblem in FlipBook Slides with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-youtuber-in-training-mobile-livestream-without-1000plus-subs/"><u>In 2024, YouTuber in Training Mobile Livestream WITHOUT 1000+ Subs</u></a></li>
-<li><a href="https://article-files.techidaily.com/inside-look-how-does-vr-headgear-work/"><u>Inside Look How Does VR Headgear Work?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[New] 2024 Approved Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-pixelpie-editor/"><u>[New] 2024 Approved PixelPie Editor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-webcam-guide-for-exceptional-podcast-production/"><u>[Updated] Essential Webcam Guide for Exceptional Podcast Production</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-giggle-graphics-humorhub-for-2024/"><u>[Updated] Giggle Graphics HumorHub for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/download-free-pc-video-editor-convert-videos-on-windows-at-no-cost/"><u>Download Free PC Video Editor: Convert Videos on Windows at No Cost</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/heres-why-hdmi-21-is-so-important-for-gaming/"><u>Here's Why HDMI 2.1 Is So Important For Gaming</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-tips-from-toms-computing-corner/"><u>Unveiling Cutting-Edge Tech Tips From Tom's Computing Corner</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/vero-authors-spotlight-at-snapchat/"><u>Vero Authors Spotlight at Snapchat</u></a></li>
 </ul></div>
 

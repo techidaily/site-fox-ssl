@@ -1,7 +1,7 @@
 ---
 title: Ready-to-Use Established SQL Linking Dashboard
-date: 2024-09-29T10:42:07.234Z
-updated: 2024-09-29T23:53:32.429Z
+date: 2024-10-04T18:51:05.417Z
+updated: 2024-10-05T19:30:59.007Z
 tags:
   - user-guide
 categories:
@@ -85,6 +85,13 @@ This page allows you to configure an SQL connection.
 
 ## General
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Condition the execution of all scripts from this connection. Edit this field using[Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -116,27 +123,7 @@ Specify the ODBC Driver or Data Source Name. Use the \[Edit... \] button to inse
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is recommended to use an Unicode compatible ODBC driver.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For Microsoft SQL Server **LocalDB** connections only an SQL Server**Client** ODBC driver can be used (e.g. "SQL Server Native Client 11.0").
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Use 64-bit ODBC resource
 
@@ -149,10 +136,17 @@ Specify the server host name. Use the \[... \] button to insert reference to a p
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If the database server is located on the target machine on which the package is installed you can use localhost. For a **Microsoft SQL Server** connection use (local) instead. For a **Oracle SQL Server** connection use OracleServer instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Port
@@ -160,13 +154,6 @@ Specify the server host name. Use the \[... \] button to insert reference to a p
 Specify the connection port. Use the \[... \] button to insert a reference to a property.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When using a Microsoft SQL Server connection type this field is non-editable. The default SQL Server port number (1433) will be used. To use a custom port number you can specify it in the "Server" field like this:**\[SERVER\_PROP\],\[PORT\_PROP\]**. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Login timeout
 
@@ -179,10 +166,10 @@ When using the verbose mode for an SQL connection, if an error occurs when conne
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Your users will never see the error during the installation if you disable this option, so it is very important that you design your application to check for the integrity of your databases or have it correctly designed so it can handle cases of missing or partially populated databases, as this might happen if your SQL scripts fail to execute.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Log information to file
@@ -190,19 +177,6 @@ When using the verbose mode for an SQL connection, if an error occurs when conne
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is only available for SQL Scripts.
 
 If this option is enabled and an error occurs, a log file(**_AI\_SQLScripts.log_**) containing the error message will be automatically generated by the installer in the user's **Temp** folder, .
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Authentication
 
@@ -212,14 +186,14 @@ Enable this option if you wish an SQL connection to use Windows integrated authe
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option can be enabled at install time by setting the**SQL\_TRUSTED\_CONNECTION** property to 1.
 
-![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of connecting to Microsoft SQL Server Desktop Engine (MSDE) you should use a trusted connection.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In case of connecting to Microsoft SQL Server Desktop Engine (MSDE) you should use a trusted connection.
 
 ### Username
 
@@ -231,18 +205,18 @@ User password for the database server.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This password is ignored if you set a password property.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Confirm Password
 
  Confirm user password.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The supplied password will be stored securely (encrypted) both in the project file and the MSI package.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a property to set password
 
@@ -259,6 +233,13 @@ Specify the name of the database you want to use.
  Using this option will ensure the creation of the database if it doesn't exist.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If no SQL Scripts are defined but you still want to use this option to create the database on the target machine you can add a script with a simple query. Something likeUSE database\_name;.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Catalogue option is available only when connecting to the database server through an ODBC driver.
 
@@ -282,6 +263,13 @@ All this information can be collected with the Advanced Installer MSI dialog “
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When using the SQL Scripts functionality and you require to prompt the user for ODBC connection parameters (for an ODBC driver), you might want to test if the connection works before proceeding. This will prevent an installation rollback due to incorrect connection parameters when executing the SQL scripts. Please see [Test SQL Connection](https://tools.techidaily.com/advancedinstaller/products/) article for details.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can choose to let the installing user to **pick** an SQL Server to connect to, from the available Microsoft SQL Servers on the network. Advanced Installer can automatically**browse** the network to discover any SQL Server (instances) on-line. Also, you have the possibility of allow the user to **select** a database from a list of available databases to which the user is allowed to connect . Please see [Browse for SQL Servers](https://tools.techidaily.com/advancedinstaller/products/) and [Show Databases from an SQL Server](https://tools.techidaily.com/advancedinstaller/products/) articles for details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -316,24 +304,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5/"><u>[New] In 2024, The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>[Updated] 2024 Approved Beyond Binary Boundaries Unveiling Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-gaming-to-content-creation-twitch-versus-youtube/"><u>[Updated] 2024 Approved From Gaming to Content Creation Twitch Versus YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-filming-your-journey-essentials-checklist-for-2024/"><u>[Updated] Filming Your Journey – Essentials Checklist for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-charger-systems-for-black-gopro-hero5-official-sources/"><u>[Updated] Ultimate Charger Systems for Black GoPro Hero5 Official Sources</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfecting-presentations-through-adobe-captivates-tools/"><u>2024 Approved Perfecting Presentations Through Adobe Captivate's Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/accelerate-your-reading-mastering-quick-page-flips-with-flipbuilder/"><u>Accelerate Your Reading: Mastering Quick Page Flips with FlipBuilder</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/adjusting-page-dimensions-in-your-digital-flipbook-a-guide-at-flipbuildercom/"><u>Adjusting Page Dimensions in Your Digital Flipbook - A Guide at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-your-pdfs-to-jpg-images-at-no-cost-free-online-tool-flipbuildercom/"><u>Convert Your PDFs to JPG Images at No Cost - Free Online Tool [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creating-a-unified-flipbook-from-various-photos-using-flipbuilder-step-by-step-instructions/"><u>Creating a Unified Flipbook From Various Photos Using FlipBuilder - Step-by-Step Instructions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/customizing-pre-loader-swf-files-for-enhanced-user-experience-on-your-flipbook-creations/"><u>Customizing Pre-Loader SWF Files for Enhanced User Experience on Your FlipBook Creations</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-your-learning-experience-full-screen-flashy-tech-guides-on-flipbuildercom/"><u>Enhance Your Learning Experience: Full-Screen Flashy Tech Guides on FlipBuilder.com!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-downloadable-dvd-decode-software-compatible-with-windows-11-10-8-vista-and-xp/"><u>Free Downloadable DVD Decode Software Compatible with Windows 11, 10, 8, Vista & XP</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-m6-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco M6 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-incornate-a-company-emblem-in-flipbook-slides-with-flipbuilder-techniques/"><u>How to Incornate a Company Emblem in FlipBook Slides with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-it-possible-to-transform-single-pages-into-flash-based-books-with-flipbuilder-technology/"><u>Is It Possible to Transform Single Pages Into Flash-Based Books with FlipBuilder Technology?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mr-beast-financial-evolution-analysis/"><u>Mr. Beast Financial Evolution Analysis</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revamp-your-flipbook-appearance-transforming-fonts-and-colors-for-an-impressive-display-on-flipbuildercom/"><u>Revamp Your Flipbook Appearance: Transforming Fonts & Colors for an Impressive Display on FlipBuilder.com</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-audio-conjunction-preparing-sounds-for-video-production-for-2024/"><u>Updated The Art of Audio Conjunction Preparing Sounds for Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-yt-experience-handling-several-videos-at-a-time/"><u>[Updated] 2024 Approved Enhancing YT Experience Handling Several Videos at a Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-real-time-fbx-filming-tips/"><u>[Updated] 2024 Approved Real-Time FBX Filming Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-animation-advantage-boosting-profits-in-social-media-ads/"><u>[Updated] 2024 Approved The Animation Advantage Boosting Profits in Social Media Ads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-expert-tips-for-enhancing-youtube-videos-through-seo-mastery/"><u>[Updated] Expert Tips for Enhancing YouTube Videos Through SEO Mastery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/complete-user-manual-mastering-the-use-of-windows-shutdown-utility/"><u>Complete User Manual: Mastering the Use of Windows Shutdown Utility</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-how-to-set-a-custom-ringtone-on-your-iphone-x/"><u>Easy Steps: How to Set a Custom Ringtone on Your iPhone X</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-vision-advanced-techniques-in-hdr-portraits/"><u>Elevate Your Vision Advanced Techniques in HDR Portraits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionaries-inventing-new-marvel-worlds/"><u>In 2024, Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-file-and-folder-link-creation-techniques-within-an-installer-project/"><u>Mastering File & Folder Link Creation Techniques Within an Installer Project</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secure-and-simple-the-top-10-trusted-online-transformers-for-2024/"><u>Secure and Simple The Top 10 Trusted Online Transformers for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-steps-how-to-effortlessly-watch-heic-images-on-your-android-device/"><u>Simple Steps: How to Effortlessly Watch HEIC Images on Your Android Device</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-inserting-text-into-your-images/"><u>Step-by-Step Guide: Inserting Text Into Your Images</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-mirroring-your-phones-screen-onto-another-android-device/"><u>Step-by-Step Guide: Mirroring Your Phone's Screen Onto Another Android Device</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-free-image-compression-applications-best-picks-for-web-and-pc/"><u>Top Free Image Compression Applications: Best Picks for Web and PC</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-techniques-for-moving-images-from-your-pixel-3-smartphone-to-a-computer/"><u>Top Techniques for Moving Images From Your Pixel 3 Smartphone to a Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-isapi-filter-optimizing-web-server-performance/"><u>Understanding ISAPI Filter: Optimizing Web Server Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unearth-hidden-5ghz-network-in-windows-11-with-simple-fixes/"><u>Unearth Hidden 5GHz Network in Windows 11 with Simple Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Component Quest Engine
-date: 2024-09-28T04:38:11.683Z
-updated: 2024-09-30T03:14:34.363Z
+date: 2024-10-01T19:16:26.164Z
+updated: 2024-10-05T16:09:16.965Z
 tags:
   - user-guide
 categories:
@@ -125,16 +125,10 @@ Table of Contents
 ## IComponentSearch
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -142,10 +136,10 @@ Table of Contents
 IComponentSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +148,10 @@ This interface is meant to search for an installed component.
 The search operation is performed on the target machine only if the specified property is not set (other searches didn't set that property). In case of success, the property will be set.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +159,10 @@ The search operation is performed on the target machine only if the specified pr
 **String GUID** \- Gets or sets the GUID of the component which will be searched. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,19 +204,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-dialogue-and-appraise-for-2024/"><u>[New] Capture Dialogue & Appraise for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-peak-performances-in-oly-x-cross-2022/"><u>[Updated] 2024 Approved Peak Performances in Oly X-Cross 2022</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/basic-strategy-revamping-fishy-windowspeak/"><u>Basic Strategy Revamping Fishy Windowspeak</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-ard-streaming-converter-download-and-save-episodes-as-mp4mp3aacwav-files/"><u>Easy ARD Streaming Converter – Download and Save Episodes as MP4/MP3/AAC/WAV Files</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-guide-to-saving-movies-and-shows-from-atresplayer-for-windows-and-macos-users/"><u>Easy Guide to Saving Movies and Shows From Atresplayer for Windows & macOS Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-guide-converting-your-favorite-spotify-tracks-into-popular-audio-formats-like-aac-mp3-and-more/"><u>Easy Guide: Converting Your Favorite Spotify Tracks Into Popular Audio Formats Like AAC, MP3 & More</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-techniques-for-downloading-and-transforming-vimeo-media-into-mp3-audios/"><u>Efficient Techniques for Downloading and Transforming Vimeo Media Into MP3 Audios</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-call-customization-applications-ranked/"><u>Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-converting-6play-media-files-into-various-formats-like-mp4-avi-and-mov/"><u>Guide: Converting 6Play Media Files Into Various Formats Like MP4, AVI & MOV</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-downloading-charlie-rose-show-episodes-as-mp4-or-mov-files-for-mac-and-pc-users/"><u>Guide: Downloading Charlie Rose Show Episodes as MP4 or MOV Files for Mac & PC Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-monitor-choices-the-10-list-for-mac-users/"><u>In 2024, Innovative Monitor Choices The #10 List For Mac Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-screens-the-essential-online-record-guide/"><u>In 2024, Streamline Your Screens The Essential Online Record Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screenflow-showdown-the-top-video-editing-software-for-macos-users/"><u>[New] 2024 Approved ScreenFlow Showdown The Top Video Editing Software for macOS Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unleash-creativity-professional-insights-into-shooting-and-editing-stunning-slow-motion-content-for-instagram/"><u>[New] In 2024, Unleash Creativity Professional Insights Into Shooting and Editing Stunning Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[New] Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-preventing-unseen-frames-in-video-captures/"><u>[Updated] In 2024, Preventing Unseen Frames in Video Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/6-risks-of-using-cheap-windows-activation-keys/"><u>6 Risks of Using Cheap Windows Activation Keys</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-2024-screen-mirroring-solutions-top-5-pick/"><u>Best 2024 Screen Mirroring Solutions: Top 5 Pick</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-no-cost-android-scanner-software-a-trustworthy-choice/"><u>Best No-Cost Android Scanner Software: A Trustworthy Choice</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/inlibrary-file-a-comprehensive-guide/"><u>InLibrary File: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>New 2024 Approved S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimize-your-programs-with-advanced-assembly-attributes-settings-interface/"><u>Optimize Your Programs with Advanced Assembly Attributes Settings Interface</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/revise-pseudo-formatted-template-conversation-interface/"><u>Revise Pseudo-Formatted Template Conversation Interface</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/step-by-step-guide-converting-aifc-audio-files-into-wav-format-across-windows-mac-os-and-online-tools/"><u>Step-by-Step Guide: Converting AIFC Audio Files Into WAV Format Across Windows, Mac OS & Online Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-converting-and-importing-wmv-files-into-final-cut-pro/"><u>Step-by-Step Guide: Converting and Importing WMV Files Into Final Cut Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/streamlining-update-processes-with-the-advanced-iupdatercomponent-module/"><u>Streamlining Update Processes with the Advanced IUpdaterComponent Module</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-quality-e-learning-sites-for-skill-development/"><u>Top Quality E-Learning Sites for Skill Development</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-windows-podcast-providers-the-ultimate-1-to-8-list/"><u>Top Windows Podcast Providers - The Ultimate #1 to #8 List</u></a></li>
 </ul></div>
 

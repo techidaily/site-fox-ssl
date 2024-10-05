@@ -1,7 +1,7 @@
 ---
 title: Advanced XML Element Query Locators
-date: 2024-09-26T04:58:55.557Z
-updated: 2024-09-30T06:07:04.320Z
+date: 2024-10-04T16:53:00.715Z
+updated: 2024-10-05T19:38:00.100Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IXmlElementSearchLocator
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,16 +136,10 @@ Table of Contents
 IXmlElementSearchLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -153,10 +147,10 @@ IXmlElementSearchLocator : IDispatch
 This interface is meant to edit the XML element search locator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -177,16 +171,10 @@ Supported values per locator Type:
 * “ElementHasChildren” - “ElementExists”
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -228,21 +216,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easycapture-prox-diagnosis-for-2024/"><u>[New] EasyCapture ProX Diagnosis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spin-the-dial-zoom-in-on-vr-samsung-and-lg-compare/"><u>[New] Spin the Dial, Zoom in on VR Samsung & LG Compare</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-augmenting-your-stardew-experience-with-seven-top-mods/"><u>[Updated] In 2024, Augmenting Your Stardew Experience with Seven Top Mods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-in-making-the-most-of-snap-camera-in-microsoft-teams/"><u>[Updated] In 2024, Step-In Making the Most of Snap Camera in Microsoft Teams</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ultimate-collection-30plus-vite-starter-templates-and-designs-creative-tim/"><u>1. Ultimate Collection: 30+ Vite Starter Templates and Designs | Creative Tim</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally/"><u>2024 Approved A Gamer's Treasure Chest Top 5 Ways to Record VR Games Professionally</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-material-ui-kit-pro-edition-by-creative-tim/"><u>Advanced Material UI Kit - Pro Edition by Creative Tim</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-argon-react-native-starterkit-complimentary-boost-for-rapid-prototyping/"><u>Creative Tim's Argon React Native Starterkit: Complimentary Boost for Rapid Prototyping</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/creative-tims-soft-ui-customizable-larvel-backend-with-updivision-collaboration/"><u>Creative Tim's Soft UI: Customizable Larvel Backend with UPDIVISION Collaboration</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-over-3-amazing-vuetifyjs-template-collections-and-design-inspirations-from-creative-tim/"><u>Discover Over 3 Amazing Vuetify.js Template Collections and Design Inspirations From Creative Tim!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-setting-the-correct-time-on-your-amazon-kindle-paperwhite/"><u>Easy Tips for Setting the Correct Time on Your Amazon Kindle Paperwhite</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-react-native-app-designs-top-templates-from-creative-tim/"><u>Free React Native App Designs: Top Templates From Creative Tim</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-asus-rog-phone-7-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Asus ROG Phone 7 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-5-best-free-wmv-video-splitters/"><u>Updated In 2024, Top 5 Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone-for-2024/"><u>[Updated] How to Transfer Videos and Photos From a PC to an iPhone for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-free-and-premium-tools-for-effortless-signature-background-removal/"><u>1. Top Free and Premium Tools for Effortless Signature Background Removal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-managing-and-resolving-issue-panes-efficiently/"><u>Effective Strategies for Managing and Resolving Issue Panes Efficiently</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-management-of-app-v-5-series-tabs-a-comprehensive-guide/"><u>Efficient Management of App-V 5 Series Tabs: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-hot-40i-messages-recovery-recover-deleted-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Infinix Hot 40i Messages Recovery - Recover Deleted Messages from Infinix Hot 40i</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-efficiently-implementing-windows-11s-auto-hdr-mode-for-2024/"><u>Tips for Efficiently Implementing Windows 11'S Auto HDR Mode for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a78-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A78 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
 

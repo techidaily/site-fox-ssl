@@ -1,7 +1,7 @@
 ---
 title: "Explore Essential Windows Libraries: Your Comprehensive Guide"
-date: 2024-09-29T07:14:47.026Z
-updated: 2024-09-30T12:29:50.823Z
+date: 2024-09-28T18:43:32.978Z
+updated: 2024-10-05T20:09:29.636Z
 tags:
   - user-guide
 categories:
@@ -95,53 +95,47 @@ The Windows Libraries functionality allows you to achieve the following installa
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Windows Libraries can be created in anywhere on a target machine, but they will not be displayed inside Windows Explorer while browsing the Libraries location. In order for your custom library to appear in this location it must be created under the "Windows Libraries" folder from the [Files and Folders Page - Installer Project](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Creating a new library
 
 ![New Library](https://cdn.advancedinstaller.com/img/toolbar/library-new.png "New Library")Use the \[New Library \] toolbar button or the “New Library > Custom” list context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Updating a predefined library
 
  The predefined libraries that can be updated are: Documents, Pictures, Videos and Music. These are placed in Windows Libraries predefined folder. In order to edit a predefined library go to Windows Libraries predefined folder and then select “New Library > <library>>” list context menu item. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Editing an existing library
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while a library is selected in the “Files” panel or double click on a library file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Libraries can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -181,18 +175,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cerebral-showdowns-top-general-knowledge-videos/"><u>[New] Cerebral Showdowns - Top General Knowledge Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtube-placement-secrets-what-matters-most-in-2024/"><u>[Updated] Unlock YouTube Placement Secrets What Matters Most, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/convenient-iphone-method-for-live-screen-capture/"><u>Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-finding-and-reaching-out-to-snapchat-support/"><u>Guide: Finding and Reaching Out to Snapchat Support</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-buy-and-activate-mirallis-offerings-a-comprehensive-guide/"><u>How To Buy & Activate Mirallis Offerings: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rekindle-ambition-top-10-motivational-moments/"><u>Rekindle Ambition Top 10 Motivational Moments</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-guide-on-transferring-your-favorite-spotify-tracks-onto-a-cd/"><u>Simple Guide on Transferring Your Favorite Spotify Tracks Onto a CD</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-create-a-youtube-video-recording-with-the-action-effect/"><u>Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts-for-2024/"><u>The Ultimate Mac Video Editor Adobe Premiere Pro for Experts for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-free-download-managers-replacing-savefromnet-on-pc-and-mac-systems/"><u>Ultimate Free Download Managers Replacing SaveFrom.net on PC & Mac Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>Updated In 2024, Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-content-strategy-mastery-selecting-top-rank-trackers-uncovered-for-2024/"><u>[Updated] Content Strategy Mastery - Selecting Top Rank Trackers Uncovered for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-overflow-to-organization-editing-giant-tiktok-files-with-precision/"><u>2024 Approved From Overflow to Organization Editing Giant TikTok Files with Precision</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-your-videos-seamlessly-experience-the-top-free-flv-to-mp4-converter/"><u>Convert Your Videos Seamlessly: Experience the Top Free FLV-to-MP4 Converter!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-and-pro-tips-for-sharing-your-itunes-playlist-on-android/"><u>Easy Steps & Pro Tips for Sharing Your iTunes Playlist on Android</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effortless-methods-to-save-songs-from-beatport-online-store/"><u>Effortless Methods to Save Songs From Beatport Online Store</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/home-screen-essentials-mastering-the-art-of-an-efficient-start-page/"><u>Home Screen Essentials: Mastering the Art of an Efficient Start Page</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mobile-optimization-techniques-for-chatgpt/"><u>Mobile Optimization Techniques for ChatGPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-blurry-ui-elements-in-far-cry/"><u>Remedying Blurry UI Elements in Far Cry</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-cat-s42-rugged-device-examined-unmatched-protection-yet-restrictive-velocity/"><u>The CAT S42 Rugged Device Examined: Unmatched Protection Yet Restrictive Velocity</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tutorial-extracting-audio-segments-as-track-files-from-videos/"><u>Tutorial: Extracting Audio Segments as Track Files From Videos</u></a></li>
 </ul></div>
 
