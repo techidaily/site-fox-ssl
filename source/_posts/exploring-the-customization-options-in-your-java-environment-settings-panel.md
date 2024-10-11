@@ -1,7 +1,7 @@
 ---
 title: Exploring the Customization Options in Your Java Environment Settings Panel
-date: 2024-09-29T20:47:03.267Z
-updated: 2024-10-05T19:45:29.886Z
+date: 2024-10-06T21:06:00.068Z
+updated: 2024-10-11T02:22:36.179Z
 tags:
   - user-guide
 categories:
@@ -83,13 +83,6 @@ Table of Contents
 
 On the [Java Products](https://tools.techidaily.com/advancedinstaller/products/) page's right side panel, under settings tab, you can view and set the parameters of your Java Product.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Classpath
 
 This list must contain all the JAR/Zip archives that form your application.
@@ -99,16 +92,10 @@ This list must contain all the JAR/Zip archives that form your application.
 Use the \[JAR(s)... \] button to add components to the classpath. These archives must be already included in the installation, through the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add path locations
@@ -120,6 +107,13 @@ Use the \[Folder... \], \[Property... \] or \[Env Var... \] button to add a path
  Use the \[Remove \] button, to remove a JAR/Zip archive from a Java Product. The actual files will not be removed from [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In case you are creating a Mac OS X package, any properties, environment variables or folders not included in the Application Folder you specify in the classpath list will be invalid.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add wildcard components
 
@@ -135,10 +129,10 @@ Use the \[\*.jar... \] button to add a new "Classpath" location. A list will app
 ## Application
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Main class
@@ -153,46 +147,46 @@ Use the drop-down list button to select the one you want.
 
 Select your application's type (Graphical User Interface, Console or Windows Service). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Single Instance
 
 If your application is of Console or Graphical User Interface type, you can set it to run as an [Single Instance Application](https://tools.techidaily.com/advancedinstaller/products/). Select the "Single Instance" checkbox to do that.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Startup failure check
 
 Any uncaught exception from the main thread is described in a dialog box that will allow the user either to stop the application or to ignore the exception. This option applies only to GUI applications.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Omit service name parameter
 
 When installing the Java product as a service the service name is passed as parameter automatically. If you do not need/expect that to be the first parameter received by your application, in the command line, enable this option.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hide settings
 
 The [Native Java Launcher](https://tools.techidaily.com/advancedinstaller/products/) configuration can be seen and modified by the end user since it is placed into an INI file next to the application. The settings that are not resolved at install time can be hidden inside the launcher. This way the user will not be able to see your private settings.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set product folder as current
 
 Set the java application's current directory to the application's folder.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Execution Level
 
@@ -230,10 +224,10 @@ For a Graphical User Interface Application, you can set:
 Click on this hyperlink to customize metadata for your Java EXE Application. The[Edit EXE Metadata Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -278,21 +272,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-master-picks-for-commercial-cloud-space/"><u>[New] Master Picks for Commercial Cloud Space</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tiktoks-toptwitter-tweets-amassing-views/"><u>[Updated] 2024 Approved TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-detective-duty-step-into-4-virtual-investigations/"><u>AI-Powered Detective Duty: Step Into 4 Virtual Investigations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/decoding-adobes-cloud-storage-features-and-benefits-with-contrasting-solutions/"><u>Decoding Adobe’s Cloud Storage Features & Benefits with Contrasting Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-server-pages-collection-optimizing-web-performance/"><u>Efficient Server Pages Collection: Optimizing Web Performance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevate-your-dating-game-with-cleverly-crafted-tinder-profiles/"><u>Elevate Your Dating Game with Cleverly Crafted Tinder Profiles</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-tips-seamlessly-switching-from-keynote-files-to-microsoft-powerpoint-slides/"><u>Expert Tips: Seamlessly Switching From Keynote Files to Microsoft PowerPoint Slides</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-features-and-uses-of-idriverscomponent-in-modern-systems/"><u>Exploring the Features and Uses of IDriversComponent in Modern Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-7-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 7</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-your-mobile-device-under-surveillance-discover-telltale-signs-of-phone-monitoring/"><u>Is Your Mobile Device Under Surveillance? Discover Telltale Signs of Phone Monitoring</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-viewing-the-complete-indiana-jones-adventures-sequentially/"><u>The Ultimate Guide: Viewing The Complete Indiana Jones Adventures Sequentially</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-asus-rog-phone-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Asus ROG Phone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-route-settings-in-project-management-dashboard/"><u>Understanding Route Settings in Project Management Dashboard</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-9-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 9 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-filter-techniques/"><u>[New] Mastering Instagram Filter Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-video-frame-ratio-classifications/"><u>[Updated] In 2024, FB Video Frame Ratio Classifications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-vs-twitch-hub-best-platform-debate/"><u>2024 Approved OBS Vs. Twitch Hub Best Platform Debate</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/3-simple-steps-how-to-transform-your-files-from-wav-to-wma-format/"><u>3 Simple Steps: How to Transform Your Files From WAV to WMA Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/conquer-flip-trickster-gameplay-like-a-pro-a-step-by-step-tutorial-for-pc-users/"><u>Conquer Flip Trickster Gameplay Like a Pro - A Step-by-Step Tutorial for PC Users</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/il-tuo-guida-per-scaricare-e-visualizzare-i-tuoi-videoplaylist-in-4k-utilizzando-il-downloader-gratuito-perfetto-tecniche-seoplus/"><u>Il Tuo Guida per Scaricare E Visualizzare I Tuoi Video/Playlist in 4K Utilizzando Il Downloader Gratuito Perfetto: Tecniche SEO+</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-storyboard-studio/"><u>In 2024, Digital Storyboard Studio</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-efficiency-the-top-5-video-shortener-tools/"><u>Unlocking Efficiency The Top 5 Video Shortener Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/updating-your-documents-a-comprehensive-guide-on-editing-text-files/"><u>Updating Your Documents: A Comprehensive Guide on Editing Text Files</u></a></li>
 </ul></div>
 

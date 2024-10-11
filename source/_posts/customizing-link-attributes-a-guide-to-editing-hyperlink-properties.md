@@ -1,7 +1,7 @@
 ---
 title: "Customizing Link Attributes: A Guide to Editing Hyperlink Properties"
-date: 2024-09-29T20:35:09.183Z
-updated: 2024-10-05T17:27:55.296Z
+date: 2024-10-07T23:11:09.263Z
+updated: 2024-10-11T06:21:46.322Z
 tags:
   - user-guide
 categories:
@@ -42,10 +42,16 @@ Edit the properties of a hyperlink.
 ![Edit Module Dependencies Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-hyperlink-dialog.png "Edit Module Dependencies Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General
@@ -103,22 +109,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonize-life-with-these-essential-music-video-apps/"><u>[New] Harmonize Life with These Essential Music Video Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-exploring-video-playback-vlc-vs-mx/"><u>[Updated] Exploring Video Playback VLC Vs. MX</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-flight-control-best-motor-selections-unveiled/"><u>[Updated] Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-quickly-speed-up-or-decelerate-videos-for-peak-engagement/"><u>[Updated] Quickly Speed Up or Decelerate Videos for Peak Engagement</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-2024-screen-mirroring-solutions-top-5-pick/"><u>Best 2024 Screen Mirroring Solutions: Top 5 Pick</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-no-cost-android-scanner-software-a-trustworthy-choice/"><u>Best No-Cost Android Scanner Software: A Trustworthy Choice</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-14-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 14 Phone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/inlibrary-file-a-comprehensive-guide/"><u>InLibrary File: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insights-into-computing-with-tom-expert-hardware-analysis/"><u>Insights Into Computing with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximizing-user-engagement-with-optimal-search-outcome-presentation/"><u>Maximizing User Engagement with Optimal Search Outcome Presentation</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/optimize-your-programs-with-advanced-assembly-attributes-settings-interface/"><u>Optimize Your Programs with Advanced Assembly Attributes Settings Interface</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revise-pseudo-formatted-template-conversation-interface/"><u>Revise Pseudo-Formatted Template Conversation Interface</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-fixing-the-absent-msvcr80dll-file-on-windows-systems/"><u>Step-by-Step Solution for Fixing the Absent msvcr80.dll File on Windows Systems</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/streamlining-update-processes-with-the-advanced-iupdatercomponent-module/"><u>Streamlining Update Processes with the Advanced IUpdaterComponent Module</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-fcp-x-effects-made-simple-a-step-by-step-tutorial/"><u>Updated 2024 Approved FCP X Effects Made Simple A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-share-wisdom-4-proven-methods-to-tie-fb-stories/"><u>[New] Share Wisdom 4 Proven Methods to Tie FB Stories</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>2024 Approved Finding Your Ideal Display UltraWide vs UHD 4K Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-the-techniques-for-autoplay-youtube-videos-on-fb/"><u>2024 Approved Unveiling the Techniques for Autoplay YouTube Videos on FB</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-photo-management-apps-top-5-choices-for-android-and-ios-users/"><u>Best Photo Management Apps: Top 5 Choices for Android & iOS Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/capture-your-screen-like-a-pro-the-ultimate-techniques-for-screenshots-on-windows-10-devices/"><u>Capture Your Screen Like a Pro: The Ultimate Techniques for Screenshots on Windows 10 Devices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/default-text-configuration-options/"><u>Default Text Configuration Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/detailed-insights-into-ipaddress-management/"><u>Detailed Insights Into IPAddress Management</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-oppo-a59-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Oppo A59 5G.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>In 2024, Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-40-neo-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Neo Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcpx-storage-solutions-masterclass-on-freeing-up-space-on-your-mac/"><u>New In 2024, FCPX Storage Solutions Masterclass on Freeing Up Space on Your Mac</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-solutions-for-when-your-iphone-wont-connect-to-itunes/"><u>Step-by-Step Solutions for When Your iPhone Won't Connect to iTunes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-latest-in-sony-blu-ray-s6700-for-2024/"><u>Unveiling the Latest in Sony Blu-Ray S6700 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-all-james-bond-films-in-chronological-order-a-comprehensive-list/"><u>Watch All James Bond Films in Chronological Order - A Comprehensive List</u></a></li>
 </ul></div>
 

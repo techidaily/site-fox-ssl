@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Configuring Your XML Data Integration Tab
-date: 2024-10-02T18:34:03.721Z
-updated: 2024-10-05T19:23:56.496Z
+date: 2024-10-06T21:13:35.754Z
+updated: 2024-10-10T21:36:35.083Z
 tags:
   - user-guide
 categories:
@@ -103,18 +103,18 @@ In this section you can specify the installation behavior of the XML file.
 
  You have the following options: 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create file if it doesn't already exists
 
 If the XML file with the given name doesn't exist on the target machine, it will be created with the specified settings.
 
 * Ignore empty attributes - When the XML will be created the attributes that are empty won't be added to the file
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove file on uninstall
 
@@ -125,22 +125,15 @@ Select one of the following options if you want to remove the XML file from the 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two available checkbox options is checked, the file will not be removed on uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Component
 
 This field specifies the component whose install or removal will trigger the XML update operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -158,16 +151,23 @@ If this option is enabled a backup copy of the original XML file will be created
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Because XML file updates may occur during uninstall too, a backup of the file will be created on uninstall as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
 
-![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option**enabled**, because an unexpected error during the XML update process may _corrupt_ parts of your existing XML file.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option**enabled**, because an unexpected error during the XML update process may _corrupt_ parts of your existing XML file.
+
 ## Common options
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Impersonate installing user
 
@@ -206,20 +206,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[New] In 2024, Easy-to-Follow Guide to Mobile Recording Snapchat Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crafting-striking-instagram-profile-overviews-for-2024/"><u>[Updated] Crafting Striking Instagram Profile Overviews for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/verified-quick-and-easy-platinum-edition-winx-dvd-ripping-software-for-hd-mp4-conversion-h264-within-5-mins/"><u>[VERIFIED] Quick & Easy: Platinum Edition WinX DVD Ripping Software for HD MP4 Conversion (H.264) Within 5 Mins!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-server-pages-collection-optimizing-web-performance/"><u>Efficient Server Pages Collection: Optimizing Web Performance</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-strategies-for-flawless-data-management-with-samsung-kies-a-comprehensive-backup-restore-handbook/"><u>Expert Strategies for Flawless Data Management with Samsung Kies: A Comprehensive Backup-Restore Handbook</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-zte-blade-a73-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on ZTE Blade A73 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-your-youtube-clicks-with-optimal-dimensions/"><u>In 2024, Maximizing Your YouTube Clicks with Optimal Dimensions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-your-podcasts-rss-feed-performance-and-structure/"><u>In 2024, Optimizing Your Podcast's RSS Feed Performance and Structure</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-a79-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo A79 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-crafting-engaging-and-dynamic-web-pages/"><u>Mastering the Art of Crafting Engaging and Dynamic Web Pages</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-test-nikon-d7500-vs-competitors-for-2024/"><u>The Ultimate Test Nikon D7500 vs Competitors for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-instantly-connecting-fans-how-to-take-your-fb-live-further/"><u>[New] Instantly Connecting Fans How to Take Your FB Live Further</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-understanding-gb-requirement-for-a-days-film-for-2024/"><u>[New] Understanding GB Requirement for a Day's Film for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-virtual-microphones/"><u>[Updated] 2024 Approved Premier Virtual Microphones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-acoustic-architects-leading-sites-to-buy-skype-tones-for-2024/"><u>[Updated] Acoustic Architects Leading Sites to Buy Skype Tones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-freeze-entire-browser-sheet/"><u>[Updated] Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-rated-face-removal-tools-best-apps-for-censoring-faces-in-images-on-ios-and-android-devices/"><u>1. Top Rated Face Removal Tools: Best Apps for Censoring Faces in Images on iOS & Android Devices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/a-comprehensive-tutorial-for-enjoying-and-excelling-at-real-racing-n3-on-a-windows-or-mac-machine/"><u>A Comprehensive Tutorial for Enjoying and Excelling at Real Racing N°3 on a Windows or Mac Machine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/adware-resurgence-decoding-the-cycle-of-infection-and-protection-strategies/"><u>Adware Resurgence: Decoding the Cycle of Infection & Protection Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-d530-driver-download-and-update/"><u>Canon D530 Driver Download & Update</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-tips-on-managing-your-products-with-id-tracking-and-code-organization/"><u>Essential Tips on Managing Your Products with ID Tracking and Code Organization</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-the-various-aspects-of-module-integration-projects/"><u>Exploring the Various Aspects of Module Integration Projects</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/is-your-mobile-device-vulnerable-to-hacks-through-sms-insights-from-malwarefox/"><u>Is Your Mobile Device Vulnerable to Hacks Through SMS? Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tailored-template-solutions-creating-personalized-project-designs/"><u>Tailored Template Solutions: Creating Personalized Project Designs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inal-step-delete-your-youtube-shorts-link-for-2024/"><u>The Final Step Delete Your YouTube Shorts Link for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ken-burns-method-in-camtasia-9-explained-simply-for-2024/"><u>The Ken Burns Method in Camtasia 9 Explained Simply for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-5-unique-id-photo-editing-apps-of/"><u>Top 5 Unique ID Photo Editing Apps Of</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Optimize iFolder Synchronization with Advanced Filter Settings
-date: 2024-10-01T20:03:53.661Z
-updated: 2024-10-05T19:23:35.761Z
+date: 2024-10-07T21:39:32.102Z
+updated: 2024-10-11T02:41:05.720Z
 tags:
   - user-guide
 categories:
@@ -119,6 +119,13 @@ This interface is meant to specify the filters that allow you to select which fi
 
 IFolderSyncFilters : IDispatch
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 **Array<String> NamePatterns** \- Gets the collection of the patterns that will be used to filter files.
@@ -144,10 +151,10 @@ IFolderSyncFilters : IDispatch
 **String ExcludeSubfolders** \- Gets or sets the excluded sub-folders. This is available only on exclude filters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -177,22 +184,15 @@ Method 2: use PowerShell for scanning folder contents + Advanced Installer
 $proj     = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## add new folder
 $new_folder = $proj.PredefinedFolders.ApplicationFolder.CreateFolder("MyApplication")
 $folder_to_sync = "D:\MyApplication\MyApplication\bin\Release"
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## get all resources from folder
 $resources = Get-ChildItem $folder_to_sync -Exclude ("*.pdb", "*.aip") -Recurse
@@ -228,10 +228,10 @@ $proj.SaveAs("D:\MyApplication\Setup\Setup.aip")
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -275,20 +275,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[New] 2024 Approved Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-pixelpie-editor/"><u>[New] 2024 Approved PixelPie Editor</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-webcam-guide-for-exceptional-podcast-production/"><u>[Updated] Essential Webcam Guide for Exceptional Podcast Production</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-giggle-graphics-humorhub-for-2024/"><u>[Updated] Giggle Graphics HumorHub for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-free-pc-video-editor-convert-videos-on-windows-at-no-cost/"><u>Download Free PC Video Editor: Convert Videos on Windows at No Cost</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-hdmi-21-is-so-important-for-gaming/"><u>Here's Why HDMI 2.1 Is So Important For Gaming</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-cutting-edge-tech-tips-from-toms-computing-corner/"><u>Unveiling Cutting-Edge Tech Tips From Tom's Computing Corner</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/vero-authors-spotlight-at-snapchat/"><u>Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-book-trailers-for-impact/"><u>[New] Best Book Trailers for Impact</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-what-you-need-to-know-about-tiktoks-latest-trends/"><u>[Updated] 2024 Approved What You Need to Know About TikTok’s Latest Trends</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-youtube-video-editing-software-top-picks/"><u>Best Free YouTube Video Editing Software - Top Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-5-vpn-solutions-to-unlock-global-netflix-streams/"><u>Discover the Top 5 VPN Solutions to Unlock Global Netflix Streams</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/eliminating-browser-hijackers-a-3-step-guide-to-removing-the-redirect-virus/"><u>Eliminating Browser Hijackers: A 3-Step Guide to Removing the Redirect Virus</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-mastering-video-edits-in-imovie-on-your-pc/"><u>Essential Tips for Mastering Video Edits in iMovie on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-video-and-photo-quality-with-the-newest-lenovo-camera-drivers-in-windows-7-environment/"><u>Improve Video and Photo Quality with the Newest Lenovo Camera Drivers in Windows 7 Environment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-hot-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Hot 40? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-why-sony-playstation-5-delivers-ultimate-gaming-experience/"><u>In-Depth Look at Why Sony PlayStation 5 Delivers Ultimate Gaming Experience</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/indias-tiktok-dilemma-secrets-to-preserving-your-downloaded-short-clips-post-ban/"><u>India's TikTok Dilemma: Secrets to Preserving Your Downloaded Short Clips Post-Ban</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mp4-to-m4a-conversion-a-step-by-step-guide/"><u>MP4 to M4A Conversion: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimizing-xml-data-retrieval-mastering-ixmlsearch-methods/"><u>Optimizing XML Data Retrieval: Mastering IXMLSearch Methods</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-overcoming-digital-theater-system-dts-sound-problems/"><u>Troubleshooting Guide: Overcoming Digital Theater System (DTS) Sound Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028262358-windows-11/"><u>Windows 11を使った画面録画手順集【長時間モード完璧解決】</u></a></li>
 </ul></div>
 

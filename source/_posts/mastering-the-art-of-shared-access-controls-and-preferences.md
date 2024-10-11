@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Shared Access Controls and Preferences
-date: 2024-10-02T18:03:50.164Z
-updated: 2024-10-05T18:52:28.248Z
+date: 2024-10-06T04:39:03.192Z
+updated: 2024-10-11T03:18:54.590Z
 tags:
   - user-guide
 categories:
@@ -98,10 +98,10 @@ This dialog allows you to specify share permissions for the selected folder.
 ![Share Permissions](https://cdn.advancedinstaller.com/img/dialog/share-permissions.png "Share Permissions")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -109,10 +109,10 @@ This dialog allows you to specify share permissions for the selected folder.
 This button creates a new share permission for the selected folder. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). Additionally, you can use the Insert key while the "Groups or user names" list is focused to create a new share permission.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -120,10 +120,10 @@ This button creates a new share permission for the selected folder. You will be 
 Shows you the selected share permission's properties and allows you to change them. Additionally, you can use theSpace key while an element is selected, to edit its properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,19 +169,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-audience-friendly-techniques-for-monitoring-facebook-live/"><u>[Updated] Audience-Friendly Techniques for Monitoring Facebook Live</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/achieve-impeccable-macbook-pro-video-capture-expert-tips-and-tricks-for-crystal-clear-results/"><u>Achieve Impeccable MacBook Pro Video Capture: Expert Tips and Tricks for Crystal Clear Results</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-pro-with-2023s-free-templates/"><u>Become a Pro with 2023'S FREE Templates</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-your-videos-seamlessly-experience-the-top-free-flv-to-mp4-converter/"><u>Convert Your Videos Seamlessly: Experience the Top Free FLV-to-MP4 Converter!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-steps-and-pro-tips-for-sharing-your-itunes-playlist-on-android/"><u>Easy Steps & Pro Tips for Sharing Your iTunes Playlist on Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/echoes-of-calls-past-iphones-audio-archive-for-2024/"><u>Echoes of Calls Past - iPhone's Audio Archive for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-screenshot-and-recording-tools-for-learning-environments/"><u>Essential Screenshot & Recording Tools for Learning Environments</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-optimize-ifolder-synchronization-with-advanced-filter-settings/"><u>How To Optimize iFolder Synchronization with Advanced Filter Settings</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/improved-techniques-in-detecting-installed-file-updates/"><u>Improved Techniques in Detecting Installed File Updates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-s17t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo S17t?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-pop-7-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Pop 7 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pathfinder-wrath-of-the-righteous-keyboard-fixes-what-you-can-do-to-restore-functionality/"><u>Pathfinder Wrath of the Righteous Keyboard Fixes - What You Can Do to Restore Functionality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-profit-on-reddit-here-are-your-13-most-accessible-ways-for-2024/"><u>Quick Profit on Reddit? Here Are Your 13 Most Accessible Ways for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/the-ultimate-list-of-best-free-and-paid-software-for-making-professional-transparent-pngs-what-you-must-use/"><u>The Ultimate List of Best Free and Paid Software for Making Professional Transparent PNGs: What You Must Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-level-up-your-farming-life-explore-7-14-mods/"><u>[New] 2024 Approved Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-youtube-livestreams-webcam-selection-mastery/"><u>[Updated] 2024 Approved Enhance YouTube Livestreams Webcam Selection Mastery</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-recognizing-and-defending-against-forget-your-apple-password-scams-insights-from-malwarefox/"><u>1. Recognizing and Defending Against Forget Your Apple Password Scams: Insights From MalwareFox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-adding-effects-on-digital-videos-for-2024/"><u>Advanced Tips for Adding Effects on Digital Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-61-screen-size-explore-the-best-phones-with-large-e-ink-displays/"><u>Amazing 6.1 Screen Size: Explore the Best Phones with Large E-Ink Displays!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/avoid-facebooks-targeted-video-promotions/"><u>Avoid Facebook's Targeted Video Promotions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-visibility-mastering-the-art-of-ibasesearch/"><u>Boost Your Visibility: Mastering the Art of IBaseSearch</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-what-every-listener-must-know-before-using-spotify/"><u>Comprehensive Guide: What Every Listener Must Know Before Using Spotify</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-overview-of-effective-sql-data-manipulation-methods/"><u>Comprehensive Overview of Effective SQL Data Manipulation Methods</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-power-of-inisection-unlocking-enhanced-user-experience-in-documents/"><u>Discover the Power of IniSection: Unlocking Enhanced User Experience in Documents</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-motorola-moto-g24-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Motorola Moto G24 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-secure-is-your-internet-activity-when-using-incognito-mode-unveiling-the-truth/"><u>How Secure Is Your Internet Activity When Using Incognito Mode? Unveiling the Truth</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimal-vehicle-control-preferences/"><u>Optimal Vehicle Control Preferences</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-convert-your-favorite-audible-books-into-epub-format-with-our-top-recommended-tools/"><u>Ultimate Guide: Convert Your Favorite Audible Books Into EPUB Format with Our Top Recommended Tools</u></a></li>
 </ul></div>
 

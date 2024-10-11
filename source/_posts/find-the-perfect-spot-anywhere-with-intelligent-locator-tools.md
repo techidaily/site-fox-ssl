@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Spot Anywhere with Intelligent Locator Tools
-date: 2024-09-30T16:00:50.736Z
-updated: 2024-10-05T18:14:22.219Z
+date: 2024-10-07T04:43:13.389Z
+updated: 2024-10-11T07:02:11.978Z
 tags:
   - user-guide
 categories:
@@ -125,37 +125,37 @@ Table of Contents
 ## ILocationSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IAppSearch: IBaseSearch
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview
 
 This interface is meant to edit an extension verb.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IDispath> Locators** \- Gets the collection of locators.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -178,10 +178,10 @@ Creates a new folder locator if it doesn’t exist and add it to the locator’s
 Removes a locator from the locator’s collection and destroys it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -223,19 +223,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-htc-u23-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/compatibility-check-and-troubleshooting-tips-how-to-watch-avi-movies-on-an-ipad-or-apple-tv/"><u>Compatibility Check & Troubleshooting Tips: How to Watch AVI Movies on an iPad or Apple TV</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-to-configuring-your-xml-data-integration-tab/"><u>Comprehensive Guide to Configuring Your XML Data Integration Tab</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a60s-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A60s Fingerprint Lock</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-configuration-system-didnt-initialize-error-on-your-windows-10-pc-guide/"><u>Resolve 'Configuration System Didn't Initialize' Error on Your Windows 10 PC [Guide]</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-the-cutting-out-sound-glitch-on-windows-11/"><u>Troubleshooting and Fixing the Cutting Out Sound Glitch on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-acer-chromebook-15-outstanding-capabilities-meet-an-expansive-screen/"><u>Unveiling the Acer Chromebook 15: Outstanding Capabilities Meet an Expansive Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-smoothing-out-aerial-footage-pulsation/"><u>[New] 2024 Approved Smoothing Out Aerial Footage Pulsation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unlock-the-magic-of-motion-in-video-text-elements/"><u>[New] In 2024, Unlock the Magic of Motion in Video Text Elements</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/capture-your-screen-like-a-pro-the-ultimate-techniques-for-screenshots-on-windows-10-devices/"><u>Capture Your Screen Like a Pro: The Ultimate Techniques for Screenshots on Windows 10 Devices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/detailed-insights-into-ipaddress-management/"><u>Detailed Insights Into IPAddress Management</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-your-perfect-match-with-window-based-dating-app-tinder/"><u>Discover Your Perfect Match with Window-Based Dating App Tinder</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-hassle-free-streaming-of-m4v-videos-on-any-device-with-our-free-top-player-for-macpc/"><u>Enjoy Hassle-Free Streaming of M4V Videos on Any Device with Our Free Top Player for Mac/PC</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/hands-free-solution-high-quality-recording-of-skype-chats-with-skype-call-logger/"><u>Hands-Free Solution: High-Quality Recording of Skype Chats with Skype Call Logger</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-create-a-successful-video-earnings-model-on-vimeo/"><u>How to Create a Successful Video Earnings Model on Vimeo</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-honor-90-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Honor 90 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/lenovo-laptop-a-complete-guide-to-recording-screens/"><u>Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safe-no-cost-methods-for-youtube-tracks-extraction-for-2024/"><u>Safe, No-Cost Methods for YouTube Tracks Extraction for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-solutions-for-when-your-iphone-wont-connect-to-itunes/"><u>Step-by-Step Solutions for When Your iPhone Won't Connect to iTunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-s18-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo S18 Pro FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

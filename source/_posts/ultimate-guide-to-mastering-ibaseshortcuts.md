@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering IBaseShortcuts
-date: 2024-10-04T17:45:35.454Z
-updated: 2024-10-05T22:05:53.796Z
+date: 2024-10-09T23:50:02.428Z
+updated: 2024-10-11T04:40:35.457Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ Table of Contents
 Using this interface, you can edit the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -126,10 +126,10 @@ Using this interface, you can edit the shortcut.
 IBaseShortcut : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +162,10 @@ IBaseShortcut : IDirectoryMember
 **IFile Target** \- Gets the target file for the shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -179,10 +179,10 @@ IBaseShortcut : IDirectoryMember
 ![Ishortcut](https://cdn.advancedinstaller.com/img/powershell-automation/ishortcut.png "Ishortcut")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -218,17 +218,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-effective-system-to-integrate-gopro-video-into-fully-rotational-cinematic-pieces/"><u>[New] Effective System to Integrate GoPro Video Into Fully Rotational Cinematic Pieces</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-powerful-storytelling-through-screencasts/"><u>[New] In 2024, Unlocking Powerful Storytelling Through Screencasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[New] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-no-cost-audio-archives-for-professional-youtube-makers/"><u>[Updated] 2024 Approved No-Cost Audio Archives for Professional YouTube Makers</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-free-and-premium-tools-for-effortless-signature-background-removal/"><u>1. Top Free and Premium Tools for Effortless Signature Background Removal</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-managing-and-resolving-issue-panes-efficiently/"><u>Effective Strategies for Managing and Resolving Issue Panes Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-system-compatibility-checks-with-iupdateinstalledbasedetector/"><u>Enhance System Compatibility Checks with IUpdateInstalledBaseDetector</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-starting-strong-key-equipment-for-youtube-success/"><u>In 2024, Starting Strong Key Equipment for YouTube Success</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/solving-your-youtube-video-buffering-and-stuttering-problems-a-comprehensive-guide/"><u>Solving Your YouTube Video Buffering & Stuttering Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-creme-de-la-creme-of-cordless-telecommunication-gadgets/"><u>Unveiling the Crème De La Crème of Cordless Telecommunication Gadgets</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-pc-with-new-nvidia-geforce-gtx-980-ti-driver-free-download/"><u>Upgrade Your PC with New NVIDIA GeForce GTX 980 Ti Driver [Free Download]</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/additives-like-coupling-agents-are-used-in-wpc-manufacturing-to-improve-the-interfacial-bonding-between-hydrophilic-wood-and-hydrophobic-plastic-components.51/"><u>Additives Like Coupling Agents Are Used in WPC Manufacturing to Improve the Interfacial Bonding Between Hydrophilic (Wood) and Hydrophobic (Plastic) Components.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-photo-management-apps-top-5-choices-for-android-and-ios-users/"><u>Best Photo Management Apps: Top 5 Choices for Android & iOS Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-component-locator-mastering-the-art-of-isearch-in-web-development/"><u>Efficient Component Locator: Mastering the Art of ISearch in Web Development</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-your-business-game-unlocking-potential-with-the-iadvinst-initiative/"><u>Elevate Your Business Game: Unlocking Potential with the iAdvinst Initiative</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-recording-avi-files-with-a-windows-laptop-or-computer/"><u>Mastering the Art of Recording AVI Files with a Windows Laptop or Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ready-to-use-established-sql-linking-dashboard/"><u>Ready-to-Use Established SQL Linking Dashboard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/srgb-adoption-over-traditional-rgb-techniques/"><u>Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/thing-your-private-playlist-sanctuary-on-youtube-for-2024/"><u>Unearthing Your Private Playlist Sanctuary on Youtube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win1110-nat-transition-altering-type-effectively/"><u>Win11/10 NAT Transition: Altering Type Effectively</u></a></li>
 </ul></div>
 

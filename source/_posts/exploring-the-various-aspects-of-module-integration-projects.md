@@ -1,7 +1,7 @@
 ---
 title: Exploring the Various Aspects of Module Integration Projects
-date: 2024-09-30T18:54:59.120Z
-updated: 2024-10-05T17:18:58.466Z
+date: 2024-10-07T22:13:41.384Z
+updated: 2024-10-10T18:36:08.162Z
 tags:
   - user-guide
 categories:
@@ -79,39 +79,39 @@ Table of Contents
 
 ## Merge Modules Project Types
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Merge Module
 
 ![Merge Module Project](https://cdn.advancedinstaller.com/img/project/merge-module.png "Merge Module Project")This type of project gives you the possibility to create [Merge Modules](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Enterprise license.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Import
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Import MSM Package
 
 ![Msm import](https://cdn.advancedinstaller.com/img/project/msm-import.png "Msm import")This type of project gives you the possibility to import an existing MSM into an Advanced Installer project. Note that this project type requires an Enterprise license.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import Wix Module
 
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio Wix Module
@@ -119,10 +119,10 @@ Table of Contents
 ![Wix module import](https://cdn.advancedinstaller.com/img/project/wix-module-import.png "Wix module import")This wizard allows you to import a Wix module in an Advanced Installer project. Note that this project type requires an Enterprise license.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visual Studio MSM Project
@@ -162,19 +162,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-nextgen-video-havens-step-away-from-youtube/"><u>[Updated] In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-tomorrows-teachers-today-through-vr/"><u>2024 Approved Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-free-onlinemobile-images-conversion-tools-of-2022-top-10-list/"><u>Best Free Online/Mobile Images Conversion Tools of 2022 - Top 10 List</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-photo-management-apps-top-5-choices-for-android-and-ios-users/"><u>Best Photo Management Apps: Top 5 Choices for Android & iOS Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/default-text-configuration-options/"><u>Default Text Configuration Options</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/expert-tips-on-adding-yt-playlists-to-your-website-content/"><u>Expert Tips on Adding YT Playlists to Your Website Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-g24-power-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola G24 Power</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y100a-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-microsoft-pointing-device-smooth-update-its-windows-driver-today/"><u>Keep Your Microsoft Pointing Device Smooth: Update Its Windows Driver Today!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-seamless-connectivity-outdoors-an-expert-review-on-the-capabilities-of-the-netgear-orbi-rbs50y-smart-wifi-system/"><u>Unlocking Seamless Connectivity Outdoors: An Expert Review on the Capabilities of the Netgear Orbi RBS50Y Smart WiFi System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-netflixs-innovative-split-screen-tech/"><u>[Updated] 2024 Approved Mastering Netflix's Innovative Split Screen Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cold-war-stuck-at-boot-up-heres-how-to-launch-into-action-across-devices/"><u>Cold War Stuck at Boot-Up? Here’s How to Launch Into Action Across Devices!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-steps-to-erase-your-yahoo-email-forever/"><u>Complete Guide: Steps to Erase Your Yahoo Email Forever</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-development-with-7-non-chatgpt-ai-solutions/"><u>Enhancing Development with 7 Non-ChatGPT AI Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-asus-rog-phone-7-by-drfone-android/"><u>How to Bypass FRP on Asus ROG Phone 7?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-photo-editing-software-with-background-removal-features-in-202n2/"><u>Leading Photo Editing Software with Background Removal Features in 202N2</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-issues-with-adding-mp4-files-to-itunes-for-synching-your-iphone-ipad-or-apple-tv/"><u>Resolving Issues with Adding MP4 Files to iTunes for Synching Your iPhone, iPad or Apple TV</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
 </ul></div>
 

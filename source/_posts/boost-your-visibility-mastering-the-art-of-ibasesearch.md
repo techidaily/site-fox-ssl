@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Visibility: Mastering the Art of IBaseSearch"
-date: 2024-10-03T16:34:57.350Z
-updated: 2024-10-05T18:21:00.962Z
+date: 2024-10-10T05:17:52.055Z
+updated: 2024-10-10T18:45:46.488Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 IBaseSearch: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ IBaseSearch: IDispatch
 This interface is meant to retrieve basic information about a search.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -160,10 +160,10 @@ This interface is meant to retrieve basic information about a search.
 **String Type** \- Gets the type of search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,18 +205,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-crafting-impactful-ppt-tutorials-for-online-learning-sessions-for-2024/"><u>[New] Crafting Impactful PPT Tutorials for Online Learning Sessions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method/"><u>[New] In 2024, Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-elevate-your-tiktok-experience-instant-download-savvy/"><u>[Updated] Elevate Your TikTok Experience Instant Download Savvy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-avoiding-malware-while-securing-free-and-safe-vlc-download-on-macos/"><u>[Updated] In 2024, Avoiding Malware While Securing Free & Safe VLC Download on macOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-end-to-end-camera-rotation-explained/"><u>[Updated] In 2024, End-to-End Camera Rotation Explained</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-chuckle-cache-uncovering-the-best-twitters-comedy-threads/"><u>2024 Approved Chuckle Cache Uncovering the Best Twitters Comedy Threads</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/achieve-impeccable-macbook-pro-video-capture-expert-tips-and-tricks-for-crystal-clear-results/"><u>Achieve Impeccable MacBook Pro Video Capture: Expert Tips and Tricks for Crystal Clear Results</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-your-videos-seamlessly-experience-the-top-free-flv-to-mp4-converter/"><u>Convert Your Videos Seamlessly: Experience the Top Free FLV-to-MP4 Converter!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/explore-the-best-no-cost-video-meeting-apps-iosandroid-for-2024/"><u>Explore the Best No-Cost Video Meeting Apps - iOS/Android for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-optimize-ifolder-synchronization-with-advanced-filter-settings/"><u>How To Optimize iFolder Synchronization with Advanced Filter Settings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leap-into-instagram-stardom-with-ease/"><u>In 2024, Leap Into Instagram Stardom with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/spark-interest-everyones-free-with-our-youtube-banner-samples-in-2024/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples, In 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/the-ultimate-list-of-best-free-and-paid-software-for-making-professional-transparent-pngs-what-you-must-use/"><u>The Ultimate List of Best Free and Paid Software for Making Professional Transparent PNGs: What You Must Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>2024 Approved The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-distribute-your-customized-flipbooks-on-facebook-using-flipbuilder/"><u>How to Distribute Your Customized Flipbooks on Facebook Using FlipBuilder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/imovie-blueprint-the-pathway-to-crafting-impressive-square-videos-for-2024/"><u>IMovie Blueprint The Pathway to Crafting Impressive Square Videos for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-photo-editing-software-with-background-removal-features-in-202n2/"><u>Leading Photo Editing Software with Background Removal Features in 202N2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-trial-constraints-associated-with-movavi-software-solutions/"><u>Understanding the Trial Constraints Associated with Movavi Software Solutions</u></a></li>
 </ul></div>
 

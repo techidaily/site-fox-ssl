@@ -1,7 +1,7 @@
 ---
 title: Exploring the Characteristics of App-Based Cartography Features
-date: 2024-09-30T20:24:03.044Z
-updated: 2024-10-05T19:01:05.900Z
+date: 2024-10-06T03:41:11.264Z
+updated: 2024-10-11T00:56:59.984Z
 tags:
   - user-guide
 categories:
@@ -109,17 +109,10 @@ You can set the web document extension to be mapped to this script processor.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can configure **wildcard script maps** by setting the extension field to:  \* .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Module
@@ -129,6 +122,13 @@ In this field you can specify the module handler for your application mapping. T
 When this field is empty, the Application Mapping will be deployed on all IIS versions. However, when a module value is present, deployment of that Application Mapping will be done only on IIS 7.0 and newer. 
 
 For ISAPI/CGI Script Maps, IIS 7 requires CgiModule/IsapiModule to be set as the ScriptMap's module. The user can do this from our UI but, because of the rule described above, will have the Application Mapping deployed only to IIS 7.0 and newer. However, if the script processor path ends with '.exe'/'.cgi'/'.dll' then the correspondent module will be added automatically to the mapping on IIS7 and newer. Thus leaving the module field empty for such ISAPI/CGI Script Maps guarantees that the script will be deployed on all IIS versions.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Script Processor
 
@@ -140,18 +140,25 @@ Allows dynamic content to execute on the target IIS server.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Behavior
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Script engine
 
 Select this option when you want the application to run in a directory without Execute permissions. This setting is intended primarily for script-based applications such as ASP and IDC that are mapped to an interpreter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check that file exists
 
@@ -160,13 +167,6 @@ Select this option to instruct the Web server to verify the existence of the req
 If the script does not exist or the user does not have permission, the appropriate warning message is returned to the browser and the script engine is not invoked. This option can be useful for scripts mapped to non-CGI executables like the Perl interpreter that do not send a CGI response if the script is not accessible.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Because the script will be opened twice, once by the server and once by the script engine, there is some performance cost to enabling this option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HTTP Verbs
 
@@ -209,24 +209,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-easy-ways-to-record-webcam-chat/"><u>[New] 2024 Approved Easy Ways to Record Webcam Chat</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-smart-strategies-for-entrepreneurial-video-marketing/"><u>[New] SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-youtube-thumbnails-neon-borders-top-3-methods/"><u>[Updated] 2024 Approved Enhancing YouTube Thumbnails Neon Borders - Top 3 Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-subtitle-craft-with-the-best-online-resources-today/"><u>[Updated] 2024 Approved Mastering Subtitle Craft with The Best Online Resources Today</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-combating-an-unresponsive-obs-camera-input-stream-for-2024/"><u>[Updated] Combating an Unresponsive OBS Camera Input Stream for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a1-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A1 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-web-traffic-with-advanced-seo-techniques-a-guide-to-enhanced-online-discoverability/"><u>Boost Web Traffic with Advanced SEO Techniques: A Guide to Enhanced Online Discoverability</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-features-of-the-xyz-file-handling-system-ixml/"><u>Exploring Features of the XYZ File Handling System (iXML)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-customization-options-in-your-java-environment-settings-panel/"><u>Exploring the Customization Options in Your Java Environment Settings Panel</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-depth-shots-the-art-of-closing-in-on-movies/"><u>In-Depth Shots The Art of Closing in on Movies</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/open-new-browser-tabs-and-windows-a-comprehensive-guide/"><u>Open New Browser Tabs and Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revamp-your-billboard-messages-a-guide-to-editing-billboard-text/"><u>Revamp Your Billboard Messages: A Guide to Editing Billboard Text</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-methods-to-move-photographs-from-your-oneplus-amoled-6-device-to-a-desktop-system/"><u>Simple Methods to Move Photographs From Your OnePlus Amoled 6 Device to a Desktop System</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-11-essential-android-home-screen-add-ons/"><u>Top 11 Essential Android Home Screen Add-Ons</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-rated-screen-mirroring-tools-on-windows-11-a-comprehensive-guide/"><u>Top Rated Screen Mirroring Tools on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-jpg-photos-into-semi-transparent-images-easy-methods-unveiled/"><u>Transforming JPG Photos Into Semi-Transparent Images - Easy Methods Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-made-simple-how-to-perform-a-factory-reset-on-your-samsung-tv/"><u>Troubleshooting Made Simple: How To Perform a Factory Reset On Your Samsung TV</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-mov-video-orientation-changers-top-5-list/"><u>Updated In 2024, Free MOV Video Orientation Changers Top 5 List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-content-12-best-for-insta-edits/"><u>[New] 2024 Approved Crafting Content 12 Best for Insta Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-storing-real-time-webcam-talks/"><u>[Updated] 2024 Approved Strategies for Storing Real-Time Webcam Talks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphones-ultimate-video-capture-list/"><u>[Updated] IPhone's Ultimate Video Capture List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-picture-perfection-10-screens/"><u>[Updated] Pinnacle of Picture Perfection – #10 Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>[Updated] Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-headset-compatibility-the-definitive-guide-to-updating-drivers-on-windows-pcs/"><u>Corsair Headset Compatibility: The Definitive Guide to Updating Drivers on Windows PCs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-component-locator-mastering-the-art-of-isearch-in-web-development/"><u>Efficient Component Locator: Mastering the Art of ISearch in Web Development</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-your-business-game-unlocking-potential-with-the-iadvinst-initiative/"><u>Elevate Your Business Game: Unlocking Potential with the iAdvinst Initiative</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ready-to-use-established-sql-linking-dashboard/"><u>Ready-to-Use Established SQL Linking Dashboard</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-to-mastering-ibaseshortcuts/"><u>Ultimate Guide to Mastering IBaseShortcuts</u></a></li>
 </ul></div>
 

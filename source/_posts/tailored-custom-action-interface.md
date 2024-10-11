@@ -1,7 +1,7 @@
 ---
 title: Tailored Custom Action Interface
-date: 2024-10-01T19:35:25.709Z
-updated: 2024-10-05T18:23:45.683Z
+date: 2024-10-09T21:44:39.958Z
+updated: 2024-10-10T18:55:53.884Z
 tags:
   - user-guide
 categories:
@@ -77,28 +77,29 @@ Add [custom actions](https://tools.techidaily.com/advancedinstaller/products/) t
 
 ![Custom Actions Page](https://cdn.advancedinstaller.com/img/ui/custom-actions-page.png "Custom Actions Page")  
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Installation Stages
 
 In the "Installation Sequence" pane are the installation stages. Each stage contains several standard actions and user defined custom actions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Filters
 
 You can filter actions depending on their [execution condition](https://tools.techidaily.com/advancedinstaller/products/) by using the filters at the top: **Install**,**Uninstall** or **Maintenance**.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Applying filters does not guarantee the remaining visible custom actions will be executed in the selected scenario (Install, Uninstall or Maintenance). This happens because the custom action condition may evaluate to false at install-time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wizard Dialogs Stage
 
@@ -109,6 +110,13 @@ The action groups from this stage are:
 * **Searches** \- Searches from the [Search Page](https://tools.techidaily.com/advancedinstaller/products/) are performed.
 * **Paths Resolution** \- Directories paths, Features and Components states are resolved. Amount of required space is computed.
 * **User Selection** \- The installer dialogs interaction before pressing the\[Install \] button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Install Execution Stage
 
@@ -145,28 +153,35 @@ Actions from this stage are executed last in the installation after the_Install 
 
 In this tab from the bottom left pane you can filter using keywords to search among[available custom actions](https://tools.techidaily.com/advancedinstaller/products/). See the selected custom action's description in the bottom text area.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Operations
 
 ![Add custom action with sequence](https://cdn.advancedinstaller.com/img/articles/cogs.png "Add custom action with sequence") **Add custom action with sequence** \- The sequence will be placed in a default location appropriate for the type of custom action you are inserting. You can then move it to a more refined location.
 
 ![Cog](https://cdn.advancedinstaller.com/img/articles/cog.png "Cog") **Add custom action without sequence** \- This is useful if you wish to launch this custom action through an Execute custom action event in Dialogs page. Without any event as trigger, the custom action will never be executed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Existing Custom Actions Tab
 
 This tab lists all custom actions added to the project (with and without sequence). Custom actions that are executed from other custom actions already added to the project are also added here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Custom Action Properties
@@ -177,50 +192,22 @@ In the right-side pane you can see all the [Custom Action Properties](https://to
 
 ![New Custom Action Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New Custom Action Wizard")**Creating a new custom action using a wizard** \- Use the \[New Custom Action Wizard \] toolbar button, to quickly and easily create a new custom action, following step-by-step directions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![New Attached Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-attached-new.png "New Attached Custom Action")**Adding a custom action to be run from a file attached to the installation** \- Use the \[Launch attached file \] toolbar button, add it from the _Add Custom Action Tab_ or press the Insert key while the “Installation Stages” panel is focused. An "Open File" dialog will appear and you can choose the custom action file from your disk. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![New Installed Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-installed-new.png "New Installed Custom Action")**Adding a custom action to be run from an installed file** \- Use the \[Launch installed file \] toolbar button, add it from the _Add Custom Action Tab_ or press the + key while the “Installation Stages” panel is focused. An [File Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear and it will allow you to select a file only from your project. 
 
 ![New Custom Action](https://cdn.advancedinstaller.com/img/toolbar/custom-action-new.png "New Custom Action")**Adding a Windows Installer custom action** \- To create a new Windows Installer custom action select an installation stage by clicking on it, then use the \[New Custom Action \] toolbar button or add it from the _Add Custom Action Tab_.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Show Standard Action](https://cdn.advancedinstaller.com/img/toolbar/show-standard-action.png "Show Standard Action")**Showing Standard Actions** \- To show a standard action select an installation stage by clicking on it, then use the \[Show Standard Action \] toolbar button or context menu item. This operation is recommended only to advanced users so that they can condition or organize standard actions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")**Removing a custom action** \- Use the \[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while the “Install Sequence” panel is focused. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Custom Action Return Code
 
@@ -229,6 +216,13 @@ A custom action's return code depends on the type of source file. Therefore, the
 For more information regarding **custom action return codes** please see:[Custom Action Return Values.](https://learn.microsoft.com/en-us/windows/win32/msi/custom-action-return-values?redirectedfrom=MSDN)
 
 For more information regarding **JScript or VBScript return codes** please see: [Return Values of JScript and VBScript Custom Actions.](https://learn.microsoft.com/en-us/windows/win32/msi/return-values-of-jscript-and-vbscript-custom-actions?redirectedfrom=MSDN)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -270,20 +264,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-essentials-of-creating-and-curating-instagram-highlights/"><u>2024 Approved The Essentials of Creating and Curating Instagram Highlights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/diving-into-galactic-warfare-an-in-depth-analysis-of-star-wars-squadrons/"><u>Diving Into Galactic Warfare: An In-Depth Analysis of Star Wars: Squadrons</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-free-pc-video-editor-convert-videos-on-windows-at-no-cost/"><u>Download Free PC Video Editor: Convert Videos on Windows at No Cost</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on U23 Pro?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-low-cost-footage-source-directory/"><u>In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>In 2024, How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/macs-best-choices-for-mkv-file-viewing-for-2024/"><u>Mac's Best Choices for MKV File Viewing for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/streamline-your-real-estate-operations-with-ipropertycomponents/"><u>Streamline Your Real Estate Operations with IPropertyComponents</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-hidden-touchpad-in-device-managers-depths/"><u>Unlock Hidden Touchpad in Device Manager's Depths!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/spect-ratios-unveiled-your-guide-to-stellar-yt-images/"><u>[New] Aspect Ratios Unveiled Your Guide to Stellar YT Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-self-verification-on-instagram-what-does-it-mean-for-us/"><u>[New] In 2024, Self-Verification on Instagram - What Does It Mean for Us?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unraveling-tiktoks-symbolic-use-of-pfp/"><u>[New] Unraveling TikTok's Symbolic Use of 'PFP'</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-decoding-youtube-exchange-threads/"><u>[Updated] 2024 Approved Decoding YouTube Exchange Threads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quickscreen-recorder-for-professionals/"><u>[Updated] In 2024, QuickScreen Recorder for Professionals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-seamless-network-broadcast-adopting-the-vlc-way-for-2024/"><u>[Updated] Seamless Network Broadcast Adopting the VLC Way for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-methods-for-syncing-iphone-content-with-windows-11-a-comprehensive-tutorial/"><u>Efficient Methods for Syncing iPhone Content with Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-strategies-for-flawless-data-management-with-samsung-kies-a-comprehensive-backup-restore-handbook/"><u>Expert Strategies for Flawless Data Management with Samsung Kies: A Comprehensive Backup-Restore Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-auditory-purity-in-ffmpeg-a-format-friendly-perspective/"><u>In 2024, Auditory Purity in FFmpeg A Format-Friendly Perspective</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-crafting-engaging-and-dynamic-web-pages/"><u>Mastering the Art of Crafting Engaging and Dynamic Web Pages</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oneplus-ace-2v-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to OnePlus Ace 2V Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-microsoft-store-on-windows-10-and-11-with-x800704cf-error/"><u>Unblocking Microsoft Store on Windows 10 & 11 with X800704CF Error</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-the-danger-methods-of-email-borne-malware-proliferation-and-effective-defense-strategies/"><u>Understanding the Danger: Methods of Email-Borne Malware Proliferation & Effective Defense Strategies</u></a></li>
 </ul></div>
 
