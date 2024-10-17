@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Customize Your Chatbot Conversations
-date: 2024-10-03T17:46:18.602Z
-updated: 2024-10-11T06:47:39.365Z
+date: 2024-10-12T00:45:40.442Z
+updated: 2024-10-17T03:27:36.737Z
 tags:
   - user-guide
 categories:
@@ -81,6 +81,13 @@ Table of Contents
 
 The dialogs defined here will appear during a patch installation only.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Patch Preparing Dialog (PrepareDlg)
 
  This dialog is briefly displayed at the beginning of the patching process until searches and path resolution actions are performed. 
@@ -96,17 +103,10 @@ Allows the user to proceed with the patch operation.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Remove this dialog if it has no purpose other than to summarize the previous choices and begin installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installation Progress Dialog (ProgressDlg)
@@ -114,10 +114,10 @@ Allows the user to proceed with the patch operation.
 The dialog containing the progress bar that shows the evolution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installation Complete Dialog (ExitDialog)
@@ -132,13 +132,6 @@ You can select the Rich Text Format file that contains your license agreement in
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ReadMe Dialog (ReadmeDlg)
 
 Displays the ReadMe text for the user. You can select the Rich Text Format file that contains your readme text in the "RTF File" field of the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane. This field is available when the "Scrollable Edit" control is selected on the dialog.
@@ -148,6 +141,13 @@ You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In order to modify the layout of these dialogs, all the changes must be made in the upgraded version of the main installation package, prior to creating the patch package from a "Patch Project".
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -182,20 +182,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-full-screen-mastery-achieved-in-obs/"><u>[Updated] In 2024, Full Screen Mastery Achieved in Obs</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-rated-face-removal-tools-best-apps-for-censoring-faces-in-images-on-ios-and-android-devices/"><u>1. Top Rated Face Removal Tools: Best Apps for Censoring Faces in Images on iOS & Android Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-dji-phantom-4-analysis-and-review/"><u>2024 Approved Complete DJI Phantom 4 Analysis and Review</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/a-comprehensive-tutorial-for-enjoying-and-excelling-at-real-racing-n3-on-a-windows-or-mac-machine/"><u>A Comprehensive Tutorial for Enjoying and Excelling at Real Racing N°3 on a Windows or Mac Machine</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/adware-resurgence-decoding-the-cycle-of-infection-and-protection-strategies/"><u>Adware Resurgence: Decoding the Cycle of Infection & Protection Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capturing-eats-a-chefs-handbook-to-food-photography/"><u>Capturing Eats A Chef's Handbook to Food Photography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/clearing-dark-frames-on-video-capture-software-for-2024/"><u>Clearing Dark Frames on Video Capture Software for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-various-aspects-of-module-integration-projects/"><u>Exploring the Various Aspects of Module Integration Projects</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/high-quality-fb-vids-on-demand-for-2024/"><u>High-Quality FB Vids on Demand for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>In 2024, Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-use-of-nvidias-advanced-rtx-ai-chatbot-for-personal-computers/"><u>Mastering the Use of Nvidia’s Advanced RTX AI Chatbot for Personal Computers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mitigating-high-bitrate-in-obs-outputs-for-2024/"><u>Mitigating High-Bitrate in OBS Outputs for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tailored-template-solutions-creating-personalized-project-designs/"><u>Tailored Template Solutions: Creating Personalized Project Designs</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-5-unique-id-photo-editing-apps-of/"><u>Top 5 Unique ID Photo Editing Apps Of</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-novice-to-leader-top-30-facebook-tactics-unlocked/"><u>[New] 2024 Approved From Novice to Leader Top 30 Facebook Tactics Unlocked</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-maximizing-your-mac-preview-experience-step-by-step/"><u>[New] In 2024, Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-users-manual-to-zoom-meeting-recordings/"><u>[New] The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unleashing-potential-in-4k-with-top-gimbals-selection-for-2024/"><u>[New] Unleashing Potential in 4K with Top Gimbals Selection for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-call-quality-mastering-facetime-recording/"><u>[Updated] In 2024, Elevate Your Call Quality Mastering FaceTime Recording</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5rai5y6744gv44km44gf44oh44o844k44gu5a6m5ywo5b6p5ywdic0g57ch5y2y44gn5a6j5l6h44gq5oml6acg44ks44kk44oj44cn/"><u>「消去されたデータの完全復元 - 簡単で安価な手順ガイド」</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-crafting-podcast-episodes-essential-writing-techniques-and-examples/"><u>2024 Approved Crafting Podcast Episodes Essential Writing Techniques & Examples</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728491054213-aomei-backup/"><u>AOMEI Backup软件错误处理指南：针对性问题及其解决方案</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/cloning-an-mbr-disk-to-gpt-without-changing-format-on-windows/"><u>Cloning an MBR Disk to GPT Without Changing Format on Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-resoudre-les-problemes-de-fichiers-dans-windows-11-solutions-et-conseils-pour-un-systeme-fluide/"><u>Comment Résoudre Les Problèmes De Fichiers Dans Windows 11 : Solutions Et Conseils Pour Un Système Fluide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-advanced-video-coding-techniques/"><u>Demystifying Advanced Video Coding Techniques</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/limpieza-total-del-sistema-con-dban-desde-un-minitorno-sin-necesitar-arranque-personalizado/"><u>Limpieza Total Del Sistema Con DBAN Desde Un Minitorno, Sin Necesitar Arranque Personalizado</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-high-performance-devices-with-toms-digital-toolkit/"><u>Navigate the World of High-Performance Devices with Tom's Digital Toolkit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-todays-tech-landscape-insights-from-toms-hardware/"><u>Navigating Today's Tech Landscape: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/reviving-lost-memories-step-by-step-instructions-for-rescuing-video-files-on-sd-cards/"><u>Reviving Lost Memories: Step-by-Step Instructions for Rescuing Video Files on SD Cards</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solutions-to-unfreeze-your-iphone-15-or-14-during-the-data-transfer-process/"><u>Solutions to Unfreeze Your iPhone 15 or 14 During the Data Transfer Process</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solving-the-issue-when-diskpart-fails-to-establish-a-new-primary-partition/"><u>Solving the Issue: When DiskPart Fails to Establish a New Primary Partition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-migrating-your-virtual-machine-how-to-duplicate-and-transfer-a-vmdk/"><u>Step-by-Step Guide: Migrating Your Virtual Machine - How to Duplicate and Transfer a VMDK</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-leading-5-digital-therapeutic-bots-and-tools-utilizing-ai-to-tackle-mental-health-issues/"><u>The Leading 5 Digital Therapeutic Bots and Tools Utilizing AI to Tackle Mental Health Issues</u></a></li>
 </ul></div>
 

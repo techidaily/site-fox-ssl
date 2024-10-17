@@ -1,7 +1,7 @@
 ---
 title: Exploring the Characteristics of App-Based Cartography Features
-date: 2024-10-06T03:41:11.264Z
-updated: 2024-10-11T00:56:59.984Z
+date: 2024-10-14T00:31:32.745Z
+updated: 2024-10-17T06:08:40.158Z
 tags:
   - user-guide
 categories:
@@ -108,13 +108,6 @@ You can set the web document extension to be mapped to this script processor.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can configure **wildcard script maps** by setting the extension field to:  \* .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Module
 
 In this field you can specify the module handler for your application mapping. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/).
@@ -124,10 +117,10 @@ When this field is empty, the Application Mapping will be deployed on all IIS ve
 For ISAPI/CGI Script Maps, IIS 7 requires CgiModule/IsapiModule to be set as the ScriptMap's module. The user can do this from our UI but, because of the rule described above, will have the Application Mapping deployed only to IIS 7.0 and newer. However, if the script processor path ends with '.exe'/'.cgi'/'.dll' then the correspondent module will be added automatically to the mapping on IIS7 and newer. Thus leaving the module field empty for such ISAPI/CGI Script Maps guarantees that the script will be deployed on all IIS versions.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Script Processor
@@ -140,25 +133,18 @@ Allows dynamic content to execute on the target IIS server.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
-## Behavior
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Behavior
 
 ### Script engine
 
 Select this option when you want the application to run in a directory without Execute permissions. This setting is intended primarily for script-based applications such as ASP and IDC that are mapped to an interpreter.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check that file exists
 
@@ -167,6 +153,20 @@ Select this option to instruct the Web server to verify the existence of the req
 If the script does not exist or the user does not have permission, the appropriate warning message is returned to the browser and the script engine is not invoked. This option can be useful for scripts mapped to non-CGI executables like the Perl interpreter that do not send a CGI response if the script is not accessible.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Because the script will be opened twice, once by the server and once by the script engine, there is some performance cost to enabling this option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## HTTP Verbs
 
@@ -209,20 +209,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-crafting-content-12-best-for-insta-edits/"><u>[New] 2024 Approved Crafting Content 12 Best for Insta Edits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-storing-real-time-webcam-talks/"><u>[Updated] 2024 Approved Strategies for Storing Real-Time Webcam Talks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphones-ultimate-video-capture-list/"><u>[Updated] IPhone's Ultimate Video Capture List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-picture-perfection-10-screens/"><u>[Updated] Pinnacle of Picture Perfection – #10 Screens</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>[Updated] Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/2-application-preferences-dashboard-tailor-your-software-environment/"><u>2. Application Preferences Dashboard: Tailor Your Software Environment</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corsair-headset-compatibility-the-definitive-guide-to-updating-drivers-on-windows-pcs/"><u>Corsair Headset Compatibility: The Definitive Guide to Updating Drivers on Windows PCs</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-component-locator-mastering-the-art-of-isearch-in-web-development/"><u>Efficient Component Locator: Mastering the Art of ISearch in Web Development</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elevate-your-business-game-unlocking-potential-with-the-iadvinst-initiative/"><u>Elevate Your Business Game: Unlocking Potential with the iAdvinst Initiative</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/leading-custom-youtube-emblem-artists-premier-logo-craftsmen/"><u>Leading Custom YouTube Emblem Artists: Premier Logo Craftsmen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ready-to-use-established-sql-linking-dashboard/"><u>Ready-to-Use Established SQL Linking Dashboard</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-to-mastering-ibaseshortcuts/"><u>Ultimate Guide to Mastering IBaseShortcuts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-5-best-tips-for-enhancing-obs-studio-edits/"><u>[Updated] In 2024, 5 Best Tips for Enhancing OBS Studio Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[Updated] Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-examining-the-breadth-of-features-in-obs-studio/"><u>2024 Approved Examining the Breadth of Features in OBS Studio</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5aac5l2v5b6p5y6f6zqo6lqr56kf5lit6kkr6ygu6jol55qe6yen6kab5qqu5qgi44cq5rex5bqm5oyh5y2x44cr/"><u>如何復原隨身碟中被遮蓋的重要檔案【深度指南】</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728500128393-windows-10ssd/"><u>如何在Windows 10中迅速进行SSD系统转移：选择正确方法</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/como-clonar-un-disco-duro-de-windows-11-en-una-ssd-usando-gparted-un-tutorial-paso-a-paso/"><u>Cómo Clonar Un Disco Duro De Windows 11 en Una SSD Usando GParted: Un Tutorial Paso a Paso</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-start-understanding-and-verifying-vcenter-database-health-for-newbies/"><u>Easy Start: Understanding and Verifying vCenter Database Health for Newbies</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/fixing-problems-and-retrieving-files-from-a-hard-disk-with-defective-parts/"><u>Fixing Problems and Retrieving Files From a Hard Disk with Defective Parts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-paso-a-paso-como-hacer-que-tus-archivos-y-carpetas-se-actualicen-automaticamente-en-windows-11-8-y-7/"><u>Guía Paso a Paso: Cómo Hacer Que Tus Archivos Y Carpetas Se Actualicen Automáticamente en Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guide-integrating-chapter-markers-in-youtube-videos/"><u>Guide Integrating Chapter Markers in YouTube Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nubia-z50-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nubia Z50 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-setting-up-database-snapshots-in-microsoft-sql-server-versions-2012-through-2nineteen/"><u>Step-by-Step Guide: Setting Up Database Snapshots in Microsoft SQL Server Versions 2012 Through 2Nineteen</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/uncovering-hidden-gems-a-guide-to-locating-private-video-content-on-youtube/"><u>Uncovering Hidden Gems: A Guide to Locating Private Video Content on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y200e-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y200e 5G Phones</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/zoekterrecuperatie-pny-sdkaart-gelukkig-herhaald-uw-bestanden/"><u>Zoekterrecuperatie PNY-SDkaart: Gelukkig Herhaald Uw Bestanden</u></a></li>
 </ul></div>
 

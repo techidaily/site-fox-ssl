@@ -1,7 +1,7 @@
 ---
 title: Guide to Editing Event Handlers in the Windows Dialog Box Interface
-date: 2024-10-07T07:40:56.045Z
-updated: 2024-10-10T22:17:33.142Z
+date: 2024-10-15T17:54:27.030Z
+updated: 2024-10-17T09:56:39.642Z
 tags:
   - user-guide
 categories:
@@ -86,6 +86,13 @@ This dialog allows you to edit a control event. A control event is an action tha
 
 ![Edit Control Event Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-control-event.png "Edit Control Event Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Control Event
 
 Select the desired control event from the list.
@@ -93,45 +100,32 @@ Select the desired control event from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list contains only the events supported by the selected control.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Event Options
 
 This section allows you to set the selected event's options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Argument
 
  Specify an argument for the control event. For some events, there is a list of arguments from which you can choose, for others this field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the\[... \] button to display the [Edit Formatted Type Dialog](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to insert a reference to a property. Also, some events may not need arguments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -194,17 +188,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-audio-podcasts-made-easy-for-iphones/"><u>[New] Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-roadmap-to-identifying-niche-luminaries-on-instagram-for-2024/"><u>[New] The Roadmap to Identifying Niche Luminaries on Instagram for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-free-and-premium-tools-for-effortless-signature-background-removal/"><u>1. Top Free and Premium Tools for Effortless Signature Background Removal</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/beyond-antivirus-essential-strategies-for-comprehensive-protection-in-the-modern-digital-world/"><u>Beyond Antivirus: Essential Strategies for Comprehensive Protection in the Modern Digital World</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-system-compatibility-checks-with-iupdateinstalledbasedetector/"><u>Enhance System Compatibility Checks with IUpdateInstalledBaseDetector</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Pro Max from iCloud</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>In 2024, Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/conomics-of-earning-via-youtube-for-2024/"><u>The Economics of Earning via YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-memory-overuse-in-connected-services-on-windows/"><u>Troubleshooting Memory Overuse in Connected Services on Windows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-the-basics-a-comprehensive-guide-to-mp3-technology/"><u>Understanding the Basics: A Comprehensive Guide to MP3 Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] In 2024, Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unveiling-the-most-effective-budget-friendly-video-collaboration-tools-for-companies-and-classrooms/"><u>[New] In 2024, Unveiling the Most Effective Budget-Friendly Video Collaboration Tools For Companies & Classrooms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/12-simple-tips-to-keep-your-airpods-connected-and-functioning-perfectly-with-iphone/"><u>12 Simple Tips to Keep Your AirPods Connected and Functioning Perfectly with iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/4-waarschijnlijkste-wege-om-het-herstellen-van-geen-google-docs-te-beheersen/"><u>4 Waarschijnlijkste Wege Om Het Herstellen Van Geen Google Docs Te Beheersen</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/eindelijke-antwoorden-op-windows-11-backup-fouten-effiziente-keuzes/"><u>Eindelijke Antwoorden Op Windows 11-Backup-Fouten: Effiziente Keuzes</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/get-your-files-copied-instantly-and-free-with-usb-auto-copy-feature/"><u>Get Your Files Copied Instantly & FREE with USB Auto Copy Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 20 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-tips-for-vimeo-video-logging/"><u>In 2024, Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seagate-hard-drive-not-detected-w10-troubleshooting/"><u>Seagate Hard Drive Not Detected - W10 Troubleshooting</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/seamless-photo-transfer-guide-upgrading-from-iphone-6s-to-iphone-7-plus/"><u>Seamless Photo Transfer Guide: Upgrading From iPhone 6S to iPhone 7 Plus</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transitioning-from-obstacles-to-outcomes-exploring-alternatives-to-datto/"><u>Transitioning From Obstacles to Outcomes: Exploring Alternatives to Datto</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-topmost-efficient-key-combinations-in-microsoft-excel/"><u>Ultimate Guide: Topmost Efficient Key Combinations in Microsoft Excel</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs/"><u>Updated In 2024, Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/verbindung-von-windows-11-mit-synology-storage-server-schritt-fur-schritt-anleitung/"><u>Verbindung Von Windows 11 Mit Synology Storage Server - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/wiedergewinnen-sie-verlorene-informationen-mit-strato-hidive-expertenrat-zum-wiederaufbau/"><u>Wiedergewinnen Sie Verlorene Informationen Mit Strato HiDive: Expertenrat Zum Wiederaufbau</u></a></li>
 </ul></div>
 

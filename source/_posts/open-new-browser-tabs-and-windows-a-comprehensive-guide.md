@@ -1,7 +1,7 @@
 ---
 title: "Open New Browser Tabs and Windows: A Comprehensive Guide"
-date: 2024-10-06T19:25:35.771Z
-updated: 2024-10-11T00:58:50.397Z
+date: 2024-10-13T04:25:21.284Z
+updated: 2024-10-17T01:03:07.449Z
 tags:
   - user-guide
 categories:
@@ -77,26 +77,13 @@ Table of Contents
 ![Program Run settings](https://cdn.advancedinstaller.com/img/dialog/sccm-program-run.png "Program Run settings")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run when
 
@@ -119,31 +106,31 @@ This option specifies how the program is assigned to users. The following option
 
 This option specifies if the program requires administrative privileges to run on the client machine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Allow the user to interact with the program
 
 This option specifies whether the program requires interaction with the user to complete running. This option will be automatically**disabled** if the "When a user is logged on" option is**not selected** under "Run when" field.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the Client Software Installation Account when running
 
 This option specifies whether the program uses the Client Software Installation Account when running on the client computer. This option is automatically **disabled** if the "When a user is logged on" option is   **selected** under "Run when" field.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The program will not be advertised to clients
 
 If this option is enabled, the program will not be advertised to client machines.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Distribution Point Connection
 
@@ -157,6 +144,19 @@ The following options are available:
 * This option specifies whether the program requires a drive letter connection to the package files on the distribution point. A network drive mapping will be automatically created.
 * Use a specific drive letter
 * This option lets you specify, in the right side edit box, the drive letter under which the network mapping will be created.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reconnect to the distribution point when the user logs on
 
@@ -195,24 +195,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[Updated] In 2024, Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-de-following-immediate-awareness/"><u>[Updated] Instagram De-Following Immediate Awareness</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavimmf/"><u>「MovaviでシームレスにオンラインMMF変換 - 無料サービス」</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-rated-face-removal-tools-best-apps-for-censoring-faces-in-images-on-ios-and-android-devices/"><u>1. Top Rated Face Removal Tools: Best Apps for Censoring Faces in Images on iOS & Android Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-tech-basics-essential-equipment-guide/"><u>2024 Approved YouTube Tech Basics Essential Equipment Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/adware-resurgence-decoding-the-cycle-of-infection-and-protection-strategies/"><u>Adware Resurgence: Decoding the Cycle of Infection & Protection Strategies</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-tips-on-managing-your-products-with-id-tracking-and-code-organization/"><u>Essential Tips on Managing Your Products with ID Tracking and Code Organization</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-various-aspects-of-module-integration-projects/"><u>Exploring the Various Aspects of Module Integration Projects</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-your-mobile-device-vulnerable-to-hacks-through-sms-insights-from-malwarefox/"><u>Is Your Mobile Device Vulnerable to Hacks Through SMS? Insights From MalwareFox</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-countdown-in-minutes-a-3-part-guide-to-fcpx-timers/"><u>New 2024 Approved Countdown in Minutes A 3-Part Guide to FCPX Timers</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/opgeluchtende-loodsen-omzettingen-ogg-naar-mp4v-vrij-en-tafeleigend-via-movavi/"><u>Opgeluchtende Loodsen Omzettingen Ogg Naar Mp4v - Vrij en Tafeleigend via Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-mfc42dll-file-missing-or-unavailable-issue/"><u>Solutions for Resolving mfc42.dll File Missing or Unavailable Issue</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-getting-started-with-fortnite-pc-version/"><u>Step-by-Step Tutorial: Getting Started with Fortnite PC Version</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/streamlining-workflow-with-a-comprehensive-organization-lookup-dashboard/"><u>Streamlining Workflow with a Comprehensive Organization Lookup Dashboard</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tailored-template-solutions-creating-personalized-project-designs/"><u>Tailored Template Solutions: Creating Personalized Project Designs</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-5-unique-id-photo-editing-apps-of/"><u>Top 5 Unique ID Photo Editing Apps Of</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-the-cause-of-asymmetrical-volume-in-apple-earphones-and-fixes/"><u>Uncovering the Cause of Asymmetrical Volume in Apple Earphones and Fixes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-rapid-retreival-of-trendiest-tiktok-vids/"><u>[Updated] In 2024, Rapid Retreival of Trendiest TikTok Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-web-supplement-fb-stories-downloader/"><u>[Updated] Web Supplement FB Stories Downloader</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-come-risolvere-i-problemi-con-la-visualizzazione-dei-file-word-recenti/"><u>1. Come Risolvere I Problemi Con La Visualizzazione Dei File Word Recenti</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5ywo5pa55l2n5qplusu6lyd77ya5zyo6ycz5lqb6auy5zob6lso6iag5o2y5lit77ym5zoq5lia56en54wn54mh5lplusu5asn6l2v5lu255qe55so5oi35l2t6aqm5pu05aw977yf/"><u>全方位比較：在這些高品质膠捲中，哪一种照片修复软件的用户体验更好？</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-methods-for-syncing-video-captions-effortlessly/"><u>Effortless Methods for Syncing Video Captions Effortlessly</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-camera-capabilities-in-ios-11/"><u>In 2024, Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/sofortige-losung-fur-asd-dateiverwaltung-effektives-wiederaufbauen/"><u>Sofortige Lösung Für ASD-Dateiverwaltung - Effektives Wiederaufbauen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-building-toms-reviews-and-tips/"><u>Unveiling the Latest in PC Building - Tom's Reviews & Tips</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-11-losen-sie-den-kritischen-prozessfehler-erfolgreich-auf/"><u>Windows 11 Lösen Sie Den Kritischen Prozessfehler Erfolgreich Auf</u></a></li>
 </ul></div>
 

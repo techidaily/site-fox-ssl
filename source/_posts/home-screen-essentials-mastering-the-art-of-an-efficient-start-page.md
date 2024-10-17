@@ -1,7 +1,7 @@
 ---
 title: "Home Screen Essentials: Mastering the Art of an Efficient Start Page"
-date: 2024-10-08T03:41:03.704Z
-updated: 2024-10-10T20:52:17.766Z
+date: 2024-10-12T08:21:54.489Z
+updated: 2024-10-16T21:13:46.256Z
 tags:
   - user-guide
 categories:
@@ -111,6 +111,13 @@ If you need help use the F1 keyboard shortcut.
 
 Select a project type and press \[Create Project \] or double click on a project type.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Opening a recent or existing project
 
 Select "Open" menu entry and choose a recent project or press\[Open Project \].
@@ -118,35 +125,28 @@ Select "Open" menu entry and choose a recent project or press\[Open Project \].
 Enabling "Automatically load most recent project" option skips the Start Page next you launch Advanced Installer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Canceling the project creation
 
 If a project is already open, press the \[Back to project \] button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Message Center
 
 The Message Center keeps you up-to-date with the latest news from Advanced Installer.
 
-## Options
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Options
 
 ### Use the wizard to create the project
 
@@ -155,10 +155,10 @@ Enable this option if you want to create the project using a wizard. More inform
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Not all project templates support disabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -229,22 +229,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-11-master-class-video-recorder/"><u>[New] In 2024, Windows 11 Master Class Video Recorder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-boost-your-content-access-free-vocal-sfx/"><u>[Updated] 2024 Approved Boost Your Content Access Free Vocal SFX</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-video-aesthetics-to-meet-instagram-standards-for-2024/"><u>[Updated] Elevate Video Aesthetics to Meet Instagram Standards for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro/"><u>A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-web-traffic-with-advanced-seo-techniques-a-guide-to-enhanced-online-discoverability/"><u>Boost Web Traffic with Advanced SEO Techniques: A Guide to Enhanced Online Discoverability</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-features-of-the-xyz-file-handling-system-ixml/"><u>Exploring Features of the XYZ File Handling System (iXML)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-customization-options-in-your-java-environment-settings-panel/"><u>Exploring the Customization Options in Your Java Environment Settings Panel</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/harmonious-hub-swapping-your-soundtrack-selection/"><u>Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-f54-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy F54 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max with IMEI Code?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-with-glitch-video-editing-best-software-for-windows-mac-and-web-for-2024/"><u>New Get Creative with Glitch Video Editing Best Software for Windows, Mac, and Web for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/open-new-browser-tabs-and-windows-a-comprehensive-guide/"><u>Open New Browser Tabs and Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revamp-your-billboard-messages-a-guide-to-editing-billboard-text/"><u>Revamp Your Billboard Messages: A Guide to Editing Billboard Text</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-methods-to-move-photographs-from-your-oneplus-amoled-6-device-to-a-desktop-system/"><u>Simple Methods to Move Photographs From Your OnePlus Amoled 6 Device to a Desktop System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-correcting-ietfamedll-error-messages/"><u>Step-by-Step Solutions for Correcting ietfame.dll Error Messages</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-11-essential-android-home-screen-add-ons/"><u>Top 11 Essential Android Home Screen Add-Ons</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tutorial-extracting-audio-segments-as-track-files-from-videos/"><u>Tutorial: Extracting Audio Segments as Track Files From Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-9-prime-live-streaming-venues-for-gamers/"><u>[New] 9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>[Updated] Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726027456270-5/"><u>「今日使える最高の動画キャプチャーツールベスト5」</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728508819236-windows-server-2022/"><u>「Windows Server 2022でベアメタルによるシステム修復手順ガイド」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-spotifys-1-hitlist-rankings/"><u>2024 Approved Spotify's #1 Hitlist Rankings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y77t-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y77t</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/everywheres-top-app-by-apple/"><u>Everywhere's Top App by Apple</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-rapide-pour-eliminer-definitivement-des-images-non-vouees-de-votre-ordinateur/"><u>Guide Rapide Pour Éliminer Définitivement Des Images Non Vouées De Votre Ordinateur</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-1-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 1 V Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/limportance-dune-sauvegarde-reussie-pour-affiner-et-distinguer-son-profil-en-ligne/"><u>L'importance D'une Sauvegarde Réussie Pour Affiner Et Distinguer Son Profil en Ligne.</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/siehste-top-software-zur-unternehmensdatenwiederherstellung-geeignet-fur-msps-und-firmenkunden/"><u>Siehste Top-Software Zur Unternehmensdatenwiederherstellung - Geeignet Für MSPs Und Firmenkunden</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-apps-pour-generer-des-pdf-gratuitement-trouvez-les-meilleurs-outils-du-jour/"><u>Top Apps Pour Générer Des PDF Gratuitement: Trouvez Les Meilleurs Outils Du Jour!</u></a></li>
 </ul></div>
 

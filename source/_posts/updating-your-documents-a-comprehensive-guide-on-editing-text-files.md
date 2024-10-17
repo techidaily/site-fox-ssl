@@ -1,7 +1,7 @@
 ---
 title: "Updating Your Documents: A Comprehensive Guide on Editing Text Files"
-date: 2024-10-07T01:42:45.328Z
-updated: 2024-10-10T17:53:33.758Z
+date: 2024-10-13T10:39:25.409Z
+updated: 2024-10-17T06:26:18.919Z
 tags:
   - user-guide
 categories:
@@ -92,33 +92,32 @@ A Text File Update can be used to either create a new file with the specified co
 
 ![New Text File Update](https://cdn.advancedinstaller.com/img/toolbar/txt--updates-sets.png "New Text File Update")Use the \[New Text File Update \] button from the toolbar or from the context menu select the “New Text File Update” item. The [Edit Text File Update Set Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Edit Text File Update
 
 A Text File Update Set operation can be edited by pressing theEnter key while the file is selected or by double-clicking on the file. The [Edit Text File Update Set Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Delete Text File Update
 
 A Text File Update file can be deleted by using the “Delete” context menu option or by pressing the Delete key while the file is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Test Text File Update
@@ -126,15 +125,28 @@ A Text File Update file can be deleted by using the “Delete” context menu op
 After a Text File Update file has been defined it is possible to [**test it**](https://tools.techidaily.com/advancedinstaller/products/) and see if the operations will perform as intended.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See Also
 
 For more in-depth information check [Using the Text File Update operation](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -174,22 +186,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-dull-to-dynamic-adding-animated-effects-to-instagram-stories/"><u>[New] 2024 Approved From Dull to Dynamic Adding Animated Effects to Instagram Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-revisiting-old-memories-how-to-upload-them-on-snapchat/"><u>[New] 2024 Approved Revisiting Old Memories How to Upload Them on Snapchat</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-explore-and-apply-instagrams-latest-filters-for-stunning-feeds-for-2024/"><u>[New] Explore and Apply Instagram's Latest Filters for Stunning Feeds for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-monochrome-to-masterpiece-pro-photo-hue-harmony-for-2024/"><u>[Updated] From Monochrome to Masterpiece Pro Photo Hue Harmony for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-insightful-guide-to-sharex-critiques-and-counterparts/"><u>2024 Approved Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
-<li><a href="https://win-web3.techidaily.com/55m96bus5yyw5yuv55s75oml6acg77ya6kmz44gx44ge44ot44oh44kq44kw44os44o844k544kx44o844or5asj5oplusb44ks44kk44oj/"><u>白黒化動画手順：詳しいビデオグレースケール変換ガイド</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-web-traffic-with-advanced-seo-techniques-a-guide-to-enhanced-online-discoverability/"><u>Boost Web Traffic with Advanced SEO Techniques: A Guide to Enhanced Online Discoverability</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-features-of-the-xyz-file-handling-system-ixml/"><u>Exploring Features of the XYZ File Handling System (iXML)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-customization-options-in-your-java-environment-settings-panel/"><u>Exploring the Customization Options in Your Java Environment Settings Panel</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 14 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-tech-with-insights-and-reviews-from-toms-hardware-vault/"><u>Navigate the World of Tech with Insights and Reviews From Tom's Hardware Vault</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/open-new-browser-tabs-and-windows-a-comprehensive-guide/"><u>Open New Browser Tabs and Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/revamp-your-billboard-messages-a-guide-to-editing-billboard-text/"><u>Revamp Your Billboard Messages: A Guide to Editing Billboard Text</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simple-methods-to-move-photographs-from-your-oneplus-amoled-6-device-to-a-desktop-system/"><u>Simple Methods to Move Photographs From Your OnePlus Amoled 6 Device to a Desktop System</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-11-essential-android-home-screen-add-ons/"><u>Top 11 Essential Android Home Screen Add-Ons</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tutorial-extracting-audio-segments-as-track-files-from-videos/"><u>Tutorial: Extracting Audio Segments as Track Files From Videos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-spark-10-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Spark 10 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-sync-splice-and-spruce-pro-video-editing-in-one-tool/"><u>[New] 2024 Approved Sync, Splice & Spruce Pro Video Editing in One Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-android-mobas-a-decade-of-favorite-titles-top-10-for-2024/"><u>[New] Android MOBAs A Decade of Favorite Titles - Top 10 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-resolve-chromes-video-playback-woes/"><u>[New] Resolve Chrome's Video Playback Woes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-podcasters-playbook-writing-and-editing-for-engaging-audio/"><u>[Updated] 2024 Approved The Podcaster's Playbook Writing & Editing for Engaging Audio</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728497298162-windows-11hddssd2/"><u>安全なデータ保管を目指して：Windows 11における外部HDD/SSD暗号化法の新しい方法2つ</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/descubra-o-melhor-programa-copia-gratis-de-bits-compativel-com-windows-111087/"><u>Descubra O Melhor Programa Cópia Grátis De Bits - Compatível Com Windows 11/10/8/7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-mirari-kids-alarm-clock-an-in-depth-product-review/"><u>Evaluating Mirari Kids' Alarm Clock - An In-Depth Product Review</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/problematisch-ihr-gerat-startet-nicht-abhelfen-von-code-fehler-10-entdeckt-diese-7-effektiven-schritte/"><u>Problematisch: Ihr Gerät Startet Nicht! Abhelfen Von Code-Fehler 10 - Entdeckt Diese 7 Effektiven Schritte</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/revertir-a-una-version-anterior-de-tus-archivos-tres-metodos-efectivos-para-hacerlo/"><u>Revertir a Una Versión Anterior De Tus Archivos: Tres Métodos Efectivos Para Hacerlo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-finest-ai-app-selection-for-android-and-iphone-users/"><u>The Finest AI App Selection for Android & iPhone Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-tips-restore-access-to-an-unresponsive-external-hdd-via-cmd-in-windows-11/"><u>Troubleshooting Tips: Restore Access to an Unresponsive External HDD via CMD in Windows 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/wiederherstellung-verlorener-fotos-auf-windows-10-losungsansatze-und-tipps/"><u>Wiederherstellung Verlorener Fotos Auf Windows 10: Lösungsansätze Und Tipps</u></a></li>
 </ul></div>
 

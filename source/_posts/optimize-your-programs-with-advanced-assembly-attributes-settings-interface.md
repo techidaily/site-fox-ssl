@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Programs with Advanced Assembly Attributes Settings Interface
-date: 2024-10-07T01:05:57.588Z
-updated: 2024-10-10T19:20:48.397Z
+date: 2024-10-10T18:52:07.188Z
+updated: 2024-10-17T09:11:12.803Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 ![Assembly Attribute Dialog](https://cdn.advancedinstaller.com/img/dialog/assembly-attribute.png "Assembly Attribute Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -97,10 +97,16 @@ Table of Contents
  The attribute's value. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Synchronize value with the assembly file
@@ -108,10 +114,10 @@ Table of Contents
 If you check this option the attribute value will be extracted from assembly file at build time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -119,10 +125,10 @@ If you check this option the attribute value will be extracted from assembly fil
  Saves the attribute's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -162,18 +168,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed/"><u>[New] In 2024, Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-free-and-premium-tools-for-effortless-signature-background-removal/"><u>1. Top Free and Premium Tools for Effortless Signature Background Removal</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-step-by-step-guide-to-crafting-unique-iphone-tones/"><u>2024 Approved Step-by-Step Guide to Crafting Unique iPhone Tones</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-to-configuring-your-xml-data-integration-tab/"><u>Comprehensive Guide to Configuring Your XML Data Integration Tab</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-managing-and-resolving-issue-panes-efficiently/"><u>Effective Strategies for Managing and Resolving Issue Panes Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-management-of-app-v-5-series-tabs-a-comprehensive-guide/"><u>Efficient Management of App-V 5 Series Tabs: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-detected-bcm20702a0-driver-missing/"><u>Error Detected: BCM20702A0 Driver Missing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-fix-full-screen-error-in-obs-for-2024/"><u>How to Fix Full Screen Error in OBS for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone without PIN</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/navigating-and-utilizing-preview-for-mac-efficiently-for-2024/"><u>Navigating and Utilizing Preview for Mac Efficiently for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-for-gamepad-failures-get-back-to-gaming-now/"><u>Quick Fix for Gamepad Failures – Get Back to Gaming Now!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-latest-android-selection-ranked-top-10-apps-for-saving-facebook-videos/"><u>[New] Latest Android Selection Ranked Top 10 Apps for Saving Facebook Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-economical-pc-screen-recorders-compared/"><u>[Updated] 2024 Approved Top 10 Economical PC Screen Recorders Compared</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pro-full-using-guide/"><u>[Updated] Final Cut Pro Full Using Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-10-steps-to-perfect-youtube-reactions-a-trio-guide/"><u>[Updated] In 2024, 10 Steps to Perfect YouTube Reactions – A Trio Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/3-besplatnyh-metoda-dlya-sozdaniya-obrazov-diskov-v-windows-11-poshagovoe-rukovodstvo/"><u>3 Бесплатных Метода Для Создания Образов Дисков В Windows 11: Пошаговое Руководство</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-steps-to-repair-video-connection-issues-and-eliminate-error-messages/"><u>Comprehensive Steps to Repair Video Connection Issues and Eliminate Error Messages</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-unregistered-dll-problems-in-windows-aturin/"><u>Easy Solutions for Unregistered DLL Problems in Windows Aturin</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/error-the-page-youre-seeking-doesnt-exist/"><u>Error: The Page You're Seeking Doesn’t Exist</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-5-spotify-playlist-converters-for-creating-youtube-content/"><u>In 2024, Top 5 Spotify Playlist Converters for Creating YouTube Content</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/is-it-time-to-update-to-apples-ios-1511-pros-and-cons-of-the-latest-release/"><u>Is It Time to Update to Apple's iOS 15.1.1? Pros and Cons of the Latest Release</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-to-restore-your-lost-icloud-notes-forever/"><u>Step-by-Step Guide to Restore Your Lost iCloud Notes Forever</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streaming-video-evaluation-report/"><u>Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-7-fixes-to-resolve-icloud-backup-progress-hanging-at-time-estimate/"><u>Top 7 Fixes to Resolve iCloud Backup Progress Hanging at Time Estimate</u></a></li>
 </ul></div>
 

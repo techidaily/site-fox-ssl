@@ -1,7 +1,7 @@
 ---
 title: "Optimizing XML Data Retrieval: Mastering IXMLSearch Methods"
-date: 2024-10-06T22:48:50.300Z
-updated: 2024-10-11T05:00:04.206Z
+date: 2024-10-11T09:40:57.986Z
+updated: 2024-10-16T21:36:29.894Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## IXmlSearch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,28 +136,28 @@ Table of Contents
 IXmlSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit the XML file search.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 **String FilePath** \- Gets or sets the search path and the XML filename on which the search operation will be executed.
 
 **String RootElement** \- Gets the expected root element of the XML file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Example
 
@@ -177,10 +177,10 @@ $sectionHasAttribute.Value = "name"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -222,20 +222,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>[New] 2024 Approved Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-image-mastery-through-top-rated-grid-makers/"><u>[Updated] 2024 Approved Image Mastery Through Top-Rated Grid Makers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pioneering-success-with-real-time-twitter-videos/"><u>[Updated] 2024 Approved Pioneering Success with Real-Time Twitter Videos</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-practices-and-tools-for-taking-screenshots-on-a-laptop/"><u>Best Practices and Tools for Taking Screenshots on a Laptop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinematic-writing-of-the-decade-for-2024/"><u>Cinematic Writing of the Decade for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/conquer-flip-trickster-gameplay-like-a-pro-a-step-by-step-tutorial-for-pc-users/"><u>Conquer Flip Trickster Gameplay Like a Pro - A Step-by-Step Tutorial for PC Users</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/fast-techniques-for-speeding-up-music-and-podcast-content-loading-times/"><u>Fast Techniques for Speeding Up Music & Podcast Content Loading Times</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/golden-5-premier-macsierra-dvd-makers-for-2024/"><u>Golden 5 Premier MacSierra Dvd Makers for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/grouped-server-side-pages-strategies-enhancing-website-efficiency/"><u>Grouped Server-Side Pages Strategies: Enhancing Website Efficiency</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c02-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C02 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-your-first-leap-onto-youtubes-platform/"><u>In 2024, Your First Leap Onto YouTube's Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015957064-razer-man-o-war-headset-malfunction-here-are-solutions-for-your-mic-troubles/"><u>Razer Man O' War Headset Malfunction? Here Are Solutions for Your Mic Troubles</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-on-using-apowersofts-advanced-background-erase-feature/"><u>Step-by-Step Tutorial on Using Apowersoft's Advanced Background Erase Feature</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-xsplit-replacements-cross-platform-solutions-for-windows-and-macos/"><u>Top Xsplit Replacements: Cross-Platform Solutions for Windows & macOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-master-the-art-of-virtual-reality-from-videography-to-youtube-upload/"><u>[New] 2024 Approved Master the Art of Virtual Reality From Videography to YouTube Upload</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-immaculatepixels-prograde-background-elimination/"><u>[Updated] 2024 Approved ImmaculatePixels Prograde Background Elimination</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ideal-camcorders-for-high-definition-podcasts/"><u>[Updated] Ideal Camcorders for High-Definition Podcasts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5lia5rwb44gu44or44k944kz44oz44oi44oq44o844oi44oh44oz44oi77ya5rai44gi44gm44gx44gplus44gj44gf5yaz55yf44ks57ch5y2y44gr5yan55sf77yb44cn/"><u>「一流のパソコントリートメント：消えてしまった写真を簡単に再生！」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-color-grading-with-luts-in-premiere-pro-for-2024/"><u>Advanced Color Grading with LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-defense-against-ransomware-enhancing-security-on-synology-and-qnap-nas-devices/"><u>Effective Defense Against Ransomware: Enhancing Security on Synology & QNAP NAS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-realme-gt-5-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Realme GT 5 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Play 7T FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y78t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y78t and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolve-your-pc-boot-issues-after-upgrading-to-an-m2-ssd-detailed-troubleshooting-guide/"><u>Resolve Your PC Boot Issues After Upgrading to an M.2 SSD – Detailed Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/secure-your-images-file-encryption-with-aomei-backupper/"><u>Secure Your Images: File Encryption with AOMEI Backupper</u></a></li>
 </ul></div>
 

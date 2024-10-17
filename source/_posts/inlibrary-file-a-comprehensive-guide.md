@@ -1,7 +1,7 @@
 ---
 title: "InLibrary File: A Comprehensive Guide"
-date: 2024-10-08T01:51:48.675Z
-updated: 2024-10-11T04:37:18.013Z
+date: 2024-10-12T17:29:36.497Z
+updated: 2024-10-17T05:37:37.653Z
 tags:
   - user-guide
 categories:
@@ -40,10 +40,10 @@ Table of Contents
 Using this interface, you can edit a library file.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -51,10 +51,10 @@ Using this interface, you can edit a library file.
 ILibraryFile : IDirectoryMember
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -67,16 +67,16 @@ ILibraryFile : IDirectoryMember
 * String Type - Gets the type of the file as string.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -86,10 +86,10 @@ ILibraryFile : IDirectoryMember
 * DeleteFile() - This method will delete the library file from the project. The object on which this method is called is no longer available for editing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -131,22 +131,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[New] Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/arn-more-maximizing-income-through-youtube-mobile-advertising-for-2024/"><u>[New] Earn More Maximizing Income Through YouTube Mobile Advertising for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aster-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[New] Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-astute-beginners-treatise-on-vector-types-and-software-selection-for-2024/"><u>[Updated] Astute Beginners' Treatise on Vector Types & Software Selection for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-a-deep-dive-into-selecting-tiktok-screenshots/"><u>2024 Approved A Deep Dive Into Selecting TikTok Screenshots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-digital-time-machine-tracking-back-through-facebooks-history-device-based/"><u>2024 Approved Digital Time Machine Tracking Back Through Facebook's History (Device-Based)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-most-effective-methods-for-live-streaming-mobile-games-directly-to-your-audience-on-youtube-this-guide-breaks-down-the-top-three-essential-tact1/"><u>Discover the Most Effective Methods for Live Streaming Mobile Games Directly to Your Audience on YouTube. This Guide Breaks Down the Top Three Essential Tactics Every Gamer and Streamer Should Know!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-server-pages-collection-optimizing-web-performance/"><u>Efficient Server Pages Collection: Optimizing Web Performance</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/exploring-the-features-and-uses-of-idriverscomponent-in-modern-systems/"><u>Exploring the Features and Uses of IDriversComponent in Modern Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-repair-libexec32dll-not-found-error-quickly/"><u>How To Repair 'libexec32.dll Not Found' Error Quickly</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-crafting-engaging-and-dynamic-web-pages/"><u>Mastering the Art of Crafting Engaging and Dynamic Web Pages</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-creating-voiceovers-over-videos-tips-and-tricks/"><u>Mastering the Art of Creating Voiceovers Over Videos: Tips and Tricks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-shared-access-controls-and-preferences/"><u>Mastering the Art of Shared Access Controls and Preferences</u></a></li>
-<li><a href="https://facebook.techidaily.com/metaverse-dreamers-needed-facebook-says-yes-to-10k/"><u>Metaverse Dreamers Needed - Facebook Says Yes to 10K</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-p60-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei P60 Pro on Mac</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortless-methods-to-eliminate-image-watermarks/"><u>Ultimate Guide: Effortless Methods to Eliminate Image Watermarks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-route-settings-in-project-management-dashboard/"><u>Understanding Route Settings in Project Management Dashboard</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-guide-to-rearranging-your-youtube-collection/"><u>2024 Approved Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5raw/"><u>5効果的な手順でRAWドライブの復元方法</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-10-shadow-copy/"><u>如何在 Windows 10 实现Shadow Copy工具的高效使用技巧</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-ways-to-set-up-offline-saves-for-google-mail-discover-the-best-solutions/"><u>Effective Ways to Set Up Offline Saves for Google Mail - Discover the Best Solutions!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/essential-insights-on-configuring-folder-position-attributes/"><u>Essential Insights on Configuring Folder Position Attributes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-8-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 8 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-best-budget-friendly-android-chat-services/"><u>In 2024, Best Budget-Friendly Android Chat Services</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/installation-securisee-et-raffinee-de-windows-11-sur-un-nouveau-ssd-une-approche-facile/"><u>Installation Sécurisée Et Raffinée De Windows 11 Sur Un Nouveau SSD: Une Approche Facile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-compatibility-fixing-hydro-series-h100i-v2-drivers-for-windows-machines/"><u>Mastering Compatibility: Fixing Hydro Series H100i v2 Drivers for Windows Machines</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-mobile-video-preservation-the-optimal-strategies-for-saving-content-on-iphones-and-androids/"><u>Mastering Mobile Video Preservation: The Optimal Strategies for Saving Content on iPhones & Androids</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-and-effective-techniques-to-generate-an-iso-copy-of-your-external-hard-driveusb-stick/"><u>Quick and Effective Techniques to Generate an ISO Copy of Your External Hard Drive/USB Stick</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/save-your-windows-stickynoteseffortlessly-3-reliable-backup-strategies-for-windows-11-users/"><u>Save Your Windows #StickyNotesEffortlessly: 3 Reliable Backup Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-installing-the-wacom-intuos-pro-driver-on-windows-10/"><u>Simple Guide: Installing the Wacom Intuos Pro Driver on Windows 10</u></a></li>
 </ul></div>
 

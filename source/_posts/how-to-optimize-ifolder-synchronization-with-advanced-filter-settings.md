@@ -1,7 +1,7 @@
 ---
 title: How To Optimize iFolder Synchronization with Advanced Filter Settings
-date: 2024-10-07T21:39:32.102Z
-updated: 2024-10-11T02:41:05.720Z
+date: 2024-10-14T18:26:23.917Z
+updated: 2024-10-16T17:38:19.692Z
 tags:
   - user-guide
 categories:
@@ -115,16 +115,16 @@ Table of Contents
 
 This interface is meant to specify the filters that allow you to select which files will be added from the synchronized folder to the package.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFolderSyncFilters : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -151,10 +151,10 @@ IFolderSyncFilters : IDispatch
 **String ExcludeSubfolders** \- Gets or sets the excluded sub-folders. This is available only on exclude filters.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -184,10 +184,10 @@ Method 2: use PowerShell for scanning folder contents + Advanced Installer
 $proj     = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## add new folder
@@ -228,10 +228,10 @@ $proj.SaveAs("D:\MyApplication\Setup\Setup.aip")
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -275,22 +275,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-book-trailers-for-impact/"><u>[New] Best Book Trailers for Impact</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-what-you-need-to-know-about-tiktoks-latest-trends/"><u>[Updated] 2024 Approved What You Need to Know About TikTok’s Latest Trends</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-free-youtube-video-editing-software-top-picks/"><u>Best Free YouTube Video Editing Software - Top Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-5-vpn-solutions-to-unlock-global-netflix-streams/"><u>Discover the Top 5 VPN Solutions to Unlock Global Netflix Streams</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-customize-your-chatbot-conversations/"><u>Easy Steps to Customize Your Chatbot Conversations</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/eliminating-browser-hijackers-a-3-step-guide-to-removing-the-redirect-virus/"><u>Eliminating Browser Hijackers: A 3-Step Guide to Removing the Redirect Virus</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-mastering-video-edits-in-imovie-on-your-pc/"><u>Essential Tips for Mastering Video Edits in iMovie on Your PC</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-video-and-photo-quality-with-the-newest-lenovo-camera-drivers-in-windows-7-environment/"><u>Improve Video and Photo Quality with the Newest Lenovo Camera Drivers in Windows 7 Environment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-infinix-hot-40-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Infinix Hot 40? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-why-sony-playstation-5-delivers-ultimate-gaming-experience/"><u>In-Depth Look at Why Sony PlayStation 5 Delivers Ultimate Gaming Experience</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/indias-tiktok-dilemma-secrets-to-preserving-your-downloaded-short-clips-post-ban/"><u>India's TikTok Dilemma: Secrets to Preserving Your Downloaded Short Clips Post-Ban</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mp4-to-m4a-conversion-a-step-by-step-guide/"><u>MP4 to M4A Conversion: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/optimizing-xml-data-retrieval-mastering-ixmlsearch-methods/"><u>Optimizing XML Data Retrieval: Mastering IXMLSearch Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-overcoming-digital-theater-system-dts-sound-problems/"><u>Troubleshooting Guide: Overcoming Digital Theater System (DTS) Sound Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028262358-windows-11/"><u>Windows 11を使った画面録画手順集【長時間モード完璧解決】</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instas-tunes-ownership-and-legalities/"><u>[Updated] 2024 Approved Insta's Tunes Ownership & Legalities</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-11onedrive0x8004def7/"><u>解决方案：在Windows 11中处理OneDrive错误码0x8004def7</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728487332672-windows-11-nvme-ssd/"><u>全方位Windows 11 NVMe SSD数据克隆指导：从头到尾每一步分享</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-secure-websites-easily-with-publicly-available-dns-options/"><u>Accessing Secure Websites Easily with Publicly Available DNS Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/erfolgreich-speicherdaten-retten-eine-umfassende-losungsanleitung-fur-festplattenfehler-auf-computern/"><u>Erfolgreich Speicherdaten Retten: Eine Umfassende Lösungsanleitung Für Festplattenfehler Auf Computern</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/error-code-windows-backup-and-solution/"><u>Error Code, Windows Backup, and Solution.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Nokia C12 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-evaluation-of-the-oneplus/"><u>In-Depth Evaluation of the OnePlus</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/is-tenorshare-data-recovery-worth-your-investment-an-in-depth-analysis/"><u>Is Tenorshare Data Recovery Worth Your Investment? An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/no-money-no-problem-master-fcp-legally-for-2024/"><u>No Money, No Problem Master FCP Legally for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortlessly-upgrade-from-windows-10-to-11-or-vice-versa-with-top-tools/"><u>Ultimate Guide: Effortlessly Upgrade From Windows 10 to 11 or Vice Versa with Top Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-10-backup-fehler-unbekannte-oder-nicht-verwendbare-festplatten-erkannt-losungsansatze/"><u>Windows 10 Backup: Fehler 'Unbekannte Oder Nicht Verwendbare Festplatten Erkannt' - Lösungsansätze</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-ram-cache-basics-and-cleansing-methods/"><u>Windows RAM Cache Basics and Cleansing Methods</u></a></li>
 </ul></div>
 

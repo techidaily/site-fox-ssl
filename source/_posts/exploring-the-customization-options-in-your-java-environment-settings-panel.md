@@ -1,7 +1,7 @@
 ---
 title: Exploring the Customization Options in Your Java Environment Settings Panel
-date: 2024-10-06T21:06:00.068Z
-updated: 2024-10-11T02:22:36.179Z
+date: 2024-10-12T11:42:13.865Z
+updated: 2024-10-16T18:11:59.276Z
 tags:
   - user-guide
 categories:
@@ -87,20 +87,40 @@ On the [Java Products](https://tools.techidaily.com/advancedinstaller/products/)
 
 This list must contain all the JAR/Zip archives that form your application.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add JAR components
 
 Use the \[JAR(s)... \] button to add components to the classpath. These archives must be already included in the installation, through the [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add path locations
 
 Use the \[Folder... \], \[Property... \] or \[Env Var... \] button to add a path to the "Classpath" parameter of your Java Application. Click the \[Env Var... \] button to select an Environment Variable using the [Environment Variable Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/). 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove JAR components
 
@@ -109,10 +129,10 @@ Use the \[Folder... \], \[Property... \] or \[Env Var... \] button to add a path
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)In case you are creating a Mac OS X package, any properties, environment variables or folders not included in the Application Folder you specify in the classpath list will be invalid.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add wildcard components
@@ -127,13 +147,6 @@ Use the \[\*.jar... \] button to add a new "Classpath" location. A list will app
 * Selecting the Custom...option will open the[Add Classpath Files Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 ## Application
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Main class
 
@@ -155,37 +168,36 @@ If your application is of Console or Graphical User Interface type, you can set 
 
 Any uncaught exception from the main thread is described in a dialog box that will allow the user either to stop the application or to ignore the exception. This option applies only to GUI applications.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Omit service name parameter
 
 When installing the Java product as a service the service name is passed as parameter automatically. If you do not need/expect that to be the first parameter received by your application, in the command line, enable this option.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Hide settings
 
 The [Native Java Launcher](https://tools.techidaily.com/advancedinstaller/products/) configuration can be seen and modified by the end user since it is placed into an INI file next to the application. The settings that are not resolved at install time can be hidden inside the launcher. This way the user will not be able to see your private settings.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Set product folder as current
 
 Set the java application's current directory to the application's folder.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution Level
@@ -193,6 +205,13 @@ Set the java application's current directory to the application's folder.
 **Run as administrator** \- enabling this option automatically sets the execution level to "Require Administrator". Disabling it will set the execution level back to the "As Invoker" default.
 
 **Execution level...** \- this link displays the java application launcher's [Execution Level Settings](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Platform
 
@@ -222,13 +241,6 @@ For a Graphical User Interface Application, you can set:
 ### Customize EXE Metadata
 
 Click on this hyperlink to customize metadata for your Java EXE Application. The[Edit EXE Metadata Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -272,17 +284,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-filter-techniques/"><u>[New] Mastering Instagram Filter Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-video-frame-ratio-classifications/"><u>[Updated] In 2024, FB Video Frame Ratio Classifications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-vs-twitch-hub-best-platform-debate/"><u>2024 Approved OBS Vs. Twitch Hub Best Platform Debate</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/3-simple-steps-how-to-transform-your-files-from-wav-to-wma-format/"><u>3 Simple Steps: How to Transform Your Files From WAV to WMA Format</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/conquer-flip-trickster-gameplay-like-a-pro-a-step-by-step-tutorial-for-pc-users/"><u>Conquer Flip Trickster Gameplay Like a Pro - A Step-by-Step Tutorial for PC Users</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/il-tuo-guida-per-scaricare-e-visualizzare-i-tuoi-videoplaylist-in-4k-utilizzando-il-downloader-gratuito-perfetto-tecniche-seoplus/"><u>Il Tuo Guida per Scaricare E Visualizzare I Tuoi Video/Playlist in 4K Utilizzando Il Downloader Gratuito Perfetto: Tecniche SEO+</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-digital-storyboard-studio/"><u>In 2024, Digital Storyboard Studio</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-m14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy M14 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/king-efficiency-the-top-5-video-shortener-tools/"><u>Unlocking Efficiency The Top 5 Video Shortener Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/updating-your-documents-a-comprehensive-guide-on-editing-text-files/"><u>Updating Your Documents: A Comprehensive Guide on Editing Text Files</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/aomei-fonebackupwhatsappand/"><u>「AOMEI FoneBackupを使って、簡単にWhatsAppのメッセージ・ファイルバックアップ&復元するコツ」</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-look-at-the-lenovo-thinkpad-x1-titanium-why-its-a-dream-come-true-for-diehard-thinkpad-enthusiasts/"><u>A Comprehensive Look at the Lenovo ThinkPad X1 Titanium: Why It's a Dream Come True for Diehard ThinkPad Enthusiasts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-tutorial-on-migrating-your-windows-10-setup-to-another-machine/"><u>Comprehensive Tutorial on Migrating Your Windows 지원 10 Setup to Another Machine</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-liquid-simulations-for-gamers-for-2024/"><u>Cutting Edge Liquid Simulations for Gamers for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-techniques-for-transforming-windows-backup-drives-into-disk-images-for-windows-111087-users/"><u>Effective Techniques for Transforming Windows Backup Drives Into Disk Images: For Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-engagement-structuring-gpt-powered-discussions-through-organization/"><u>Enhance Engagement: Structuring GPT-Powered Discussions Through Organization</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/iphone-setup-bildschirm-wiederherstellen-losungen-fur-nutzer/"><u>IPhone-Setup-Bildschirm Wiederherstellen - Lösungen Für Nutzer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/perfekt-importieren-wie-man-backup-daten-bak-erfolgreich-in-outlook-integriert/"><u>Perfekt Importieren: Wie Man Backup-Daten (.bak) Erfolgreich in Outlook Integriert</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-to-troubleshoot-and-correct-the-usb-device-not-recognized-issue-on-your-pc/"><u>Step-by-Step Guide to Troubleshoot and Correct the 'USB Device Not Recognized' Issue on Your PC</u></a></li>
+<li><a href="https://media-tips.techidaily.com/turn-your-ipod-into-a-portable-cinema-with-our-top-video-conversion-tool/"><u>Turn Your iPod Into a Portable Cinema with Our Top Video Conversion Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-mobile-and-web-photo-booster-at-no-cost-for-2024/"><u>Ultimate Mobile & Web Photo Booster at No Cost for 2024</u></a></li>
 </ul></div>
 

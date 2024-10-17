@@ -1,7 +1,7 @@
 ---
 title: "Explore Essential Windows Libraries: Your Comprehensive Guide"
-date: 2024-10-09T17:51:27.821Z
-updated: 2024-10-10T23:42:14.498Z
+date: 2024-10-10T06:52:11.756Z
+updated: 2024-10-16T16:17:35.342Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ The Windows Libraries functionality allows you to achieve the following installa
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Windows Libraries can be created in anywhere on a target machine, but they will not be displayed inside Windows Explorer while browsing the Libraries location. In order for your custom library to appear in this location it must be created under the "Windows Libraries" folder from the [Files and Folders Page - Installer Project](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating a new library
@@ -107,35 +107,35 @@ The Windows Libraries functionality allows you to achieve the following installa
 ![New Library](https://cdn.advancedinstaller.com/img/toolbar/library-new.png "New Library")Use the \[New Library \] toolbar button or the “New Library > Custom” list context menu item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Updating a predefined library
 
  The predefined libraries that can be updated are: Documents, Pictures, Videos and Music. These are placed in Windows Libraries predefined folder. In order to edit a predefined library go to Windows Libraries predefined folder and then select “New Library > <library>>” list context menu item. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Editing an existing library
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while a library is selected in the “Files” panel or double click on a library file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Libraries can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -175,19 +175,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-hold-whole-page-snapshot-image/"><u>[New] 2024 Approved Hold Whole Page Snapshot Image</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-boost-your-cinematography-game-essential-iphone-gear/"><u>[New] Boost Your Cinematography Game Essential iPhone Gear</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-mac-and-pc-fullscreen-recording-apps/"><u>[New] In 2024, Premium Mac & PC Fullscreen Recording Apps</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-free-pc-video-editor-convert-videos-on-windows-at-no-cost/"><u>Download Free PC Video Editor: Convert Videos on Windows at No Cost</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-guide-to-pre-launch-checklist-mastering-the-software-launch-settings-interface/"><u>Essential Guide to Pre-Launch Checklist: Mastering the Software Launch Settings Interface</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-direct-capture-screen-record-on-pcmac-plus-youtube-upload/"><u>In 2024, Direct Capture Screen Record on PC/Mac + YouTube Upload</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-converting-vids-on-pinterest-into-audible-format/"><u>In 2024, Mastering the Art of Converting Vids on Pinterest Into Audible Format</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Nubia Z50S Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-live-video-conferences-the-top-tips-for-flawless-recording-results/"><u>Mastering Live Video Conferences: The Top Tips for Flawless Recording Results</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-activating-and-utilizing-likee-feature-on-your-computer/"><u>Step-by-Step Tutorial: Activating and Utilizing Likee Feature on Your Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/streamline-your-real-estate-operations-with-ipropertycomponents/"><u>Streamline Your Real Estate Operations with IPropertyComponents</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-quality-sound-adjustment-apps-for-content-casters-for-2024/"><u>[Updated] High-Quality Sound Adjustment Apps for Content Casters for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>2024 Approved Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/analyse-de-la-solution-reprise-des-donnees-par-fonepaw-est-il-reellement-puissant/"><u>Analyse De La Solution Reprise Des Données Par FonePaw : Est-Il Réellement Puissant ?</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/crucial-ssd-24/"><u>Crucial SSD耐障害保護ツール: 24時間/日無料でシンプルなバックアップ</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/eleccion-inteligente-entre-windows-archives-y-backups-de-historia-una-guia-comparativa/"><u>Elección Inteligente Entre Windows Archives Y Backups De Historia: Una Guía Comparativa</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/gewinnen-sie-ihre-daten-zuruck-eine-schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-formatierten-xqd-karte-mit-hilfe-von-myrecover/"><u>Gewinnen Sie Ihre Daten Zurück: Eine Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer Formatierten XQD-Karte Mit Hilfe Von MyRecover</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-fix-icloud-backup-cant-be-turned-on-discover-these-5-easy-remedies/"><u>How To Fix 'iCloud Backup Can't Be Turned On': Discover These 5 Easy Remedies!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-itel-p55-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Itel P55</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-the-world-of-directed-interaction/"><u>In 2024, Navigating Through the World of Directed Interaction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-xbox-one-button-issues-resolved/"><u>PC Xbox One Button Issues Resolved</u></a></li>
 </ul></div>
 

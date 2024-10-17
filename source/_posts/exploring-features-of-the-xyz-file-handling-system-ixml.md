@@ -1,7 +1,7 @@
 ---
 title: Exploring Features of the XYZ File Handling System (iXML)
-date: 2024-10-05T07:18:57.373Z
-updated: 2024-10-11T00:13:13.640Z
+date: 2024-10-15T08:44:49.232Z
+updated: 2024-10-16T22:46:55.050Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface allows you to import or create an XML file and to get all the XML files from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,10 +125,10 @@ This interface allows you to import or create an XML file and to get all the XML
 IXmlFilesComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -136,13 +136,6 @@ IXmlFilesComponent : IDispatch
 **Array<IXmlFile> Files** \- Gets all the XML files from an Advanced Installer project.
 
 **Bool ImpersonateUser** \- Sets or gets the impersonate user flag.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -157,10 +150,17 @@ IXmlFilesComponent : IDispatch
 ![Ixmlfilescomponent](https://cdn.advancedinstaller.com/img/powershell-automation/ixmlfilescomponent.png "Ixmlfilescomponent")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -202,14 +202,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-ssl.techidaily.com/capture-your-screen-like-a-pro-the-ultimate-techniques-for-screenshots-on-windows-10-devices/"><u>Capture Your Screen Like a Pro: The Ultimate Techniques for Screenshots on Windows 10 Devices</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/component-quest-engine/"><u>Component Quest Engine</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cutting-mp4-videos-on-windows-10-and-11-without-re-encoding-a-comprehensive-guide/"><u>Cutting MP4 Videos on Windows 10 & 11 Without Re-Encoding: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/detailed-insights-into-ipaddress-management/"><u>Detailed Insights Into IPAddress Management</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 Without Passcode?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-tailored-user-experiences-a-guide-to-crafting-accurate-personalities/"><u>Leveraging ChatGPT for Tailored User Experiences: A Guide to Crafting Accurate Personalities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-portals-a-step-by-step-guide-to-teleportation-in-minecraft/"><u>Mastering Portals: A Step-by-Step Guide to Teleportation in Minecraft</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-solutions-for-when-your-iphone-wont-connect-to-itunes/"><u>Step-by-Step Solutions for When Your iPhone Won't Connect to iTunes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlined-editing-best-apps-compatible-with-macos-big-sur-for-2024/"><u>Streamlined Editing Best Apps Compatible with macOS Big Sur for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-checklist-for-successful-in-stream-fb-ads-for-2024/"><u>[New] The Ultimate Checklist for Successful In-Stream FB Ads for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-vs-tiktok-which-one-is-better/"><u>[New] YouTube Shorts Vs. TikTok Which One Is Better?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tips-for-finding-trending-videos-on-facebook-for-2024/"><u>[Updated] Tips for Finding Trending Videos on Facebook for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers/"><u>2024 Approved The Performer's Playbook Avoiding Common Mistakes in PPT Voiceovers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728489483024-ext4ext3/"><u>既存のExt4/Ext3パーティション回復手順：詳細ガイド</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/function/"><u>Function</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-completa-respaldo-de-archivos-al-cielo-con-aomei-backupper/"><u>Guía Completa: Respaldo De Archivos Al Cielo Con AOMEI Backupper</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-fix-transferred-files-not-showing-up-in-finder-on-your-mac-step-by-step-solutions/"><u>How to Fix Transferred Files Not Showing Up in Finder on Your Mac - Step-by-Step Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-search-functionality-on-your-windows-10-pc/"><u>How to Restore Search Functionality on Your Windows 10 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A78 5G</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/paso-a-paso-para-transferir-datos-de-windows-7-a-tu-nas-en-synology-sin-coste-alguno-tres-formas-sencillas/"><u>Paso a Paso Para Transferir Datos De Windows 7 a Tu NAS en Synology Sin Coste Alguno: Tres Formas Sencillas</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/professionelle-tipps-zur-ubertragung-ihrer-adressbuchdaten-in-windows-live-mailsystem/"><u>Professionelle Tipps Zur Übertragung Ihrer Adressbuchdaten in Windows Live Mailsystem</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/revolutionizing-the-arm-landscape-exciting-new-microsoft-windows-applications-set-to-launch/"><u>Revolutionizing the ARM Landscape: Exciting New Microsoft Windows Applications Set to Launch</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/tutorial-mengatur-file-onedrive-yang-tidak-terkiron/"><u>Tutorial Mengatur File OneDrive Yang Tidak Terkiron</u></a></li>
 </ul></div>
 
