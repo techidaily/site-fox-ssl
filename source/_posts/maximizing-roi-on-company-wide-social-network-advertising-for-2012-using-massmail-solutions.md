@@ -1,7 +1,7 @@
 ---
 title: Maximizing ROI on Company-Wide Social Network Advertising for 2012 Using MassMail Solutions
-date: 2024-10-11T23:17:38.859Z
-updated: 2024-10-16T20:59:44.483Z
+date: 2024-10-15T16:57:36.085Z
+updated: 2024-10-23T00:51:10.436Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,23 +39,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -84,41 +70,41 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -127,6 +113,13 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -148,6 +141,13 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -167,20 +167,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-broadcast-your-google-meet-directly-to-youtubes-stage-for-2024/"><u>[New] Broadcast Your Google Meet Directly to YouTube's Stage for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-nikon-d500-reviewed-a-4k-photo-enthusiasts-dream/"><u>2024 Approved Nikon D500 Reviewed A 4K Photo Enthusiast's Dream</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/3-besplatnyh-metoda-dlya-sozdaniya-obrazov-diskov-v-windows-11-poshagovoe-rukovodstvo/"><u>3 Бесплатных Метода Для Создания Образов Дисков В Windows 11: Пошаговое Руководство</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/difference-entre-la-sauvegarde-de-partition-et-de-volume-quest-ce-qui-change/"><u>Différence Entre La Sauvegarde De Partition Et De Volume : Qu'est-Ce Qui Change ?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-transformation-of-mxf-into-flv-a-comprehensive-guide-on-file-format-conversion/"><u>Effortless Transformation of MXF Into FLV: A Comprehensive Guide on File Format Conversion</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/error-the-page-youre-seeking-doesnt-exist/"><u>Error: The Page You're Seeking Doesn’t Exist</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-vs-perplexity-seeking-the-ideal-ai-chatbot/"><u>GPT Vs. Perplexity: Seeking the Ideal AI Chatbot</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-13-ultra-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi 13 Ultra Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-transfer-contacts-from-gmail-to-microsoft-outlook/"><u>How to Transfer Contacts From Gmail to Microsoft Outlook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-video-hub-significance-crafting-memorable-names/"><u>In 2024, Video Hub Significance Crafting Memorable Names</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-it-time-to-update-to-apples-ios-1511-pros-and-cons-of-the-latest-release/"><u>Is It Time to Update to Apple's iOS 15.1.1? Pros and Cons of the Latest Release</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-jump-cut-like-a-pro-advanced-editing-techniques-in-fcpx-for-2024/"><u>New Jump Cut Like a Pro Advanced Editing Techniques in FCPX for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-to-restore-your-lost-icloud-notes-forever/"><u>Step-by-Step Guide to Restore Your Lost iCloud Notes Forever</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-7-fixes-to-resolve-icloud-backup-progress-hanging-at-time-estimate/"><u>Top 7 Fixes to Resolve iCloud Backup Progress Hanging at Time Estimate</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac-for-2024/"><u>[New] Enhance Post Impact Auto-Adjusting Videos for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-easy-transition-integrating-snapchat-with-macos/"><u>2024 Approved Easy Transition Integrating Snapchat with macOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y36-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206301865-corsair-hs50-headset-mic-problems-heres-how-to-fix-them/"><u>Corsair HS50 Headset Mic Problems? Here's How to Fix Them!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-easy-way-with-massmail-app-harvesting-contact-details-en-masse-from-digital-files/"><u>Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-blaze-curve-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Blaze Curve 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23-tactical-edition-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23 Tactical Edition to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/inside-a-successful-affiliate-marketers-routine-with-massmail-tools/"><u>Inside a Successful Affiliate Marketer's Routine with MassMail Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigating-the-market-be-smart-not-hurried-dvr-edition/"><u>Navigating the Market: Be Smart, Not Hurried - DVR Edition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/navigating-the-pandemic-essential-strategies-for-small-businesses-with-massmail-solutions/"><u>Navigating the Pandemic: Essential Strategies for Small Businesses with MassMail Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/reviving-data-integrity-top-5-techniques-to-correct-corrupted-areas-in-an-exfat-storage-device/"><u>Reviving Data Integrity: Top 5 Techniques to Correct Corrupted Areas in an ExFAT Storage Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-enable-your-mic-for-google-meets-on-pc-windows-1110/"><u>Solving Audio Problems: Enable Your Mic for Google Meets on PC (Windows 11/10)</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/wiederherstellung-von-geloschten-bilddateien-erneutes-sicherstellen-auf-sd-karten/"><u>Wiederherstellung Von Gelöschten Bilddateien: Erneutes Sicherstellen Auf SD-Karten</u></a></li>
 </ul></div>
 

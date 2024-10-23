@@ -1,7 +1,7 @@
 ---
 title: Guide Easy-to-Follow Pour Le Transfert Inter-PCs Windows
-date: 2024-10-12T05:02:52.874Z
-updated: 2024-10-17T00:03:26.967Z
+date: 2024-10-20T00:32:34.653Z
+updated: 2024-10-23T06:10:50.915Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/79c7e594da2bcc4e0b5a712ad425c9a3c9c769d4308cac3ac9d4efb24f911715.jpg
@@ -43,14 +43,14 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -72,6 +72,13 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -81,10 +88,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -96,10 +103,10 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -127,17 +134,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -155,13 +155,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -197,6 +190,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -212,22 +212,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-downloads-and-direct-mp3-conversion/"><u>[New] 2024 Approved FB Video Downloads & Direct MP3 Conversion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-intro-to-radial-photo-distortion-ps-tutorial/"><u>[New] 2024 Approved Intro to Radial Photo Distortion PS Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-dissecting-magix-photo-pro-for-2024/"><u>[New] Dissecting MAGIX Photo Pro for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-the-financial-landscape-for-podcasters/"><u>[New] In 2024, Navigating the Financial Landscape for Podcasters</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-media-post-resolution-guide/"><u>[New] In 2024, Social Media Post Resolution Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/4-waarschijnlijkste-wege-om-het-herstellen-van-geen-google-docs-te-beheersen/"><u>4 Waarschijnlijkste Wege Om Het Herstellen Van Geen Google Docs Te Beheersen</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728505724023-sd3/"><u>如何輕鬆將電腦檔案移動到SD卡——3個有效方法介紹</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/acces-gratuit-au-codec-heconome-debloquez-la-qualite-superieure-pour-votre-visionnage-en-hd-avec-notre-pack-des-codecs-h264/"><u>Accès Gratuit Au Codec H.econome, Débloquez La Qualité Supérieure Pour Votre Visionnage en HD Avec Notre Pack Des Codecs H.264</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y78t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y78t?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comparing-dell-migrate-and-pcmover-determining-the-better-choice-for-your-data-transfer-needs/"><u>Comparing Dell Migrate and PCMover - Determining the Better Choice for Your Data Transfer Needs.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/construire-un-nuevo-disco-duro-funcional-desde-una-memoria-usb-inicializable-independiente-del-entorno-de-windows/"><u>Construire Un Nuevo Disco Duro Funcional Desde Una Memoria USB Inicializable, Independiente Del Entorno De Windows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solving-the-issue-of-an-unrecognized-seagate-extorrent-hdd-on-mac-systems/"><u>Solving the Issue of an Unrecognized Seagate ExTorrent HDD on Mac Systems</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/speedy-and-secure-windows-server-2022-restoration-media-unmatched-performance/"><u>Speedy & Secure Windows Server 2022 Restoration Media - Unmatched Performance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-insiders-guide-to-recording-slideshows/"><u>The Insider's Guide to Recording Slideshows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-to-prevent-sudden-shutdowns-enhancing-stability-for-state-of-decay-2-players/"><u>Top Strategies to Prevent Sudden Shutdowns: Enhancing Stability for State of Decay 2 Players</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transitioning-from-obstacles-to-outcomes-exploring-alternatives-to-datto/"><u>Transitioning From Obstacles to Outcomes: Exploring Alternatives to Datto</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/wiedergewinnen-sie-verlorene-informationen-mit-strato-hidive-expertenrat-zum-wiederaufbau/"><u>Wiedergewinnen Sie Verlorene Informationen Mit Strato HiDive: Expertenrat Zum Wiederaufbau</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-alternative-platforms-windows-media-cutting-tools/"><u>2024 Approved Alternative Platforms WIndows Media Cutting Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-leading-unboxing-series-s-must-watch-yt-channels/"><u>2024 Approved Leading Unboxing Series 'S Must-Watch YT Channels</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-supprimer-la-partition-de-demarrage-dans-windows-10-guide-complet/"><u>Comment Supprimer La Partition De Démarrage Dans Windows 10 : Guide Complet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-easy-way-with-massmail-app-harvesting-contact-details-en-masse-from-digital-files/"><u>Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/inside-a-successful-affiliate-marketers-routine-with-massmail-tools/"><u>Inside a Successful Affiliate Marketer's Routine with MassMail Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-video-making-phones-top-10-edition/"><u>Leading Video-Making Phones Top 10 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-facebook-solutions-for-its-most-frequent-glitches/"><u>Mastering FaceBook: Solutions for Its Most Frequent Glitches</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/navigating-the-pandemic-essential-strategies-for-small-businesses-with-massmail-solutions/"><u>Navigating the Pandemic: Essential Strategies for Small Businesses with MassMail Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-code-802-a-comprehensive-guide/"><u>Resolving Windows Update Error Code 802#: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-retrieving-data-from-your-non-booting-laptop/"><u>Step-by-Step Guide: Retrieving Data From Your Non-Booting Laptop</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/ugreen-powerroam-1200-evaluation-embrace-stylish-off-grid-living-with-top-rated-solar-generator/"><u>Ugreen PowerRoam 1200 Evaluation: Embrace Stylish Off-Grid Living with Top Rated Solar Generator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-no-matches-found-issue-on-bumble/"><u>Ultimate Guide: Solving the 'No Matches Found' Issue on Bumble</u></a></li>
 </ul></div>
 

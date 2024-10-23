@@ -1,7 +1,7 @@
 ---
 title: Resolve Device Errors Causing Failure in System Requests
-date: 2024-10-10T08:17:48.621Z
-updated: 2024-10-17T05:39:37.936Z
+date: 2024-10-18T05:52:06.202Z
+updated: 2024-10-23T06:18:37.816Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c6b04915c834196ff8d149e8.jpg
@@ -68,19 +68,25 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -135,6 +141,13 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -145,13 +158,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
@@ -161,10 +167,10 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -172,25 +178,11 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -205,16 +197,29 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -251,9 +256,23 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -275,13 +294,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -290,14 +302,14 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,22 +326,15 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/cripting-for-news-show-conclusions/"><u>[New] Scripting for News Show Conclusions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>[New] Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-diversify-your-laptop-editing-beyond-inshot/"><u>[Updated] 2024 Approved Diversify Your Laptop Editing Beyond Inshot</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-facetune-exploration-the-ultimate-photo-editing-journey/"><u>[Updated] Facetune Exploration The Ultimate Photo Editing Journey</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-insiders-secret-to-viral-tiktok-edits/"><u>[Updated] The Insider's Secret to Viral TikTok Edits</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comment-resoudre-le-probleme-de-non-reconnaissance-du-ssd-nvme-dans-windows-11/"><u>Comment Résoudre Le Problème De Non-Reconnaissance Du SSD NVMe Dans Windows 11 ?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-reshape-an-ssd-drive-on-a-hard-disk-in-windows-1011-with-secure-boot-enabled/"><u>How to Reshape an SSD Drive on a Hard Disk in Windows 10/11 with Secure Boot Enabled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009762434-path-of-exile-connectivity-troubles-heres-your-2024-guide-to-stable-gameplay/"><u>Path of Exile Connectivity Troubles? Here's Your 2024 Guide to Stable Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/pixel-perfection-embedding-zip-files-in-windows-images-unseen/"><u>Pixel Perfection: Embedding Zip Files in Windows Images Unseen</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/proses-detail-dalam-mengembalikan-data-bagian-apabila-anda-melakukan-pembersih-disk/"><u>Proses Detail Dalam Mengembalikan Data Bagian Apabila Anda Melakukan Pembersih Disk</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/proses-meskan-nvme-ssd-di-slot-tanggul-kunci-yang-memperdalam/"><u>Proses Meskan NVMe SSD Di Slot Tanggul - Kunci Yang Memperdalam!</u></a></li>
-<li><a href="https://win-data.techidaily.com/secure-account-access-restored-simplified-password-recovery-via-aomei-database-protector/"><u>Secure Account Access Restored: Simplified Password Recovery via AOMEI Database Protector</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/sicherheit-auf-hochstem-niveau-erreichen-einrichten-von-firewall-einstellungen-fur-windows-server-201920162012/"><u>Sicherheit Auf Höchstem Niveau Erreichen: Einrichten Von Firewall-Einstellungen Für Windows Server 2019/2016/2012</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-migrating-from-an-mbr-hard-drive-to-a-gpt-solid-state-drive-without-os-reinstalls/"><u>Step-by-Step Guide: Migrating From an MBR Hard Drive to a GPT Solid State Drive Without OS Reinstalls</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/une-solution-simple-et-intuitive-pour-transferer-votre-disque-dur-sur-un-ssd-rapide-de-500-go/"><u>Une Solution Simple Et Intuitive Pour Transférer Votre Disque Dur Sur Un SSD Rapide De 500 Go</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728480946648-windows-11/"><u>Windows 11におけるネットワークドライブ同期問題の解決手順</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-cutting-edge-cameras-top-15-picks-innovation/"><u>[New] Cutting-Edge Cameras Top 15 Picks Innovation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-screen-pro-tips-and-tricks-for-editors/"><u>[New] Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-endless-entertainment-building-addictive-ig-boomerangs/"><u>[Updated] 2024 Approved Endless Entertainment Building Addictive IG Boomerangs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5-essential-email-strategies-to-engage-subscribers-using-massmail-software-2011-edition/"><u>5 Essential Email Strategies to Engage Subscribers Using Massmail Software - 2011 Edition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comparing-the-impact-why-email-marketing-surpasses-seo-in-2011-insights-and-metrics-from-massmail/"><u>Comparing the Impact: Why Email Marketing Surpasses SEO in 2011 - Insights & Metrics From Massmail</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-resolve-the-hdcp-handshake-failure-error-p-dev320-on-your-roku-device/"><u>How to Resolve the HDCP Handshake Failure (Error P-DEV320) on Your Roku Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-login-issues-a-step-by-step-guide-to-accessing-your-vcenter-server/"><u>Resolving Login Issues: A Step-by-Step Guide to Accessing Your vCenter Server</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008453311-steam-connection-error-resolved-back-online-and-better-than-ever/"><u>Steam Connection Error Resolved - Back Online and Better Than Ever</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-complete-laptop-recording-manual-dell-edition-for-2024/"><u>The Complete Laptop Recording Manual Dell Edition for 2024</u></a></li>
 </ul></div>
 
