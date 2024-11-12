@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Backup Now' Option Grayout on iTunes with Windows 10 & 11
-date: 2024-10-13T20:23:09.525Z
-updated: 2024-10-17T10:40:37.537Z
+date: 2024-11-07T20:48:45.251Z
+updated: 2024-11-12T19:33:09.859Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe831ffe5683f3df2b7e432663.jpg
@@ -50,10 +50,17 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,10 +84,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -151,6 +158,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -177,13 +191,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -203,13 +210,6 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -234,10 +234,10 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -262,6 +262,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,13 +278,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,20 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-anonymous-footage-blurring-private-sections-in-video-for-2024/"><u>[New] Anonymous Footage Blurring Private Sections in Video for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-get-the-best-of-both-worlds-with-top-asymmetric-microphones-for-2024/"><u>[New] Get the Best of Both Worlds with Top Asymmetric Microphones for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-facebook-live-video-downloaders-how-to-download-live-videos/"><u>[New] In 2024, Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-syncing-visuals-and-soundtracks-in-video-magic/"><u>[New] Syncing Visuals & Soundtracks in Video Magic</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ambohddssd/"><u>「ステップバイステップガイド: 使い方とセットアップで、東�amboHDDをSSDに完全移行するための最適なツール」</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-4-strategieen-geheugenhuldebestand-locateer-eenvoudig-met-de-leidraad-van-gps-karten/"><u>1. [4 Strategieën] Geheugenhuldebestand Locateer Eenvoudig Met De Leidraad Van GPS-Karten</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-fixing-face-id-on-iphone-x-a-compreenasome-guide/"><u>2024 Approved Fixing Face ID on iPhone X A Compreenasome Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-windows-10s-prime-video-grabbing-solutions-ranked/"><u>2024 Approved Windows 10'S Prime Video Grabbing Solutions Ranked</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-tecno-spark-20c-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Tecno Spark 20C Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/accelerate-performance-solutions-for-fast-and-efficient-samsung-t5-uploaddownload-speeds/"><u>Accelerate Performance: Solutions for Fast and Efficient Samsung T5 Upload/Download Speeds</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/error-404-the-webpage-youre-looking-for-is-no-longer-available/"><u>Error 404: The Webpage You're Looking For Is No Longer Available</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-worth-investing-in-auto-gpt-when-gpt-4-isnt-available-yet/"><u>Is It Worth Investing in Auto-GPT When GPT-4 Isn't Available Yet?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/roblox-mishap-decoded-overcoming-error-code-t-277-with-ease-and-expertise/"><u>Roblox Mishap Decoded: Overcoming Error Code T 277 with Ease and Expertise</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solved-fixing-raw-drive-issues-a-comprehensive-guide/"><u>Solved: Fixing RAW Drive Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728481438226-2/"><u>システムの信頼性確保:2つのクラウド上での効果的なバックアップ戦略</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exploring-visual-storytelling-creating-time-lapse-videos-on-ipad/"><u>[New] Exploring Visual Storytelling Creating Time-Lapse Videos on iPad</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-video-grabber-software-in-windows-11/"><u>[Updated] Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5lin5roo5osp44gn5rai44gx44gm44gx44gplus44ge44gplus44gx44gf44kt44oj44oz44oq44k544gu57w144ks5yplusw44kk5oi744gz5oml6acg44cn/"><u>「不注意で消してしまいましたキャンバスの絵を取り戻す手順」</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-find-x7-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo Find X7 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/come-installare-laik-di-windows-necessario-ad-usare-aomei-backupper-in-modo-efficiente/"><u>Come Installare L'AIK Di Windows Necessario Ad Usare AOMEI Backupper in Modo Efficiente</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/die-top-kostenlose-sicherungssoftware-fur-die-beste-verlasslichkeit-bei-geanderten-dokumenten/"><u>Die Top-Kostenlose Sicherungssoftware Für Die Beste Verlässlichkeit Bei Geänderten Dokumenten</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ejecucion-paso-a-paso-como-realizar-una-copia-de-respaldo-completa-en-microsoft-outlook-incluidos-archivos-adjuntos/"><u>Ejecución Paso a Paso: Cómo Realizar Una Copia De Respaldo Completa en Microsoft Outlook, Incluidos Archivos Adjuntos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-choices-the-finest-17-inch-laptops-for-your-needs-in-vecter-but-also-a-sense-of-mystery-and-magic-you-can-use-phrases-like-enigmatic-charms-mystical-65/"><u>Expert Choices: The Finest 17-Inch Laptops for Your Needs in Vecter, but Also a Sense of Mystery and Magic. You Can Use Phrases Like Enigmatic Charms, Mystical Powers, or Magic Unleashed.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-into-solos-creating-popular-podcasts/"><u>In 2024, Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-logitechs-high-end-webcam-an-all-inclusive-review/"><u>In 2024, Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-pursuit-of-perfection-highest-rated-phones-for-smooth-videos-for-2024/"><u>In Pursuit of Perfection Highest Rated Phones for Smooth Videos for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-disk-recovery-fixing-unallocated-spaces-on-windows-11-systems/"><u>Mastering Disk Recovery: Fixing Unallocated Spaces on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/professionelle-tipps-zur-ubertragung-ihrer-adressbuchdaten-in-windows-live-mailsystem/"><u>Professionelle Tipps Zur Übertragung Ihrer Adressbuchdaten in Windows Live Mailsystem</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-fixes-for-windows-10-os-load-failure-successfully-resolved/"><u>Quick Fixes for Windows 10 OS Load Failure: Successfully Resolved!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/spotlight-on-whats-not-there-a-critical-review-of-samsung-galaxy-tab-a-2020s-key-omissions/"><u>Spotlight on What's Not There - A Critical Review of Samsung Galaxy Tab A (2020)'S Key Omissions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-to-recovering-your-acer-pc-using-windows-nine-eleven-tools/"><u>Step-by-Step Guide to Recovering Your Acer PC Using Windows Nine Eleven Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-live-streams-global-and-local-2024-edition/"><u>Top Live Streams Global & Local, 2024 Edition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/two-easy-methods-for-integrating-your-google-drive-into-a-windows-pc/"><u>Two Easy Methods for Integrating Your Google Drive Into a Windows PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/yi-action-cam-unleash-4k-videography/"><u>Yi Action Cam - Unleash 4K Videography</u></a></li>
 </ul></div>
 
