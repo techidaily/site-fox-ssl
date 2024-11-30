@@ -1,7 +1,7 @@
 ---
 title: Maximizing ROI on Company-Wide Social Network Advertising for 2012 Using MassMail Solutions
-date: 2024-11-16T10:03:29.750Z
-updated: 2024-11-21T23:29:59.018Z
+date: 2024-11-25T19:32:00.775Z
+updated: 2024-11-30T20:33:16.236Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,10 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -70,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,17 +82,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -102,21 +94,29 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,18 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>[New] Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-engaging-in-larger-than-life-fb-videos/"><u>[New] In 2024, Engaging in Larger-Than-Life FB Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unlocking-virtual-presence-enhanced-screen-focus-on-ms-teams/"><u>[Updated] 2024 Approved Unlocking Virtual Presence Enhanced Screen Focus on MS Teams</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-kostenloos-lijst-van-bestandjes-voor-herinnemen-efficient-het-prullenbak-afsluiten/"><u>1. 'Kostenloos Lijst Van Bestandjes Voor Herinnemen - Efficiënt Het Prullenbak Afsluiten'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-the-meaning-of-502-bad-gateway-error-and-its-fixes/"><u>Decode the Meaning of '502 Bad Gateway' Error and Its Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-all-latest-artificial-intelligence-enhancements-in-copilotplus-systems-almost-convinced/"><u>Exploring All Latest Artificial Intelligence Enhancements in Copilot+ Systems – Almost Convinced!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-pratique-pour-la-recovery-et-la-restauration-de-donnees-sur-une-carte-sd-endommagee/"><u>Guide Pratique Pour La Recovery Et La Restauration De Données Sur Une Carte SD Endommagée</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-x-flip-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo X Flip to iPod | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-90-gt-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor 90 GT?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>In 2024, Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
-<li><a href="https://tools.techidaily.com/marionettestudio/products/"><u>Marionettestudio's Products</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/44oj44op44kk44ow44gu44kv44ot44o844oz6lui6ycb44gr44gv44gp44gg44gz44km44gw44ki44ge44glppluss4goe3kuobqplusinoplusaxuuoblplusobvuoblplusochplusobhie/"><u>ドライブのクローン転送にはどうすればよいか?一緒に解決しましょう!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728468754783-aomei-backupper/"><u>ユニバーサルリカバリープロセスをAOMEI Backupperで実行する方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-capture-and-share-best-social-media-tools-of-the-year/"><u>[New] Capture and Share Best Social Media Tools of the Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-artisans-approach-to-profiling-brilliance/"><u>2024 Approved The Artisan's Approach to Profiling Brilliance</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-smart-8-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Smart 8 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/creating-a-unified-flipbook-from-various-photos-using-flipbuilder-step-by-step-instructions/"><u>Creating a Unified Flipbook From Various Photos Using FlipBuilder - Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-pre-loader-swf-files-for-enhanced-user-experience-on-your-flipbook-creations/"><u>Customizing Pre-Loader SWF Files for Enhanced User Experience on Your FlipBook Creations</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-your-flipmenus-appearance-shift-the-hue-of-its-base-section/"><u>Customizing Your FlipMenu's Appearance – Shift The Hue Of Its Base Section</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/design-an-engaging-html-interactive-booklet-with-flipbuilder-for-site-publishing/"><u>Design an Engaging HTML Interactive Booklet with FlipBuilder for Site Publishing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-downloading-and-upgrading-microsoft-surfaces-essential-drivers/"><u>Easy Methods for Downloading & Upgrading Microsoft Surface's Essential Drivers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-tutorial-for-opening-reading-and-exchanging-your-mobile-photo-album-with-flipbook-creator-technology/"><u>Easy Tutorial for Opening, Reading & Exchanging Your Mobile Photo Album with Flipbook Creator Technology</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-techniques-to-enhance-your-flipbook-layouts-without-obfuscating-content-discover-tips-at-flipbuildercom/"><u>Effective Techniques to Enhance Your Flipbook Layouts Without Obfuscating Content - Discover Tips at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-your-ebooks-master-the-art-of-enhancing-dull-text-and-images-into-visual-wonders-using-flipbuilder/"><u>Elevate Your eBooks: Master the Art of Enhancing Dull Text and Images Into Visual Wonders Using FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-guide-to-image-resizing-and-preparation-for-flipbook-creation-with-flipbuilder/"><u>Essential Guide to Image Resizing and Preparation for Flipbook Creation with FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-can-i-accelerate-my-flipoffice-pro-upgrade-with-the-express-path-at-flipbuildercom/"><u>How Can I Accelerate My FlipOffice Pro Upgrade with the Express Path at FlipBuilder.com?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-add-timestamp-on-youtube-video-link-desktop-and-mobile-for-2024/"><u>How to Add Timestamp on YouTube Video Link? [Desktop and Mobile] for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immediate-ios-screen-playback-guide/"><u>Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/leveraging-the-full-visualization-feature-with-google-meets-grids/"><u>Leveraging the Full Visualization Feature with Google Meet's Grids</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-shift-whats-updated-in-windows-11/"><u>Navigating the Shift: What's Updated in Windows 11?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/what-to-do-when-your-iphones-mute-function-isnt-working/"><u>What To Do When Your iPhone's Mute Function Isn't Working</u></a></li>
 </ul></div>
 

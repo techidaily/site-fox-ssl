@@ -1,7 +1,7 @@
 ---
 title: "Hilarious Workplace Humor From 2009: Classic Office Joke Collection via MassMailer Tool"
-date: 2024-11-19T04:22:02.083Z
-updated: 2024-11-21T19:00:36.949Z
+date: 2024-11-25T17:34:02.778Z
+updated: 2024-11-30T21:36:39.494Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -48,6 +44,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,16 +74,12 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -91,12 +87,16 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,20 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-mobile-audio-iphone-voice-memos-made-easy/"><u>[Updated] 2024 Approved Mastering Mobile Audio IPhone Voice Memos Made Easy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-techniques-to-boost-periscope-live-video-speed/"><u>[Updated] In 2024, Techniques to Boost Periscope Live Video Speed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevating-engagement-with-innovative-techniques-in-fb-lives/"><u>2024 Approved Elevating Engagement with Innovative Techniques in FB Lives</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-f5-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco F5 Pro 5G</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/como-clonar-un-disco-duro-de-windows-11-en-una-ssd-usando-gparted-un-tutorial-paso-a-paso/"><u>Cómo Clonar Un Disco Duro De Windows 11 en Una SSD Usando GParted: Un Tutorial Paso a Paso</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comparing-data-storage-techniques-image-disque-versus-disque-clonage/"><u>Comparing Data Storage Techniques: Image Disque versus Disque Clonage</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/endgultige-anleitung-fur-die-behandlung-der-datenwiederherstellung-nach-dem-neuaufbau-des-fabrikenmodus-in-windows-7/"><u>Endgültige Anleitung Für Die Behandlung Der Datenwiederherstellung Nach Dem Neuaufbau Des Fabrikenmodus in Windows 7</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/error-404-the-missing-webpage-hasnt-returned-yet/"><u>Error 404: The Missing Webpage Hasn't Returned Yet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fusing-visuals-with-acoustic-expressionism-for-2024/"><u>Fusing Visuals with Acoustic Expressionism for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-c51-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco C51</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-mpeg4-files-into-avi-format-with-easy-windows-tutorial/"><u>Simple Guide: Transforming MPEG4 Files Into AVI Format with Easy Windows Tutorial</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/simple-steps-to-capture-your-clash-of-clans-battles/"><u>Simple Steps to Capture Your Clash of Clans Battles</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-complete-guide-to-voice-overs-in-multimedia-projects-for-2024/"><u>The Complete Guide to Voice-Overs in Multimedia Projects for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-five-solutions-repairing-your-hp-laptop-when-it-powers-on-with-no-display-in-windows-11/"><u>Top Five Solutions: Repairing Your HP Laptop When It Powers On with No Display in Windows 11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tutoriel-simple-a-pause-pour-recouvrer-les-donnees-perdues-sur-lordinateur-portable-hp/"><u>Tutoriel Simple À Pause Pour Recouvrer Les Données Perdues Sur L'Ordinateur Portable HP</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-6-video-languages-conversion-aids/"><u>[New] Leading 6 Video Languages Conversion Aids</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/adapting-email-marketing-during-the-pandemic-how-massmail-can-help-maintain-business-continuity/"><u>Adapting Email Marketing During the Pandemic: How MassMail Can Help Maintain Business Continuity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/disabling-automated-podcast-suggestions-for-privacy-for-2024/"><u>Disabling Automated Podcast Suggestions for Privacy for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-itel-a60s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel A60s Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itunes-iphone-itunes-iphone/"><u>ITunes 音楽が iPhone 画面上で見られないときの修正方法 - iTunes 音楽を iPhone 画面で確認するコツ</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/magical-jargon-uncover-the-best-marketing-phrases-for-2024/"><u>Magical Jargon Uncover the Best Marketing Phrases for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-competitive-play-on-windows/"><u>Mastering the Art of Competitive Play on Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/sd-speicher-wiederherstellung-datenwiederholung-von-deiner-hand/"><u>SD-Speicher Wiederherstellung: Datenwiederholung Von Deiner Hand</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-lenovo-laptop-fn-key-defects-get-back-to-productivity/"><u>Step-by-Step Repair Tips for Lenovo Laptop FN Key Defects - Get Back to Productivity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-dealing-with-dev-error-5573-in-fortnites-warzone-pc-and-console-versions/"><u>Step-by-Step Solution for Dealing with Dev Error 5573 in Fortnite's Warzone - PC & Console Versions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/unlock-the-secrets-top-4-factors-leading-to-user-unsubscription-prevent-losses-with-massmail/"><u>Unlock the Secrets: Top 4 Factors Leading to User Unsubscription - Prevent Losses with MassMail</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Impact: Why Email Marketing Surpasses SEO in 2011 - Insights & Metrics From Massmail"
-date: 2024-11-18T23:33:14.838Z
-updated: 2024-11-21T17:51:14.667Z
+date: 2024-11-24T19:16:35.726Z
+updated: 2024-11-30T20:18:59.441Z
 tags:
   - product
 categories:
@@ -32,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,16 +70,24 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -90,10 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -102,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-premium-online-streams-convert-youtube-to-mp3-instantly/"><u>[New] 2024 Approved Premium Online Streams Convert YouTube to MP3 Instantly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-computing-select-the-optimal-device-for-video-editing-for-2024/"><u>[New] Cutting Edge Computing Select the Optimal Device for Video Editing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-eliminate-payment-for-cam-screen-recording-a-comparative-study/"><u>[New] In 2024, Eliminate Payment for Cam Screen Recording – A Comparative Study</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-examining-vlc-for-screen-capture-for-2024/"><u>[Updated] Examining VLC for Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] Portable Balance Enhancer for Shooting Blurs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quicktime-screen-recording-with-audio-guide/"><u>[Updated] QuickTime Screen Recording with Audio Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/44cm5lin5roo5osp44gn5rai44gx44gm44gx44gplus44ge44gplus44gx44gf44kt44oj44oz44oq44k544gu57w144ks5yplusw44kk5oi744gz5oml6acg44cn/"><u>「不注意で消してしまいましたキャンバスの絵を取り戻す手順」</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728489483024-ext4ext3/"><u>既存のExt4/Ext3パーティション回復手順：詳細ガイド</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/come-installare-laik-di-windows-necessario-ad-usare-aomei-backupper-in-modo-efficiente/"><u>Come Installare L'AIK Di Windows Necessario Ad Usare AOMEI Backupper in Modo Efficiente</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/die-top-kostenlose-sicherungssoftware-fur-die-beste-verlasslichkeit-bei-geanderten-dokumenten/"><u>Die Top-Kostenlose Sicherungssoftware Für Die Beste Verlässlichkeit Bei Geänderten Dokumenten</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ejecucion-paso-a-paso-como-realizar-una-copia-de-respaldo-completa-en-microsoft-outlook-incluidos-archivos-adjuntos/"><u>Ejecución Paso a Paso: Cómo Realizar Una Copia De Respaldo Completa en Microsoft Outlook, Incluidos Archivos Adjuntos</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-fix-transferred-files-not-showing-up-in-finder-on-your-mac-step-by-step-solutions/"><u>How to Fix Transferred Files Not Showing Up in Finder on Your Mac - Step-by-Step Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experience-next-gen-notetaking-with-mematic/"><u>In 2024, Experience Next-Gen Notetaking with Mematic</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-rediscovering-archived-discussions-on-reddit-now/"><u>In 2024, Rediscovering Archived Discussions on Reddit Now</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>In 2024, The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/paso-a-paso-para-transferir-datos-de-windows-7-a-tu-nas-en-synology-sin-coste-alguno-tres-formas-sencillas/"><u>Paso a Paso Para Transferir Datos De Windows 7 a Tu NAS en Synology Sin Coste Alguno: Tres Formas Sencillas</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/professionelle-tipps-zur-ubertragung-ihrer-adressbuchdaten-in-windows-live-mailsystem/"><u>Professionelle Tipps Zur Übertragung Ihrer Adressbuchdaten in Windows Live Mailsystem</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-to-recovering-your-acer-pc-using-windows-nine-eleven-tools/"><u>Step-by-Step Guide to Recovering Your Acer PC Using Windows Nine Eleven Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-pairing-a-non-syncing-xbox-one-controller/"><u>Step-by-Step Guide: Successfully Pairing a Non-Syncing Xbox One Controller</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-android-freedom-selecting-prime-video-editing-tools/"><u>[Updated] In 2024, Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5-effective-strategies-to-correct-the-directory-name-is-invalid-issue-on-windows-1011-platforms/"><u>5 Effective Strategies to Correct the 'Directory Name Is Invalid' Issue on Windows 10/11 Platforms</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728497298162-windows-11hddssd2/"><u>安全なデータ保管を目指して：Windows 11における外部HDD/SSD暗号化法の新しい方法2つ</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/a-holistic-design-approach-is-necessary-for-optimization-maintenance-flexibility-and-scalability/"><u>A Holistic Design Approach Is Necessary for Optimization, Maintenance Flexibility, and Scalability.</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/descubra-o-melhor-programa-copia-gratis-de-bits-compativel-com-windows-111087/"><u>Descubra O Melhor Programa Cópia Grátis De Bits - Compatível Com Windows 11/10/8/7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2651766-9781493019410-haunted-washington-dc/"><u>Haunted Washington, DC | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-hub-adobe-meme-manipulation-for-2024/"><u>Humor Hub Adobe Meme Manipulation for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-virtual-space-insights-into-vr-cinema/"><u>In 2024, Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-valorant-crashes-necessary-system-reboot/"><u>Resolving Valorant Crashes: Necessary System Reboot</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-resolving-iphone-8-data-retrieval-issues/"><u>Step-by-Step Tutorial: Resolving iPhone 8 Data Retrieval Issues</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-tips-restore-access-to-an-unresponsive-external-hdd-via-cmd-in-windows-11/"><u>Troubleshooting Tips: Restore Access to an Unresponsive External HDD via CMD in Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-10-analiticheskih-instrumentov-dlya-vebmasterov-alternativy-similarweb-i-seo-powersuite/"><u>Топ-10 Аналитических Инструментов Для Вебмастеров: Альтернативы SimilarWeb И SEO PowerSuite</u></a></li>
 </ul></div>
 

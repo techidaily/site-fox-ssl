@@ -1,7 +1,7 @@
 ---
 title: Top 9 Marketing Strategies for Successful Sales on Black Friday & Cyber Monday Using MassMail Software
-date: 2024-11-19T23:01:04.799Z
-updated: 2024-11-21T20:48:38.494Z
+date: 2024-11-26T18:04:11.440Z
+updated: 2024-11-30T18:47:23.407Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -70,21 +66,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,13 +86,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -110,13 +102,25 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-exploring-the-world-with-a-vr-headset/"><u>[New] Exploring the World with a VR Headset</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-10-insider-secrets-for-smarter-pixlr-usage/"><u>[Updated] 10 Insider Secrets for Smarter Pixlr Usage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-your-timeline-leading-tools-to-unfollow-tweets/"><u>[Updated] 2024 Approved Streamlining Your Timeline Leading Tools to Unfollow Tweets</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-you-restore-lost-imessages-from-ios-devices-explore-the-methods-using-a-mac-computer/"><u>Can You Restore Lost iMessages From iOS Devices? Explore the Methods Using a Mac Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/come-usare-la-partizione-di-ripristino-nascosto-in-windows-11-8-o-7-per-risolvere-i-tuoi-problemi-del-sistema/"><u>Come Usare La Partizione Di Ripristino Nascosto in Windows 11, 8 O 7 per Risolvere I Tuoi Problemi Del Sistema</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/decouvrir-les-specificites-des-fichiers-images-cles-a-la-recherche-dune-partition-ou-dun-volume-existant/"><u>Découvrir Les Spécificités Des Fichiers Images : Clés À La Recherche D'une Partition Ou D'un Volume Existant</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effizientes-upgrade-von-mainboards-und-cpus-unter-beibehaltung-der-vorhandenen-windows-betriebssystemversion-windows-11-10-8/"><u>Effizientes Upgrade Von Mainboards Und CPUs Unter Beibehaltung Der Vorhandenen Windows-Betriebssystemversion (Windows 11, 10, 8,</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/free-ways-to-back-up-your-data-from-windows-7-onto-a-shared-network-folder/"><u>Free Ways to Back Up Your Data From Windows 7 Onto a Shared Network Folder</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gourmet-guide-mastering-nutritious-recipes-with-ai/"><u>Gourmet Guide: Mastering Nutritious Recipes with AI</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guia-facil-para-restaurar-todos-tus-archivos-con-diskpart-limpiador/"><u>Guía Fácil Para Restaurar Todos Tus Archivos Con Diskpart Limpiador</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-comment-cloning-sur-un-steam-deck-avec-ssd-etapes-simplifiees/"><u>Guide Comment Cloning Sur Un Steam Deck Avec SSD : Étapes Simplifiées</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/preserve-your-phone-conversations-a-comprehensive-guide-to-saving-voicemails-on-ios-devices/"><u>Preserve Your Phone Conversations: A Comprehensive Guide to Saving Voicemails on iOS Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-humor-of-hardware-laptop-lore-and-network-safety-chronicles/"><u>The Humor of Hardware: Laptop Lore & Network Safety Chronicles</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quickest-quality-nine-fixes-to-enhance-your-video-on-pc/"><u>The Quickest Quality: Nine Fixes to Enhance Your Video on PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unlocking-creativity-master-the-art-of-customizing-your-ios-16-iphone-lock-screen/"><u>Unlocking Creativity: Master the Art of Customizing Your IOS 16 iPhone Lock Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-3-insights-choose-the-right-export-solutions/"><u>Unlocking GPT-3 Insights – Choose the Right Export Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cutting-edge-editing-with-youtubes-studio-editor/"><u>[Updated] In 2024, Cutting-Edge Editing with YouTube's Studio Editor</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-recognizing-and-defending-against-forget-your-apple-password-scams-insights-from-malwarefox/"><u>1. Recognizing and Defending Against Forget Your Apple Password Scams: Insights From MalwareFox</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-visibility-mastering-the-art-of-ibasesearch/"><u>Boost Your Visibility: Mastering the Art of IBaseSearch</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-what-every-listener-must-know-before-using-spotify/"><u>Comprehensive Guide: What Every Listener Must Know Before Using Spotify</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/decoding-the-deception-how-verify-parcel-details-e-mails-are-spreading-malware-online/"><u>Decoding the Deception: How 'Verify Parcel Details' E-Mails Are Spreading Malware Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/edit-and-elevate-instagrams-ultimate-toolkit/"><u>Edit & Elevate Instagram's Ultimate Toolkit</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-server-stumble-a-guide-to-fixing-ms-store-in-windows-11-and-11/"><u>Eliminating the Server Stumble: A Guide to Fixing MS Store in Windows 11 and 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-sql-query-techniques/"><u>Expert Guide: Mastering SQL Query Techniques</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-secure-is-your-internet-activity-when-using-incognito-mode-unveiling-the-truth/"><u>How Secure Is Your Internet Activity When Using Incognito Mode? Unveiling the Truth</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-se-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone SE to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/lords-mobile-pc-gameplay-tutorials-steps-to-success-from-beginner-to-pro/"><u>Lords Mobile PC Gameplay Tutorials: Steps to Success From Beginner to Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ftware-needed-try-our-top-free-youtube-to-mp3-tools/"><u>No Software Needed? Try Our Top Free YouTube-to-MP3 Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimal-vehicle-control-preferences/"><u>Optimal Vehicle Control Preferences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-for-repairing-the-application-couldnt-begin-properly-issue-with-error-code-0xc0000142/"><u>Tips for Repairing the 'Application Couldn't Begin Properly' Issue with Error Code 0xC0000142</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-different-virtual-machine-profiles-and-setups/"><u>Understanding Different Virtual Machine Profiles and Setups</u></a></li>
+<li><a href="https://win-web3.techidaily.com/win-117-windows-update/"><u>Win 11更新問題を解消するための7つの最善手 - Windows Updateで表示されず</u></a></li>
 </ul></div>
 
