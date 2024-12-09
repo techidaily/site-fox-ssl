@@ -1,7 +1,7 @@
 ---
 title: "Navigating Covid-19: Strategies for Sustaining Your Email Campaigns with MassMail"
-date: 2024-11-27T21:24:38.170Z
-updated: 2024-11-30T21:16:37.507Z
+date: 2024-12-03T01:27:36.010Z
+updated: 2024-12-08T22:42:54.630Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -40,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -52,11 +48,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,17 +74,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,13 +90,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -114,9 +110,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos/"><u>[New] Boost Visual Impact Learning to Edit Videos Using StoryRemix and Windows Photos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-movie-capture-with-multiple-technology-systems/"><u>[New] Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-creativity-filmoras-favorite-features-explored/"><u>[Updated] Cutting Edge Creativity Filmora's Favorite Features Explored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-tips-on-documenting-lol-tournaments/"><u>[Updated] Expert Tips on Documenting LOL Tournaments</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-video-reach-sharing-twitters-content-on-facebooks/"><u>[Updated] Maximizing Video Reach Sharing Twitters' Content on Facebooks</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/choosing-the-right-account-for-a-smooth-windows-11-setup-experience-expert-advice/"><u>Choosing the Right Account for a Smooth Windows 11 Setup Experience – Expert Advice</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-mastering-video-edits-in-imovie-on-your-pc/"><u>Essential Tips for Mastering Video Edits in iMovie on Your PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/indias-tiktok-dilemma-secrets-to-preserving-your-downloaded-short-clips-post-ban/"><u>India's TikTok Dilemma: Secrets to Preserving Your Downloaded Short Clips Post-Ban</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximizing-user-engagement-with-optimal-search-outcome-presentation/"><u>Maximizing User Engagement with Optimal Search Outcome Presentation</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v30-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo V30</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/your-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>[New] Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-discover-the-power-of-proportions-in-youtube-content-creation/"><u>[Updated] 2024 Approved Discover the Power of Proportions in YouTube Content Creation</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-resolving-unresponsive-applications-expert-strategies-from-yl-computings-guide/"><u>1. Resolving Unresponsive Applications: Expert Strategies From YL Computing's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-optimal-cloud-savers-updated-list/"><u>2024 Approved Android's Optimal Cloud Savers Updated List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-book-trailers-a-curated-list-of-5/"><u>2024 Approved Best Book Trailers A Curated List of 5</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/adjust-your-pcs-energy-consumption-navigating-windows-control-panel-for-optimal-performance-with-yl-computing-tips/"><u>Adjust Your PC's Energy Consumption: Navigating Windows Control Panel for Optimal Performance with YL Computing Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/churn-your-own-custom-internet-laughter/"><u>Churn Your Own Custom Internet Laughter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-claude-ai-which-one-reigns-supreme-as-the-best-conversational-agent/"><u>Comparing ChatGPT and Claude AI - Which One Reigns Supreme as the Best Conversational Agent?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-the-dots-compatibility-of-ps-vr-headset-and-personal-computers/"><u>Connecting the Dots: Compatibility of PS VR Headset and Personal Computers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhancing-system-efficiency-with-a-new-gpu-is-it-time-to-upgrade-or-just-add-on-expert-advice-by-yl-software/"><u>Enhancing System Efficiency with a New GPU: Is It Time to Upgrade or Just Add On – Expert Advice by YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y17s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y17s Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/fixing-gpu-fan-malfunction-expert-tips-from-yl-computings-guide/"><u>Fixing GPU Fan Malfunction: Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/high-resolution-flat-design-patterns-complete-range-of-backdrops-imagery-and-graphics-expertly-crafted-by-yl-computings-advanced-tools/"><u>High-Resolution Flat Design Patterns: Complete Range of Backdrops, Imagery & Graphics - Expertly Crafted by YL Computing's Advanced Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/identifying-and-diagnosing-ram-problems-in-windows-with-yl-software-solutions/"><u>Identifying and Diagnosing RAM Problems in Windows with YL Software Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>In 2024, Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolve-your-gpu-problems-effortlessly-top-rated-diagnostic-software-by-abc-innovations/"><u>Resolve Your GPU Problems Effortlessly - Top-Rated Diagnostic Software by ABC Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-imessage-futuristic-cybersecurity-measures-by-apple-unveiled-zdnet/"><u>Safeguarding iMessage Futuristic Cybersecurity Measures by Apple Unveiled | ZDNet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-color-discrepancies-a-deep-dive-into-print-quality-issues-with-yl-computing/"><u>Understanding Color Discrepancies: A Deep Dive Into Print Quality Issues with YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-your-pc-why-does-the-gpu-fan-get-louder-during-gaming-sessions-insights-from-yl-computing/"><u>Understanding Your PC: Why Does the GPU Fan Get Louder During Gaming Sessions - Insights From YL Computing</u></a></li>
 </ul></div>
 
