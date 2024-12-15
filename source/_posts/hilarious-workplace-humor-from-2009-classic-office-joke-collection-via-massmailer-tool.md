@@ -1,7 +1,7 @@
 ---
 title: "Hilarious Workplace Humor From 2009: Classic Office Joke Collection via MassMailer Tool"
-date: 2024-12-02T18:23:26.722Z
-updated: 2024-12-08T18:54:43.803Z
+date: 2024-12-12T20:40:23.616Z
+updated: 2024-12-14T18:35:21.082Z
 tags:
   - product
 categories:
@@ -32,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,10 +66,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,37 +78,41 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-proper-mac-photo-tips-identifying-and-comparing-the-top-5-techniques/"><u>[Updated] Proper Mac Photo Tips Identifying and Comparing The Top 5 Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-novice-nests-in-mc-the-essential-guide-to-housing/"><u>2024 Approved Novice Nests in MC The Essential Guide to Housing</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-g24-power-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola G24 Power by Name | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/detecting-and-diagnosing-graphics-card-issues-on-your-pc-with-windows-a-step-by-step-guide-by-yl-computing/"><u>Detecting and Diagnosing Graphics Card Issues on Your PC with Windows - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-to-create-ai-images/"><u>How to Use ChatGPT to Create AI Images</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-asus-rog-phone-8-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Asus ROG Phone 8 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-redmi-k70e-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Redmi K70E Easily?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-viewsplit-diagnostics/"><u>In 2024, ViewSplit Diagnostics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>[Updated] Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-your-visuals-the-most-efficient-face-masking-apps/"><u>2024 Approved Secure Your Visuals The Most Efficient Face-Masking Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/s-the-archived-unique-methods-for-viewing-old-youtube-for-2024/"><u>Access the Archived Unique Methods for Viewing Old YouTube for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/autumn-visuals-for-high-definition-displays-1920x1080-professional-backgrounds-and-images-from-yl-software/"><u>Autumn Visuals for High Definition Displays (1920X1080): Professional Backgrounds and Images From YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000636661-banish-nba-2k2-glitches-step-by-step-solution/"><u>Banish NBA 2K2# Glitches - Step-by-Step Solution!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elegant-blossom-icon-designs-by-yl-computing-your-premier-choice-in-yl-software-solutions/"><u>Elegant Blossom Icon Designs by YL Computing - Your Premier Choice in YL Software Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-interior-design-with-unique-door-mat-patterns-high-resolution-graphics-from-yl-software/"><u>Elevate Interior Design with Unique Door Mat Patterns - High-Resolution Graphics From YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/is-your-graphics-card-responsible-for-system-crashes-exploring-the-facts-insights-by-yl-computing/"><u>Is Your Graphics Card Responsible for System Crashes? Exploring the Facts - Insights by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/paww-harmony-3-evaluation-affordable-high-fidelity-earbuds/"><u>Paww Harmony 3 Evaluation: Affordable High-Fidelity Earbuds</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/premium-desktop-and-mobile-wallpapers-for-bmw-alpina-b7-hd-exclusive-graphics-collection-from-yl-software/"><u>Premium Desktop and Mobile Wallpapers for BMW Alpina B7 HD – Exclusive Graphics Collection From YL Software</u></a></li>
 <li><a href="https://fox-ssl.techidaily.com/resolving-issues-with-compromised-scanning-data-tips-and-support-by-yl-software-experts/"><u>Resolving Issues with Compromised Scanning Data - Tips and Support by YL Software Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-network-connectivity-problems-expert-tips-from-yl-computing/"><u>Resolving Network Connectivity Problems: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solving-non-responsive-application-issues-expert-guide-from-yl-computing/"><u>Solving Non-Responsive Application Issues: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m3-macbook-air-unveiled-how-apples-latest-entry-in-affordable-ai-computing-stacks-up-insights-from-a-comprehensive-review/"><u>The M3 MacBook Air Unveiled: How Apple's Latest Entry in Affordable AI Computing Stacks Up - Insights From a Comprehensive Review</u></a></li>
 <li><a href="https://fox-ssl.techidaily.com/top-rated-data-recovery-solutions-for-windows-operating-system-find-your-perfect-match-with-yl-computings-expert-picks/"><u>Top-Rated Data Recovery Solutions for Windows Operating System: Find Your Perfect Match with YL Computing's Expert Picks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-setting-up-your-printer-on-windows-10-expert-tips-from-yl-computing/"><u>Ultimate Guide: Setting Up Your Printer on Windows 10 - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptzeros-strategy-for-identifying-machine-learning-outputs/"><u>Understanding GPTZero's Strategy for Identifying Machine Learning Outputs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/vllo-feedback-compilation-for-2024/"><u>VLLO Feedback Compilation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 </ul></div>
 
