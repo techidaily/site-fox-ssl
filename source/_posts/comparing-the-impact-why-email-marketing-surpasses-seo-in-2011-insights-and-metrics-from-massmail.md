@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Impact: Why Email Marketing Surpasses SEO in 2011 - Insights & Metrics From Massmail"
-date: 2024-12-13T01:22:39.871Z
-updated: 2024-12-15T00:39:05.286Z
+date: 2024-12-23T18:35:20.015Z
+updated: 2024-12-29T19:58:53.690Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -47,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -78,13 +82,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -95,16 +99,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-high-performance-tools-youtube-meets-twitter/"><u>[Updated] High-Performance Tools YouTube Meets Twitter</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/diy-guide-how-to-safely-upgrade-your-pcs-psu-tips-from-yl-computing/"><u>DIY Guide: How to Safely Upgrade Your PC's PSU - Tips From YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashing-issues-with-metro-exodus-on-computer/"><u>Effective Solutions for Continuous Crashing Issues with Metro Exodus on Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/evaluating-the-efficacy-of-windows-defender-as-a-reliable-antivirus-solution-insights-from-yl-computing/"><u>Evaluating the Efficacy of Windows Defender as a Reliable Antivirus Solution - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-reliable-are-googles-bard-and-microsofts-chatgpt-for-making-savvy-investment-choices/"><u>How Reliable Are Google's Bard and Microsoft's ChatGPT for Making Savvy Investment Choices?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-mouse-customization-navigating-windows-settings-for-optimal-performance-expertise-by-yl-software/"><u>Mastering Mouse Customization: Navigating Windows Settings for Optimal Performance - Expertise by YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximize-your-pcs-endurance-innovative-strategies-for-better-battery-performance-insights-from-yl-tech-experts/"><u>Maximize Your PC's Endurance: Innovative Strategies for Better Battery Performance – Insights From YL Tech Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sprachweiterentwicklung-zahlreim-fur-die-ersten-100-deutsche/"><u>Sprachweiterentwicklung: Zählreim Für Die Ersten 100 Deutsche</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-discover-the-best-9-mobile-video-conferencing-apps-androidiphone/"><u>[New] Discover The Best 9 Mobile Video Conferencing Apps (Android/iPhone)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[New] Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevating-media-output-xml-to-text-to-speech-srt-format/"><u>[Updated] 2024 Approved Elevating Media Output XML to Text-To-Speech (SRT) Format</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5-essential-email-strategies-to-engage-subscribers-using-massmail-software-2011-edition/"><u>5 Essential Email Strategies to Engage Subscribers Using Massmail Software - 2011 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools-for-2024/"><u>Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/crafting-effective-email-subscription-boxes-a-step-by-step-guide-with-practical-examples-using-massmail/"><u>Crafting Effective Email Subscription Boxes: A Step-by-Step Guide with Practical Examples Using MassMail</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-yourself-mastering-personal-development-and-achieving-happiness-with-abc-strategies-via-massmail-applications/"><u>Elevate Yourself : Mastering Personal Development and Achieving Happiness with ABC Strategies via MassMail Applications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-mapmyrides-biking-and-running-capabilities/"><u>Evaluating Performance: A Detailed Look at MapMyRide's Biking and Running Capabilities</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-tips-retrieving-pdf-documents-after-drive-formatting-mishap/"><u>Expert Tips: Retrieving PDF Documents After Drive Formatting Mishap</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-advantages-4-key-motivations-for-transitioning-to-claude-3-instead-of-sticking-with-chatgpt/"><u>Explore Advantages: 4 Key Motivations for Transitioning to Claude 3 Instead of Sticking with ChatGPT</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/gunstigste-kostenlose-datensicherung-auf-externe-festplatten-top-empfehlungen/"><u>Günstigste Kostenlose Datensicherung Auf Externe Festplatten - Top-Empfehlungen</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-resolve-the-hdcp-handshake-failure-error-p-dev320-on-your-roku-device/"><u>How to Resolve the HDCP Handshake Failure (Error P-DEV320) on Your Roku Device</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-undo-accidental-partition-deletion-in-windows-10-and-retrieve-lost-drives/"><u>How to Undo Accidental Partition Deletion in Windows 10 & Retrieve Lost Drives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-leading-tv-streaming-providers/"><u>In-Depth Analysis Leading TV Streaming Providers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-perfecting-auditory-aesthetics-in-video-production/"><u>New Perfecting Auditory Aesthetics in Video Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-chrome-drawing-programs-the-ultimate-list-for-2024/"><u>Prime Chrome Drawing Programs The Ultimate List for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-login-issues-a-step-by-step-guide-to-accessing-your-vcenter-server/"><u>Resolving Login Issues: A Step-by-Step Guide to Accessing Your vCenter Server</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/section-4c-five-qandas-with-solutions/"><u>Section 4C: Five Q&As with Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Marketing During the Pandemic: How MassMail Can Help Maintain Business Continuity"
-date: 2024-12-10T16:09:29.178Z
-updated: 2024-12-14T23:09:11.217Z
+date: 2024-12-28T18:40:24.953Z
+updated: 2024-12-29T19:33:20.538Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,12 +37,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -74,33 +82,33 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-pro-cams-face-off-gopro-hero5-black-and-garmin-virb-ultra-30-for-2024/"><u>[New] Pro Cams Face-Off GoPro Hero5 Black and Garmin VIRB Ultra 30 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-integrate-youtube-playlists-into-your-site-for-2024/"><u>[Updated] How to Integrate YouTube Playlists Into Your Site for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-vibrant-indian-rollers-high-quality-wallpapers-and-backgrounds-from-yl-computings-extensive-collection/"><u>1. Vibrant Indian Rollers: High-Quality Wallpapers & Backgrounds From YL Computing's Extensive Collection</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-tech-careers-seeking-talent-a-detailed-look-by-zdnet/"><u>Essential Tech Careers Seeking Talent: A Detailed Look by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/from-standard-to-elite-windows-10-the-64-bit-upgrade/"><u>From Standard to Elite: Windows 10, The 64-Bit Upgrade</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-resolution-white-blossoms-hd-wallpaper-collection-premium-backdrops-and-imagery-yl-tech-solutions/"><u>High-Resolution White Blossoms HD Wallpaper Collection | Premium Backdrops & Imagery - YL Tech Solutions</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/identifying-frequent-issues-with-your-sound-card-insights-from-yl-computings-expertise/"><u>Identifying Frequent Issues with Your Sound Card: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme 11 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-connectivity-issues-when-your-new-network-card-fails-to-provide-internet-expert-guidance-by-yl-software/"><u>Resolving Connectivity Issues When Your New Network Card Fails to Provide Internet - Expert Guidance by YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-replacing-computer-hardware-components-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Computer Hardware Components with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-the-overlooked-2-in-1-device-that-will-transform-your-workspace-tech-insights-by-zdnet/"><u>Top Pick: The Overlooked 2-in-1 Device That Will Transform Your Workspace | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-intermittent-computer-lockups-a-guide-by-yl-software-experts/"><u>Understanding Intermittent Computer Lockups: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yls-step-by-step-strategy-to-clean-up-your-system-virus-removal-tips-and-tools-for-computer-security/"><u>YL's Step-by-Step Strategy to Clean Up Your System: Virus Removal Tips & Tools for Computer Security</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-hue-harmonizer-tool/"><u>[New] 2024 Approved Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effective-techniques-for-capturing-windows-8-display/"><u>[New] Effective Techniques for Capturing Windows 8 Display</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>[New] In 2024, Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>2024 Approved Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/conseils-rapide-pour-combattre-la-blocage-envoi-impossible-dans-outlook/"><u>Conseils Rapide Pour Combattre La Blocage 'Envoi Impossible Dans Outlook</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/establish-a-weekly-automated-backup-routine-on-windows-server-2008/"><u>Establish a Weekly Automated Backup Routine on Windows Server 2008</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/hoe-je-de-gouden-ringen-aan-het-instellen-van-een-clickbare-harde-schijf-nabooftrechtig-beslist-maakt-beste-manieren-verklaren/"><u>Hoe Je De Gouden Ringen Aan Het Instellen Van Een Clickbare Harde Schijf Nabooftrechtig Beslist Maakt - Beste Manieren Verklaren</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-dot-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .dot file electronically</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-and-review-the-new-m1-powered-apple-macbook-pro-16-inch/"><u>In-Depth Analysis and Review: The New M1 Powered Apple MacBook Pro (16-Inch)</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/la-ruta-5-para-publicar-tu-imagen-del-sistema-en-multiples-ordenadores-conectados-por-una-red/"><u>La Ruta 5 Para Publicar Tu Imagen Del Sistema en Múltiples Ordenadores Conectados Por Una Red</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/overcoming-code-22-comprehensive-steps-to-reactivate-your-inaccessible-device/"><u>Overcoming 'Code 22' - Comprehensive Steps to Reactivate Your Inaccessible Device</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/rescatar-sus-contactos-con-confianza-tres-metodos-sencillos-para-resguardar-la-informacion-en-outlook-365/"><u>Rescatar Sus Contactos Con Confianza: Tres Métodos Sencillos Para Resguardar La Información en Outlook 365</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ripristina-il-sistema-operativo-di-windows-10-sul-tuo-nuovo-pc-con-hardware-identico-o-diverso/"><u>Ripristina Il Sistema Operativo Di Windows 10 Sul Tuo Nuovo PC Con Hardware Identico O Diverso</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-a23-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy A23 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-potential-with-new-vega-3-firmware-version/"><u>Unleash Potential with New Vega 3 Firmware Version</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-10-boot-partition-deletion-recovery-guide/"><u>Windows 10 Boot Partition Deletion Recovery Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728483393777-windows-1011/"><u>Windows 10/11 新規インストール前に必要なデータ保存方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Anaheim Welcomes the Social Media Strategies Summit: Explore Cutting-Edge Tools with MassMail"
-date: 2024-12-07T18:38:08.949Z
-updated: 2024-12-15T02:43:56.203Z
+date: 2024-12-22T16:46:42.247Z
+updated: 2024-12-29T17:30:16.947Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -51,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,33 +74,33 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-excellent-video-production-experts/"><u>[New] Identifying Excellent Video Production Experts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-revolutionary-recorders-outside-the-native-windows-ecosystem-for-2024/"><u>[New] Revolutionary Recorders Outside the Native Windows Ecosystem for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-flip-side-realities-of-virtual-reality/"><u>[New] The Flip Side Realities of Virtual Reality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-echoed-calls-recorder-iphone-model-2024/"><u>[Updated] Echoed Calls Recorder - iPhone Model 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-method-streaming-idevice-screens-on-youtube/"><u>[Updated] The Ultimate Method Streaming iDevice Screens on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-infographic-roundup-yts-shocking-reality-of-17/"><u>2024 Approved Infographic Roundup YT's Shocking Reality of '17</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/diy-guide-how-to-safely-upgrade-your-pcs-psu-tips-from-yl-computing/"><u>DIY Guide: How to Safely Upgrade Your PC's PSU - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/evaluating-the-efficacy-of-windows-defender-as-a-reliable-antivirus-solution-insights-from-yl-computing/"><u>Evaluating the Efficacy of Windows Defender as a Reliable Antivirus Solution - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-quality-audi-r8-hd-desktop-wallpapers-and-screen-savers-premium-digital-art-by-yl-computing/"><u>High-Quality Audi R8 HD Desktop Wallpapers & Screen Savers - Premium Digital Art by YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-key-environment-choices-for-live-sharing/"><u>In 2024, Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-lane-the-funniest-youtubers-for-a-good-time/"><u>Laughing Lane The Funniest YouTubers for a Good Time</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-mouse-customization-navigating-windows-settings-for-optimal-performance-expertise-by-yl-software/"><u>Mastering Mouse Customization: Navigating Windows Settings for Optimal Performance - Expertise by YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximize-your-pcs-endurance-innovative-strategies-for-better-battery-performance-insights-from-yl-tech-experts/"><u>Maximize Your PC's Endurance: Innovative Strategies for Better Battery Performance – Insights From YL Tech Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/navigating-secure-transactions-in-the-crypto-world-tips-and-advice-by-yl-software-professionals/"><u>Navigating Secure Transactions in the Crypto World: Tips and Advice by YL Software Professionals</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/permanent-file-deletion-tutorial-master-the-delete-button-on-your-windows-pc-exclusive-guide-by-yl-computing/"><u>Permanent File Deletion Tutorial: Master the 'Delete' Button on Your Windows PC - Exclusive Guide by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-oppo-k11x-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Oppo K11x.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/protect-your-system-expert-tips-for-preventing-hardware-failures-with-yl-software-solutions/"><u>Protect Your System: Expert Tips for Preventing Hardware Failures with YL Software Solutions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-strategies-for-capturing-lol-matches/"><u>Top Strategies for Capturing LOL Matches</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unraveling-the-reasons-behind-windows-hardware-failures-expert-insights-from-yl-computing/"><u>Unraveling the Reasons Behind Windows Hardware Failures: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimal-media-transfer-top-free-youtube-mp3-apps-revealed-for-2024/"><u>[New] Optimal Media Transfer Top Free YouTube-MP3 Apps Revealed for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-immerse-projects-in-audible-experience-via-premiere-pro/"><u>[Updated] 2024 Approved Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-switch-off-guide-instagrams-igtv/"><u>[Updated] 2024 Approved Switch-Off Guide Instagram's IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-acid-pro-overview-plus-best-software-match-ups/"><u>[Updated] ACID Pro Overview + Best Software Match-Ups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] In 2024, How to Record and Save Streaming Audio with Ease</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-and-yl-software/"><u>Boost Your PC's Performance: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-your-pc-experience-with-hd-panda-backgrounds-and-images-expertly-crafted-by-yl-software-solutions/"><u>Elevate Your PC Experience with HD Panda Backgrounds and Images - Expertly Crafted by YL Software Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhance-hard-drive-speed-and-reliability-with-proven-strategies-by-yl-software/"><u>Enhance Hard Drive Speed and Reliability with Proven Strategies by YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exclusive-collection-of-2018-mclaren-x-2-imagery-and-digital-wallpapers-by-yl-software/"><u>Exclusive Collection of 2018 McLaren X 2 Imagery and Digital Wallpapers by YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-security-essentials-key-attributes-of-a-trustworthy-crypto-exchange-insights-by-yl-computing/"><u>Exploring Security Essentials: Key Attributes of a Trustworthy Crypto Exchange - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-guide-setting-up-fresh-windows-user-accounts-through-the-control-panel-with-yl-software-assistance/"><u>How To Guide: Setting Up Fresh Windows User Accounts Through the Control Panel with YL Software Assistance</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/immerse-in-middle-earth-premium-lotr-visuals-from-yl-computing-the-definitive-collection-for-the-rings-of-power/"><u>Immerse in Middle-Earth: Premium LOTR Visuals From YL Computing – The Definitive Collection for 'The Rings of Power'</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-bedtime-videos-breakdown-stories-and-reviews/"><u>In 2024, Bedtime Videos Breakdown Stories and Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/secure-network-effective-strategies-to-eradicate-router-malware-and-safeguard-your-connection/"><u>Secure Network: Effective Strategies to Eradicate Router Malware & Safeguard Your Connection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-10-key-steps-for-optimal-stream-service-picks/"><u>The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-your-pc-understanding-the-reasons-behind-a-non-connective-mouse-insights-from-yl-computing/"><u>Troubleshooting Your PC: Understanding the Reasons Behind a Non-Connective Mouse - Insights From YL Computing</u></a></li>
 </ul></div>
 

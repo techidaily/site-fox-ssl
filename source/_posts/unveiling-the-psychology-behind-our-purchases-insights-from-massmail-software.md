@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Psychology Behind Our Purchases: Insights From Massmail Software"
-date: 2024-12-17T17:48:05.857Z
-updated: 2024-12-24T04:55:14.368Z
+date: 2024-12-22T20:45:49.668Z
+updated: 2024-12-29T18:55:34.099Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -45,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -63,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -77,6 +73,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -94,10 +94,6 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -107,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-engage-fully-with-podcasts-15-essential-tasks/"><u>[New] 2024 Approved Engage Fully with Podcasts 15 Essential Tasks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools-for-2024/"><u>[New] Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-vr-real-world-impacts/"><u>[New] VR Real-World Impacts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>[Updated] 2024 Approved Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-get-snapchat-on-mac-easy-guide-for-2024/"><u>[Updated] How to Get Snapchat on Mac? [Easy Guide] for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-inexpensive-pc-monitoring-software/"><u>[Updated] In 2024, Inexpensive PC Monitoring Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/a-step-by-step-guide-performing-a-diagnostic-test-on-your-printer-with-yl-computing-solutions/"><u>A Step-by-Step Guide: Performing a Diagnostic Test on Your Printer with YL Computing Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/adjusting-your-pc-monitor-configuration-with-windows-control-panel-a-step-by-step-guide-by-yl-tech-solutions/"><u>Adjusting Your PC Monitor Configuration with Windows Control Panel - A Step-by-Step Guide by YL Tech Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/best-programs-to-boost-your-computers-performance-top-recommendations-by-yl-computing/"><u>Best Programs to Boost Your Computer's Performance: Top Recommendations by YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-measures-for-avoiding-computer-hardware-issues-expert-insights-from-yl-systems-engineering/"><u>Essential Measures for Avoiding Computer Hardware Issues: Expert Insights From YL Systems Engineering</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-contrast-monochrome-backdrop-graphics-and-digital-artwork-created-by-yl-computing/"><u>High-Contrast Monochrome Backdrop Graphics & Digital Artwork - Created by YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-resolution-monster-graphics-stunning-walls-backgrounds-and-more-from-yl-computing/"><u>High-Resolution Monster Graphics: Stunning Walls, Backgrounds & More From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-changing-your-pcs-control-panel-preferences-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Changing Your PC's Control Panel Preferences on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-scanner-clarity-why-are-your-scanned-images-turning-out-fuzzy-exploring-solutions-with-yl-software/"><u>Understanding Scanner Clarity: Why Are Your Scanned Images Turning Out Fuzzy? Exploring Solutions with YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yl-software-explores-who-was-chinas-ultimate-monarch-and-when-did-his-reign-end-understanding-the-collapse/"><u>YL Software Explores: Who Was China's Ultimate Monarch and When Did His Reign End? Understanding the Collapse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>[New] In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-android-photo-tech-tips-and-apps-guide/"><u>[Updated] In 2024, Top Android Photo-Tech Tips & Apps Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-strategies-for-hiring-superior-cinematographers-for-2024/"><u>[Updated] Strategies for Hiring Superior Cinematographers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-tools-to-spot-ai-generated-text-ideal-for-teachers-and-supervisors/"><u>Best Tools to Spot AI-Generated Text: Ideal for Teachers and Supervisors</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/design-an-engaging-html-interactive-booklet-with-flipbuilder-for-site-publishing/"><u>Design an Engaging HTML Interactive Booklet with FlipBuilder for Site Publishing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-tutorial-for-opening-reading-and-exchanging-your-mobile-photo-album-with-flipbook-creator-technology/"><u>Easy Tutorial for Opening, Reading & Exchanging Your Mobile Photo Album with Flipbook Creator Technology</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-techniques-to-enhance-your-flipbook-layouts-without-obfuscating-content-discover-tips-at-flipbuildercom/"><u>Effective Techniques to Enhance Your Flipbook Layouts Without Obfuscating Content - Discover Tips at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elevate-your-ebooks-master-the-art-of-enhancing-dull-text-and-images-into-visual-wonders-using-flipbuilder/"><u>Elevate Your eBooks: Master the Art of Enhancing Dull Text and Images Into Visual Wonders Using FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-guide-to-image-resizing-and-preparation-for-flipbook-creation-with-flipbuilder/"><u>Essential Guide to Image Resizing and Preparation for Flipbook Creation with FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-can-i-accelerate-my-flipoffice-pro-upgrade-with-the-express-path-at-flipbuildercom/"><u>How Can I Accelerate My FlipOffice Pro Upgrade with the Express Path at FlipBuilder.com?</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-craft-a-diy-spiral-photo-book-using-traditional-prints-and-flipbuilder/"><u>How to Craft a DIY Spiral Photo Book Using Traditional Prints and FlipBuilder</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-7-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-navigate-to-fun-with-tiktok-download-and-setup-for-macbook/"><u>In 2024, Navigate to Fun with TikTok Download & Setup for MacBook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-photo-color-correction/"><u>Mastering the Art of Photo Color Correction</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ering-the-future-of-online-filmmaking-with-sony-vegas-and-youtube-for-2024/"><u>Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-compre-point-guide-to-instagrams-inquiry-tool/"><u>The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
 </ul></div>
 

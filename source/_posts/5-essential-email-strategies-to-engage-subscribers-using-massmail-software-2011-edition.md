@@ -1,7 +1,7 @@
 ---
 title: 5 Essential Email Strategies to Engage Subscribers Using Massmail Software - 2011 Edition
-date: 2024-12-08T21:05:12.479Z
-updated: 2024-12-15T01:28:13.322Z
+date: 2024-12-22T20:04:52.268Z
+updated: 2024-12-29T19:21:08.710Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,12 +36,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -70,41 +78,33 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,20 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-ssl.techidaily.com/disabling-antivirus-settings-through-control-panel-expert-advice-from-yl-computing/"><u>Disabling Antivirus Settings Through Control Panel - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-does-microsofts-windows-defender-manage-auto-updates/"><u>How Does Microsoft's Windows Defender Manage Auto-Updates?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Get and Use Pokemon Go Promo Codes On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-resolve-undetected-graphics-card-issues-expert-advice-from-yl-computing/"><u>How to Resolve Undetected Graphics Card Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-tell-if-your-computer-needs-an-upgrade-fans-and-cooling-systems/"><u>How to Tell if Your Computer Needs an Upgrade: Fans and Cooling Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-12r-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 12R for Free? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-no-charge-fb-visual-storyteller-pro-software/"><u>In 2024, No-Charge FB Visual Storyteller Pro Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sage-select-best-general-knowledge-channels/"><u>In 2024, Sage Select Best General Knowledge Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-subtleties-with-title-texts/"><u>In 2024, Sculpting Subtleties with Title Texts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximize-system-efficiency-essential-strategies-to-optimize-pc-processor-and-memory-by-yl-computing-experts/"><u>Maximize System Efficiency: Essential Strategies to Optimize PC Processor and Memory by YL Computing Experts</u></a></li>
-<li><a href="https://win-info.techidaily.com/optimizing-storage-space-on-your-computer-to-boost-efficiency-insights-from-yl-computing-yl-software/"><u>Optimizing Storage Space on Your Computer to Boost Efficiency: Insights From YL Computing | YL Software</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/passo-dopo-passo-creazione-di-immagini-speculari-in-windows-versioni-multiple-11-10-8-cina/"><u>Passo Dopo Passo: Creazione Di Immagini Speculari in Windows Versioni Multiple (11, 10, 8, Cina)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/reinstalling-drivers-safely-a-step-by-step-guide-in-windows-safe-mode-expert-advice-from-yl-computing/"><u>Reinstalling Drivers Safely: A Step-by-Step Guide in Windows Safe Mode - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-why-your-laptopdesktop-may-be-producing-strange-noise-a-guide-by-yl-software-solutions/"><u>Understanding Why Your Laptop/Desktop May Be Producing Strange Noise: A Guide by YL Software Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-how-to-skyrocket-likes-on-your-tiktok-unpack-sessions/"><u>[New] How to Skyrocket Likes on Your TikTok Unpack Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>[Updated] In 2024, Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-discover-your-favorite-tracks-easily-a-guide-to-locating-songs-in-apple-music-on-ios-devices/"><u>1. Discover Your Favorite Tracks Easily: A Guide to Locating Songs in Apple Music on iOS Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>2024 Approved Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-share-screen-on-zoom-meeting-guide/"><u>2024 Approved Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728492023439-hddssdhdd/"><u>古いHDDから新しいSSDまたはHDDへのクローン作成方法 - 再インストール不要</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-itel-p55-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Itel P55 5G</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comparing-the-impact-why-email-marketing-surpasses-seo-in-2011-insights-and-metrics-from-massmail/"><u>Comparing the Impact: Why Email Marketing Surpasses SEO in 2011 - Insights & Metrics From Massmail</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/complete-restore-guide-to-retrieving-original-files-after-windows-7-reset/"><u>Complete Restore Guide to Retrieving Original Files After Windows 7 Reset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-maps-mastery-pinpointing-plug-in-points-for-ev-owners/"><u>Google Maps Mastery: Pinpointing Plug-In Points for EV Owners</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/itunes-iphone-itunes-iphone/"><u>ITunes 音楽が iPhone 画面上で見られないときの修正方法 - iTunes 音楽を iPhone 画面で確認するコツ</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solving-non-functional-flashing-seagate-hdd-issues-a-comprehensive-guide/"><u>Solving Non-Functional Flashing Seagate HDD Issues – A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-and-fixing-windows-10s-backup-failure-issue-error-0x807800c5-3-essential-strategies/"><u>Troubleshooting and Fixing Windows 10'S Backup Failure Issue (Error 0X807800C5): 3 Essential Strategies</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-viral-victory-hot-talk-highlights/"><u>Twitter's Viral Victory Hot Talk Highlights</u></a></li>
 </ul></div>
 
