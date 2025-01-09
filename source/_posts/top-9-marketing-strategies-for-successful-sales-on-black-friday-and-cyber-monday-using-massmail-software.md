@@ -1,7 +1,7 @@
 ---
 title: Top 9 Marketing Strategies for Successful Sales on Black Friday & Cyber Monday Using MassMail Software
-date: 2024-12-26T16:38:23.139Z
-updated: 2024-12-29T19:26:09.117Z
+date: 2025-01-02T19:14:58.356Z
+updated: 2025-01-08T20:59:15.081Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -52,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,9 +78,17 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -90,21 +98,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,18 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-design-your-own-screen-capture-free-ways-on-pc/"><u>[New] 2024 Approved Design Your Own Screen Capture - Free Ways on PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-can-i-see-all-my-connected-peers-shared-vids-and-pics/"><u>[New] How Can I See All My Connected Peers' Shared Vids and Pics?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-enhance-click-through-rates-with-good-thumbnails/"><u>[New] In 2024, Enhance Click-Through Rates with Good Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] Pro Tips for Productive Dialogues on Google Meet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>[Updated] 2024 Approved Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-match-your-camera-to-its-optimal-gimbal-partner/"><u>2024 Approved How to Match Your Camera to Its Optimal Gimbal Partner</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-high-quality-songs-from-jango-in-various-formats-mp3-wav-aac-m4a-using-jango-downloader/"><u>Download High-Quality Songs From Jango in Various Formats (MP3, WAV, AAC, M4A) Using Jango Downloader</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-4shared-media-extractor-seamless-music-and-video-downloads-from-4shared-compatible-with-windows-and-macos/"><u>Efficient 4Shared Media Extractor: Seamless Music & Video Downloads From 4Shared - Compatible with Windows and macOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-critical-bugs-and-solutions-for-stable-gaming-experience/"><u>Euro Truck Simulator 2: Critical Bugs & Solutions for Stable Gaming Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-unbeatable-savings-with-the-gotrax-g4-e-scooter-50-off-exclusive-deal-on-amazon-featured-in-zdnets-latest-review/"><u>Experience Unbeatable Savings with the GOTRAX G4 E-Scooter – 50% Off Exclusive Deal on Amazon, Featured in ZDNet's Latest Review</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/get-your-anime-fix-securely-download-episodes-from-animeseason/"><u>Get Your Anime Fix: Securely Download Episodes From AnimeSeason</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-mastering-the-jonny-piano-pieces-with-free-downloads-and-comprehensive-tutorials/"><u>Guide: Mastering the Jonny Piano Pieces with Free Downloads & Comprehensive Tutorials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-concept-to-reality-the-10-best-music-video-agencies/"><u>New From Concept to Reality The 10 Best Music Video Agencies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-s23-ultra-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy S23 Ultra Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-the-premier-mac-screenshots-tools-for-2024/"><u>Exclusive List of the Premier Mac Screenshots Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-frame-to-phrase-expertly-ranked-29-video-translators-on-the-market-for-2024/"><u>From Frame to Phrase Expertly Ranked 29 Video Translators on the Market for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-enable-zooming-on-both-sides-in-a-flip-pdf-using-flipbuilder/"><u>How to Enable Zooming on Both Sides in a Flip PDF Using FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-fix-non-functional-links-post-conversion-to-flipbook-format-a-guide-using-flipbuilder/"><u>How to Fix Non-Functional Links Post Conversion to Flipbook Format - A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-transfer-custom-designed-themes-from-flipbuilder-to-other-software-platforms/"><u>How to Transfer Custom-Designed Themes From FlipBuilder to Other Software Platforms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/innovative-design-elements-across-flipbuildercoms-various-template-options/"><u>Innovative Design Elements Across FlipBuilder.com's Various Template Options</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/insights-into-user-interaction-the-frequency-of-e-magazine-page-turning-on-flipbuilder-websites/"><u>Insights Into User Interaction - The Frequency of E-Magazine Page Turning on FlipBuilder Websites</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-file-categorization-in-flash-books-using-flipbuilder-tools/"><u>Mastering the Art of File Categorization in Flash Books Using FlipBuilder Tools</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-identifying-and-repairing-a-malfunctioning-hard-disk-tips-from-yl-computing/"><u>Step-by-Step Guide: Identifying & Repairing a Malfunctioning Hard Disk - Tips From YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-your-gaming-device-xbox-s-controllers-anatomy/"><u>Understanding Your Gaming Device: Xbox S Controller's Anatomy</u></a></li>
 </ul></div>
 
