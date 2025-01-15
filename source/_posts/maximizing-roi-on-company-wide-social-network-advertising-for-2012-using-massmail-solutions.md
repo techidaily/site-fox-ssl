@@ -1,7 +1,7 @@
 ---
 title: Maximizing ROI on Company-Wide Social Network Advertising for 2012 Using MassMail Solutions
-date: 2025-01-02T19:26:33.802Z
-updated: 2025-01-09T02:43:21.020Z
+date: 2025-01-09T18:29:20.004Z
+updated: 2025-01-14T23:24:50.513Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -55,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,21 +70,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -106,13 +110,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-in-class-number-8-online-image-weaver/"><u>[New] Best in Class Number 8 Online Image Weaver</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>[New] Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-strategies-for-capturing-high-quality-periscope-broadcasts-for-2024/"><u>[New] Strategies for Capturing High-Quality Periscope Broadcasts for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-launchpad-to-success-establishing-your-own-food-flavor-blogchannel-for-2024/"><u>[Updated] Launchpad to Success Establishing Your Own Food Flavor Blog/Channel for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-shades-core-methods-for-photos/"><u>2024 Approved Mastering Shades Core Methods for PHOTOS</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-to-configuring-your-xml-data-integration-tab/"><u>Comprehensive Guide to Configuring Your XML Data Integration Tab</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/customizing-link-attributes-a-guide-to-editing-hyperlink-properties/"><u>Customizing Link Attributes: A Guide to Editing Hyperlink Properties</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-managing-and-resolving-issue-panes-efficiently/"><u>Effective Strategies for Managing and Resolving Issue Panes Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/efficient-management-of-app-v-5-series-tabs-a-comprehensive-guide/"><u>Efficient Management of App-V 5 Series Tabs: A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-free-gif-animators-for-endless-loops/"><u>New Top Free GIF Animators for Endless Loops</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-spending-on-computers-unveiling-the-lowest-cpu-rates-of-2e24/"><u>Slash Your Spending on Computers: Unveiling the Lowest CPU Rates of 2E24</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-role-of-windows-11-in-software-installation-harmony/"><u>The Role of Windows 11 in Software Installation Harmony</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computing-comprehensive-guide-by-toms-hardware/"><u>Tom's Computing: Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-10-android-compatible-gba-games-simulators-for-2024/"><u>[New] Top 10 Android Compatible GBA Games Simulators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-composing-the-unseen-score-trailer-music-magic/"><u>[Updated] Composing the Unseen Score Trailer Music Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-select-top-6-slide-show-making-tools-on-latest-iphones/"><u>[Updated] Select Top 6 Slide Show Making Tools on Latest iPhones</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-secure-your-site-for-free-a-step-by-step-guide-to-obtaining-an-ssl-certificate-using-massmail-pro/"><u>1. Secure Your Site for Free: A Step-by-Step Guide to Obtaining an SSL Certificate Using MassMail Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sprinkle-some-smiles-emojis-on-youtube/"><u>2024 Approved Sprinkle Some Smiles Emojis on YouTube</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/3-easy-and-secure-methods-to-fresh-install-delonghi-laptop-with-windows-11/"><u>3 Easy & Secure Methods to Fresh Install De'Longhi Laptop with Windows 11</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728470239881-microsoft-word/"><u>如何將意外被覆蓋的Microsoft Word文件恢復：三項有效解決方案</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/come-ripristinare-i-dati-eliminati-di-breve-durata-due-soluzioni-efficaci-per-la-sicuree-informatica/"><u>Come Ripristinare I Dati Eliminati Di Breve Durata: Due Soluzioni Efficaci per La Sicuree Informatica</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-guide-performing-a-full-system-restore-on-your-gateway-notebook-using-windows-11/"><u>Complete Guide: Performing a Full System Restore on Your Gateway Notebook Using Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-official-microsoft-audio-driver-software-for-optimal-sound-quality-in-windows/"><u>Download Official Microsoft Audio Driver Software for Optimal Sound Quality in Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-generating-innovative-email-concepts-with-massmail-tool/"><u>Effective Strategies for Generating Innovative Email Concepts with MassMail Tool</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-topic-choosing-the-right-kids-quadcopter/"><u>Essential Topic Choosing the Right Kid's Quadcopter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-preserving-your-snapchat-moments-beyond-app/"><u>In 2024, Preserving Your SnapChat Moments Beyond App</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-6-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 6 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/modern-financial-savvy-proven-strategies-to-boost-your-wealth-in-the-digital-age-utilizing-cutting-edge-tools-and-apps-for-smart-savings/"><u>Modern Financial Savvy: Proven Strategies to Boost Your Wealth in the Digital Age - Utilizing Cutting-Edge Tools and Apps for Smart Savings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-unlock-efficient-video-editing-6-essential-adobe-premiere-pro-tips/"><u>New Unlock Efficient Video Editing 6 Essential Adobe Premiere Pro Tips</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/outlook-3/"><u>Outlook 接続先情報をバックアップする: 最新レシピ3つ</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-happy-birthday-email-and-text-templates-latest-updates-mmsws-insights/"><u>Top-Rated Happy Birthday Email & Text Templates - Latest Updates | MMSW's Insights</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-windows-11-overcoming-no-usable-drives-error-during-backup-with-three-effective-fixes/"><u>Troubleshooting Windows 11: Overcoming 'No Usable Drives' Error During Backup with Three Effective Fixes</u></a></li>
 </ul></div>
 

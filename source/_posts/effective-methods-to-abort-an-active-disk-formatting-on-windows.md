@@ -1,7 +1,7 @@
 ---
 title: Effective Methods to Abort an Active Disk Formatting on Windows
-date: 2025-01-03T05:06:45.688Z
-updated: 2025-01-08T22:06:18.370Z
+date: 2025-01-08T20:43:10.503Z
+updated: 2025-01-14T23:20:37.430Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06b80b9aa947e69afc78af4df.jpg
@@ -25,7 +25,7 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
@@ -49,6 +49,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -65,10 +69,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -80,10 +80,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -101,17 +97,21 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -122,7 +122,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -140,6 +140,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -165,10 +169,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -177,11 +177,11 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,19 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-step-by-step-process-for-crafting-a-unique-discord-avatar-pcmobile/"><u>[New] 2024 Approved Step-by-Step Process for Crafting a Unique Discord Avatar (PC/Mobile)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>[New] Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-counter-strike-global-offensive-play-seamlessly/"><u>[Updated] Capturing Counter-Strike Global Offensive Play Seamlessly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>2024 Approved The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/assessing-the-effectiveness-of-windows-defender-in-safeguarding-your-pc-insights-from-yl-computing-and-software-solutions/"><u>Assessing the Effectiveness of Windows Defender in Safeguarding Your PC: Insights From YL Computing and Software Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-your-pcs-performance-essential-tricks-and-hacks-insights-by-yl-computing/"><u>Boost Your PC's Performance: Essential Tricks & Hacks - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effective-strategies-for-enabling-and-optimizing-windows-defender-firewall-on-your-computer-advice-by-experts-at-yl-software/"><u>Effective Strategies for Enabling and Optimizing Windows Defender Firewall on Your Computer – Advice by Experts at YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-counter-strike-2-fps-expert-advice-to-stop-drops-and-stuttering-on-pc/"><u>Enhance Counter-Strike 2 FPS: Expert Advice to Stop Drops and Stuttering on PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/find-your-way-around-windows-pc-settings-navigating-to-the-control-panel-with-help-from-yl-software/"><u>Find Your Way Around Windows PC Settings: Navigating to the Control Panel with Help From YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-personalized-ai-writing-training-chatgpt-with-your-unique-style/"><u>Mastering Personalized AI Writing: Training ChatGPT with Your Unique Style</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-duplicate-mp3-audio-files-with-yl-computing-tools/"><u>Step-by-Step Guide: How To Duplicate MP3 Audio Files with YL Computing Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-installed-disk-errors-in-win-11-with-ease-and-simplicity/"><u>Tackling Non-Installed Disk Errors in Win 11 with Ease and Simplicity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-battery-selection-guide-for-uavs-for-2024/"><u>The Ultimate Battery Selection Guide for UAVs for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-fcp-transition-tutorial-3-easy-steps-to-enhance-your-footage/"><u>Updated FCP Transition Tutorial 3 Easy Steps to Enhance Your Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>[New] Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-when-worlds-collapse-premium-zombie-video-game-guide/"><u>[Updated] 2024 Approved When Worlds Collapse Premium Zombie Video Game Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>[Updated] GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-inner-comedy-with-gif-mastery/"><u>[Updated] Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-guide-to-recording-hulu-across-platforms/"><u>2024 Approved Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728489483024-ext4ext3/"><u>既存のExt4/Ext3パーティション回復手順：詳細ガイド</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-creer-une-image-de-sauvegarde-pour-securiser-votre-sistema-operativo-windows/"><u>Comment Créer Une Image De Sauvegarde Pour Sécuriser Votre Sistema Operativo Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/function/"><u>Function</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-completa-respaldo-de-archivos-al-cielo-con-aomei-backupper/"><u>Guía Completa: Respaldo De Archivos Al Cielo Con AOMEI Backupper</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-complet-pour-selectionner-et-configurer-un-disque-de-sauvegarde-externe/"><u>Guide Complet Pour Sélectionner Et Configurer Un Disque De Sauvegarde Externe</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-note-12-proplus-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi Note 12 Pro+ 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/masterful-solutions-proven-methods-to-resolve-excel-freezing-issues/"><u>Masterful Solutions: Proven Methods to Resolve 'Excel Freezing' Issues</u></a></li>
+<li><a href="https://win-updates.techidaily.com/secure-your-investments-expert-tips-on-safe-cryptocurrency-trading-guided-by-yl-computing/"><u>Secure Your Investments: Expert Tips on Safe Cryptocurrency Trading - Guided by YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-advice-on-hardware/"><u>Tom's Tech Insights: Expert Advice on Hardware</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-no-cost-windows-system-backup-applications-for-pc-and-servers/"><u>Top Rated No-Cost Windows System Backup Applications for PC & Servers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-5-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic 5 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728491528194-windows-server-2022/"><u>Windows Server 2022支援期限完全ガイド：バックアップ戦略の重要性</u></a></li>
 </ul></div>
 

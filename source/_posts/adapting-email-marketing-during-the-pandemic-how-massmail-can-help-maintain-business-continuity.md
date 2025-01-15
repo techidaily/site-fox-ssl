@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Marketing During the Pandemic: How MassMail Can Help Maintain Business Continuity"
-date: 2025-01-08T02:36:54.316Z
-updated: 2025-01-08T21:03:56.617Z
+date: 2025-01-07T16:11:07.766Z
+updated: 2025-01-14T21:51:17.696Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -27,7 +27,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,6 +39,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -52,15 +56,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,6 +78,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,21 +94,17 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -109,10 +113,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -149,22 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-pinnacle-of-media-excellence-top-phones-videos/"><u>[New] The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-10-secret-followers-on-stories-for-2024/"><u>[Updated] Discover 10 Secret Followers on Stories for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-globes-biggest-video-content-mogul-for-2024/"><u>[Updated] Globe’s Biggest Video Content Mogul for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-easy-fixes-resolving-iphones-troublesome-error-code-4000-during-updates/"><u>1. Easy Fixes: Resolving iPhone's Troublesome Error Code 4000 During Updates</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-schnelles-handbuch-iphone-synchronisation-ohne-itunes-2-einfache-methoden/"><u>1. Schnelles Handbuch: IPhone-Synchronisation Ohne iTunes - 2 Einfache Methoden</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728485515364-pst/"><u>如何将所有邮箱中的邮件导入PST文件：详细指南</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/a-holistic-design-approach-is-necessary-for-optimization-maintenance-flexibility-and-scalability/"><u>A Holistic Design Approach Is Necessary for Optimization, Maintenance Flexibility, and Scalability.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/effiziente-anleitungen-zur-synchronisierung-ihrer-beiden-synology-nas-server-die-besten-methoden-und-tipps/"><u>Effiziente Anleitungen Zur Synchronisierung Ihrer Beiden Synology NAS Server - Die Besten Methoden Und Tipps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/establish-a-home-friendly-low-cost-windows-simulation/"><u>Establish a Home-Friendly, Low-Cost Windows Simulation</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/fuhren-sie-ihre-windows-10-installation-mit-einer-bootbaren-festplatte-oder-einem-bootfahigen-usb-laufwerk-durch/"><u>Führen Sie Ihre Windows 10 Installation Mit Einer Bootbaren Festplatte Oder Einem Bootfähigen USB-Laufwerk Durch</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-seamless-transitions-smooth-editing-techniques-for-youtube-content/"><u>In 2024, Seamless Transitions Smooth Editing Techniques for YouTube Content</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/paralyzed-asus-laptop-charge-bridging-the-solution-gap/"><u>Paralyzed ASUS Laptop Charge: Bridging the Solution Gap</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-detroit-become-human-now-plays-smoothly-no-more-pc-crashes/"><u>PC Gamers Rejoice: Detroit: Become Human Now Plays Smoothly, No More PC Crashes!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-how-to-securely-transfer-files-and-perform-free-backups-on-an-external-hdd-with-windows-11/"><u>Ultimate Guide: How to Securely Transfer Files and Perform Free Backups on an External HDD with Windows 11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultime-guide-comment-activer-la-partage-des-pcs-en-simultane-avec-windows-11/"><u>Ultime Guide : Comment Activer La PARTAGE DES PCS En Simultané Avec Windows 11</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/understanding-potential-dangers-in-crypto-trading-insights-from-yl-computing-and-software-solutions/"><u>Understanding Potential Dangers in Crypto Trading: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-2-methods-to-add-effects-on-tiktok/"><u>[New] In 2024, 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revised-take-on-s3700-sony-bdp-review/"><u>[New] Revised Take on S3700 Sony BDP Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ultimate-choice-for-engaging-type-animations-for-2024/"><u>[New] Ultimate Choice for Engaging Type Animations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-perfect-openings-anywhere-and-anytime/"><u>[Updated] Craft Perfect Openings, Anywhere and Anytime</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/advanced-xml-element-query-locators/"><u>Advanced XML Element Query Locators</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/complete-user-manual-mastering-the-use-of-windows-shutdown-utility/"><u>Complete User Manual: Mastering the Use of Windows Shutdown Utility</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-steps-how-to-set-a-custom-ringtone-on-your-iphone-x/"><u>Easy Steps: How to Set a Custom Ringtone on Your iPhone X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-checklist-choosing-the-right-restored-laptop-for-you/"><u>Essential Checklist: Choosing the Right Restored Laptop for You</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/hassle-free-guide-speedy-solutions-for-transforming-mov-files-into-mp4-format/"><u>Hassle-Free Guide: Speedy Solutions for Transforming MOV Files Into MP4 Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-poco-c50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Poco C50 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S18 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-mirroring-your-phones-screen-onto-another-android-device/"><u>Step-by-Step Guide: Mirroring Your Phone's Screen Onto Another Android Device</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-techniques-for-moving-images-from-your-pixel-3-smartphone-to-a-computer/"><u>Top Techniques for Moving Images From Your Pixel 3 Smartphone to a Computer</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-how-to-effortlessly-manage-your-android-phone-via-ios/"><u>Ultimate Guide: How to Effortlessly Manage Your Android Phone via iOS</u></a></li>
 </ul></div>
 

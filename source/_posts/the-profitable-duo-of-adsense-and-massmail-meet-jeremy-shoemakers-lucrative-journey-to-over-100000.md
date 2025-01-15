@@ -1,7 +1,7 @@
 ---
 title: "The Profitable Duo of AdSense & MassMail: Meet Jeremy Shoemaker's Lucrative Journey to Over $100,000"
-date: 2025-01-04T00:03:56.720Z
-updated: 2025-01-09T03:24:06.603Z
+date: 2025-01-12T18:29:53.812Z
+updated: 2025-01-14T23:04:43.533Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -90,6 +82,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -99,7 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -107,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,15 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-instant-video-hoarders-guide-to-easy-acquisition/"><u>[New] 2024 Approved Instant Video Hoarder's Guide to Easy Acquisition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tech-tips-snagging-your-fb-status-video/"><u>[Updated] 2024 Approved Tech Tips Snagging Your FB Status Video</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-seamless-integration-of-smartphone-tech-in-creating-youtube-channels/"><u>[Updated] Seamless Integration of Smartphone Tech in Creating YouTube Channels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/creating-revenue-streams-on-snapchat-for-2024/"><u>Creating Revenue Streams on Snapchat for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-conversion-tutorial-turn-rmvb-videos-into-mkv-using-four-simple-methods/"><u>Easy Conversion Tutorial: Turn RMVB Videos Into MKV Using Four Simple Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ejecutando-una-copia-exacta-de-su-disco-duro-interno-guia-paso-a-paso-para-windows-11-8-y-7/"><u>Ejecutando Una Copia Exacta De Su Disco Duro Interno: Guía Paso a Paso Para Windows 11, 8 Y 7</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/proceso-detallado-para-la-restauracion-de-datos-en-una-memoria-usb-exterior-marca-toshiba/"><u>Proceso Detallado Para La Restauración De Datos en Una Memoria USB Exterior Marca Toshiba</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/securely-reset-your-windows-10-or-11-os-for-free-protect-and-preserve-your-files/"><u>Securely Reset Your Windows 10 or 11 OS for Free – Protect and Preserve Your Files!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-future-of-videos-assessing-av1s-edge-over-vp9-for-2024/"><u>The Future of Videos Assessing AV1's Edge over VP9 for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/windows-10samsung-t73/"><u>Windows 10におけるSamsung T7ドライブの識別を改善する3つのテクニック</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-adult-swim-media-library-streaming-and-free-downloads-of-animated-series-original-movies-and-more/"><u>1. Adult Swim Media Library: Streaming and Free Downloads of Animated Series, Original Movies, and More</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-windows-11-expert-strategies-for-recording-high-quality-sounds/"><u>2024 Approved Windows 11 Expert Strategies for Recording High-Quality Sounds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-quality-in-their-affordable-feature-rich-laptops-a-comprehensive-review/"><u>Discovering the Hidden Gems: How Dell Delivers Quality in Their Affordable, Feature-Rich Laptops - A Comprehensive Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 3 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-dragons-dogma-2-performance-overcome-low-fps-and-stuttering-issues/"><u>Improve Dragon's Dogma 2 Performance: Overcome Low FPS and Stuttering Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-community-cinema-collector/"><u>In 2024, Community Cinema Collector</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>New Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pc-hdr-optimization-made-simple/"><u>PC HDR Optimization Made Simple</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-uploading-files-online-using-ftp-flipbuilder-learn-how/"><u>Step-by-Step Guide: Uploading Files Online Using FTP (FlipBuilder) - Learn How</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-why-your-flipbook-lacks-a-frame-bar-on-flipbuildercom-a-user-friendly-guide-to-custom-layouts/"><u>Understanding Why Your FlipBook Lacks a Frame Bar on FlipBuilder.com – A User-Friendly Guide to Custom Layouts</u></a></li>
 </ul></div>
 

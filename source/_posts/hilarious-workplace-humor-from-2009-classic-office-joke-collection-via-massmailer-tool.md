@@ -1,7 +1,7 @@
 ---
 title: "Hilarious Workplace Humor From 2009: Classic Office Joke Collection via MassMailer Tool"
-date: 2025-01-06T20:51:12.459Z
-updated: 2025-01-08T17:35:34.105Z
+date: 2025-01-07T18:29:58.326Z
+updated: 2025-01-14T16:49:48.838Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -71,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -87,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -95,12 +91,16 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-crafting-quick-cut-channel-sequences-for-2024/"><u>[Updated] Crafting Quick-Cut Channel Sequences for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-understanding-the-use-of-burst-feature-in-gopros/"><u>[Updated] Understanding the Use of Burst Feature in GoPros</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elevate-your-workspace-aesthetics-premium-4k-wallpaper-collections-for-twin-monitors-hd-background-gallery-from-yl-software/"><u>Elevate Your Workspace Aesthetics: Premium 4K Wallpaper Collections for Twin Monitors | HD Background Gallery From YL Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/free-audio-to-text-conversion/"><u>Free Audio to Text Conversion</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-blaze-curve-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lava Blaze Curve 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-study-androids-lightroom-app-functionality/"><u>In 2024, In-Depth Study Android's Lightroom App Functionality</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/optimize-your-system-speed-a-guide-on-which-programs-to-uninstall-for-faster-pc-functionality-by-yl-software-specialists/"><u>Optimize Your System Speed: A Guide on Which Programs to Uninstall for Faster PC Functionality by YL Software Specialists</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-managing-user-accounts-with-yl-computings-software-solutions/"><u>Step-by-Step Guide: Managing User Accounts with YL Computing's Software Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-evaluation-how-does-recmeister-stack-up-in-2024/"><u>The Ultimate Evaluation How Does Recmeister Stack Up, In 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-bitcoin-mining-process-and-mechanics-explained-by-yl-computing/"><u>Understanding Bitcoin Mining: Process & Mechanics Explained by YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unraveling-the-key-driving-forces-of-chinas-great-leap-forward-movement-with-expertise-from-yl-systems-and-programming-solutions/"><u>Unraveling the Key Driving Forces of China’s Great Leap Forward Movement with Expertise From YL Systems and Programming Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/why-does-my-pc-take-forever-to-start-up-expert-insights-by-yl-computing/"><u>Why Does My PC Take Forever to Start Up? Expert Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-efficiently-add-youtube-playlists-to-your-website-interface/"><u>[New] Efficiently Add YouTube Playlists to Your Website Interface</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pinnaclescreenpro-capturing-like-a-pro-on-w10/"><u>[Updated] 2024 Approved PinnacleScreenPro Capturing Like a Pro on W10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professionals-picks-smoothest-drone-gimbals/"><u>[Updated] Professional's Picks Smoothest Drone Gimbals</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windowsword/"><u>全方位教程：从Windows电脑中恢复Word文件的详细步骤</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/conservation-securisee-de-vos-messages-email-les-3-techniques-essentielles-de-sauvegarde-sur-les-plateformes-synology-expliquees-en-detail/"><u>Conservation Sécurisée De Vos Messages Email: Les 3 Techniques Essentielles De Sauvegarde Sur Les Plateformes Synology Expliquées en Détail</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-rapida-para-copias-de-seguridad-automaticas-por-lote-en-windows-10-tecnicas-y-trucos/"><u>Guía Rápida Para Copias De Seguridad Automáticas Por Lote en Windows 10 - Técnicas Y Trucos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-authors-draft-platform/"><u>In 2024, Prime Author's Draft Platform</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-15-best-montage-music-for-different-video-types/"><u>New In 2024, 15 Best Montage Music for Different Video Types</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/soluciones-faciles-y-probadas-evitar-bucle-de-arranque-con-hp-dell-o-asus-en-windows-10/"><u>Soluciones Fáciles Y Probadas: Evitar Bucle De Arranque Con HP, Dell O Asus en Windows 10</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-narzo-60-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Narzo 60 5G</u></a></li>
 </ul></div>
 

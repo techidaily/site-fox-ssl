@@ -1,7 +1,7 @@
 ---
 title: Cómo Configurar La Copia De Seguridad Automatizada De Windows 10 a Un Disco Duro Exterior
-date: 2024-11-24T16:08:37.728Z
-updated: 2024-11-30T21:28:26.660Z
+date: 2025-01-08T20:28:55.511Z
+updated: 2025-01-14T21:27:37.731Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd0390a7d35b413d9e3199913287.jpg
@@ -28,10 +28,6 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -54,11 +50,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,9 +69,17 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -98,6 +98,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -136,7 +140,7 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -152,10 +156,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -183,6 +183,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -203,10 +207,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -220,10 +220,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -265,6 +261,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,20 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-depth-guide-to-optimizing-photos-using-polarr-for-2024/"><u>[Updated] In-Depth Guide to Optimizing Photos Using Polarr for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-sustaining-a-dynamic-facebook-experience/"><u>[Updated] Sustaining a Dynamic Facebook Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-moto-g34-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Moto G34 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/advanced-techniques-in-xml-editing-how-to-effectively-remove-unwanted-nodes/"><u>Advanced Techniques in XML Editing: How to Effectively Remove Unwanted Nodes</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-understanding-the-mp2-audio-file-format/"><u>Comprehensive Guide: Understanding the MP2 Audio File Format</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-mswmm-videos-into-high-quality-avi-format-with-our-top-tools/"><u>Convert MSWMM Videos Into High-Quality AVI Format with Our Top Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/expert-iphoneandroid-blur-application-guide-for-2024/"><u>Expert iPhone/Android Blur Application Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges-for-2024/"><u>Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/leading-photo-editing-software-with-background-removal-features-in-202n2/"><u>Leading Photo Editing Software with Background Removal Features in 202N2</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/quick-guide-transforming-your-numeric-spreadsheet-into-excel-with-ease/"><u>Quick Guide: Transforming Your Numeric Spreadsheet Into Excel with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-thaumaturge-not-loading-or-functioning-properly-on-desktop-systems/"><u>Step-by-Step Fixes for Thaumaturge Not Loading or Functioning Properly on Desktop Systems</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-port-over-contacts-from-blackberry-devices-to-higher-end-samsung-phones/"><u>Step-by-Step Guide: How to Port Over Contacts From BlackBerry Devices to Higher End Samsung Phones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-background-extraction-in-figma-designs-easily/"><u>[New] 2024 Approved Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-covert-creativity-easy-photo-fixes-for-starters-for-2024/"><u>[New] Covert Creativity Easy Photo Fixes for Starters for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>[Updated] Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5lia5rwb44gu44or44k944kz44oz44oi44oq44o844oi44oh44oz44oi77ya5rai44gi44gm44gx44gplus44gj44gf5yaz55yf44ks57ch5y2y44gr5yan55sf77yb44cn/"><u>「一流のパソコントリートメント：消えてしまった写真を簡単に再生！」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-ways-to-tackle-real-time-dialogue-disruptions-with-chatgpt/"><u>7 Ways to Tackle Real-Time Dialogue Disruptions with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-mobile-play-controller-enhanced-gaming/"><u>Advanced Mobile Play: Controller-Enhanced Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-reach-the-vatican-through-email-under-pope-francis-tenure/"><u>Can You Reach the Vatican Through Email Under Pope Francis’ Tenure?</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-guide-retrieving-images-from-your-polaroid-camera/"><u>Easy Guide: Retrieving Images From Your Polaroid Camera</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effective-defense-against-ransomware-enhancing-security-on-synology-and-qnap-nas-devices/"><u>Effective Defense Against Ransomware: Enhancing Security on Synology & QNAP NAS Devices</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effizientes-kopieren-grosserer-hdds-auf-kleinere-ssds-unter-windows-1110/"><u>Effizientes Kopieren Größerer HDDs Auf Kleinere SSDs Unter Windows 11/10</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-easy-to-follow-pour-le-transfert-inter-pcs-windows/"><u>Guide Easy-to-Follow Pour Le Transfert Inter-PCs Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edge-40-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Edge 40 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-amd-catalyst-errors-and-open-software-successfully/"><u>How to Overcome AMD Catalyst Errors and Open Software Successfully</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/missing-page-error-code-404-on-the-internet/"><u>Missing Page Error Code 404 on the Internet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolve-your-pc-boot-issues-after-upgrading-to-an-m2-ssd-detailed-troubleshooting-guide/"><u>Resolve Your PC Boot Issues After Upgrading to an M.2 SSD – Detailed Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolved-how-to-stop-your-iphone-from-continuously-uploading-duplicate-images/"><u>Resolved: How to Stop Your iPhone From Continuously Uploading Duplicate Images</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/secure-your-images-file-encryption-with-aomei-backupper/"><u>Secure Your Images: File Encryption with AOMEI Backupper</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-refreshing-your-microsoft-mouse-software-in-windows/"><u>Step-by-Step Guide to Refreshing Your Microsoft Mouse Software in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-youtube-seo-toolkit-boosting-your-content-rankings-for-2024/"><u>The Ultimate YouTube SEO Toolkit Boosting Your Content Rankings for 2024</u></a></li>
 </ul></div>
 

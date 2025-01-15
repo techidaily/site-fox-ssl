@@ -1,7 +1,7 @@
 ---
 title: "Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files"
-date: 2025-01-06T18:26:17.207Z
-updated: 2025-01-08T17:06:43.517Z
+date: 2025-01-10T00:00:25.363Z
+updated: 2025-01-14T18:47:52.053Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,10 +39,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -54,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,13 +70,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -82,37 +86,37 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-social-media-music-rules-and-regulations/"><u>[New] 2024 Approved Social Media Music Rules and Regulations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest/"><u>[Updated] A Comprehensive Guide to Turning Vids Into MP3 on Pinterest</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-add-captions-to-youtube-videos-for-2024/"><u>[Updated] How To Add Captions to YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/hddssd-4/"><u>「バッファローHDD/SSDをクローンする究極の方法 : 4段階レシピ」</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-como-recuperar-archivos-eliminados-accidentalmente-con-ctrlplusz-guia-completa-y-gratuita/"><u>1. ¿Cómo Recuperar Archivos Eliminados Accidentalmente Con Ctrl+Z? Guía Completa Y Gratuita.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728467975132-samsung-data-migration/"><u>修正ガイド: Samsung Data Migrationでアクセスできないターゲットディスクについて</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994502147-assassins-creed-valhalla-pc-stability-issues-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla PC Stability Issues? Here’s What You Need to Know</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/como-configurar-la-copia-de-seguridad-automatizada-de-windows-10-a-un-disco-duro-exterior/"><u>Cómo Configurar La Copia De Seguridad Automatizada De Windows 10 a Un Disco Duro Exterior</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-utilize-image-recovery-features-with-aomei-backup-master/"><u>How to Utilize Image Recovery Features with AOMEI Backup Master</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram/"><u>In 2024, Mastering GIF Transformation To Stickers on WhatsApp, Discord & Telegram</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-users-updated-2023-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 Users Updated 2023 for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/strategies-pour-securiser-et-conserver-tous-les-fichiers-sur-votre-pc/"><u>Stratégies Pour Sécuriser Et Conserver Tous Les Fichiers Sur Votre PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-80s-movie-roundup-10-timeless-picks-for-now/"><u>Ultimate '80S Movie Roundup: 10 Timeless Picks for Now</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/windows-10uefi/"><u>Windows 10无Uefi选项启动问题 -深入解析和配置信息</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hot-hands-on-10-must-have-vr-peripherals/"><u>[New] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-the-oceans-majesty-best-action-cameras-reviewed/"><u>[Updated] Capture the Ocean's Majesty Best Action Cameras Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-switch-pro-controller-in-steam-gaming/"><u>2024 Approved Mastering Switch Pro Controller in Steam Gaming</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/a-comprehensive-tutorial-for-enjoying-and-excelling-at-real-racing-n3-on-a-windows-or-mac-machine/"><u>A Comprehensive Tutorial for Enjoying and Excelling at Real Racing N°3 on a Windows or Mac Machine</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-a60s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel A60s</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/apowerunlock-installer-walkthrough-simple-tutorial-for-quick-setup/"><u>ApowerUnlock Installer Walkthrough - Simple Tutorial For Quick Setup</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-on-converting-ogg-music-tracks-into-mp3-for-universal-playback/"><u>Comprehensive Guide on Converting OGG Music Tracks Into MP3 for Universal Playback</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-the-connection-tools-of-apowerpdf-document-editing/"><u>Expert Guide: Mastering the Connection Tools of ApowerPDF Document Editing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-buy-and-activate-mirallis-offerings-a-comprehensive-guide/"><u>How To Buy & Activate Mirallis Offerings: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs/"><u>In 2024, Visionaries at Work A Detailed Review of Top 3D Modeling Programs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-editing-bilingual-chat-interfaces-tips-and-tricks/"><u>Mastering the Art of Editing Bilingual Chat Interfaces: Tips and Tricks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-x50-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-create-a-youtube-video-recording-with-the-action-effect/"><u>Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tailored-template-solutions-creating-personalized-project-designs/"><u>Tailored Template Solutions: Creating Personalized Project Designs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tech-tips-streamlining-your-overwatch-video-recordings-for-2024/"><u>Tech Tips Streamlining Your Overwatch Video Recordings for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-g310-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia G310 Phones</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578757679-ukranian-in-a-flash-one-minute-a-day-65-chars-note-adjusted-for-brevity/"><u>Ukranian in a Flash, One Minute a Day (65 Chars) - Note: Adjusted for Brevity.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-streaming-device-leaked-specifications-projected-costs-and-launch-schedule-revealed/"><u>Upcoming Google Streaming Device Leaked Specifications: Projected Costs and Launch Schedule Revealed</u></a></li>
 </ul></div>
 

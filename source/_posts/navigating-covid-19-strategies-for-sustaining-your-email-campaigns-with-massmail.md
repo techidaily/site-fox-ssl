@@ -1,7 +1,7 @@
 ---
 title: "Navigating Covid-19: Strategies for Sustaining Your Email Campaigns with MassMail"
-date: 2025-01-07T03:46:31.398Z
-updated: 2025-01-08T22:41:37.799Z
+date: 2025-01-11T22:45:39.627Z
+updated: 2025-01-14T18:47:29.711Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -58,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -74,17 +74,9 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -98,10 +90,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -111,16 +99,24 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pro-cams-face-off-gopro-hero5-black-and-garmin-virb-ultra-30/"><u>[New] 2024 Approved Pro Cams Face-Off GoPro Hero5 Black and Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-viral-verdict-twitters-top-10-threads/"><u>[New] 2024 Approved The Viral Verdict Twitter's Top 10 Threads</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-exclusive-windows-11s-media-importers/"><u>[New] In 2024, The Ultimate Exclusive Windows 11'S Media Importers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-anime-inspired-shorts-top-20-trends-on-tiktok/"><u>[Updated] In 2024, Anime-Inspired Shorts Top 20 Trends on TikTok</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-social-media-imitation-how-to-clone-yourself-with-finesse-on-tiktok/"><u>2024 Approved Navigating Social Media Imitation How to Clone Yourself with Finesse on TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-numeric-precision-the-art-of-editing-tiktok-counts/"><u>2024 Approved Numeric Precision The Art of Editing TikTok Counts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/windows-11onedrive0x8004def7/"><u>解决方案：在Windows 11中处理OneDrive错误码0x8004def7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-samsungs-new-galaxy-watch-7-pricing-info-release-timeline-and-feature-overview/"><u>All About Samsung's New Galaxy Watch 지7: Pricing Info, Release Timeline, and Feature Overview</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/decouvrez-les-3-techniques-essentielles-pour-diagnostiquer-et-corriger-les-problemes-de-disque-sur-windows-11/"><u>Découvrez Les 3 Techniques Essentielles Pour Diagnostiquer Et Corriger Les Problèmes De Disque Sur Windows 11</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/erfolgreich-speicherdaten-retten-eine-umfassende-losungsanleitung-fur-festplattenfehler-auf-computern/"><u>Erfolgreich Speicherdaten Retten: Eine Umfassende Lösungsanleitung Für Festplattenfehler Auf Computern</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>In 2024, Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-a15-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/pulih-kan-partisi-terlampau-lanjut-bersama-os-windows/"><u>Pulih Kan Partisi Terlampau Lanjut Bersama OS Windows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/sd/"><u>SDメモリカードが壊れた時、どうする？失われない方法あり！</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/switching-off-heic-conversion-on-your-iphone-iphone-15-14-13-12-and-se-users-manual/"><u>Switching Off HEIC Conversion on Your iPhone (iPhone 15, 14, 13, 12, and SE User's Manual)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-effortlessly-upgrade-from-windows-10-to-11-or-vice-versa-with-top-tools/"><u>Ultimate Guide: Effortlessly Upgrade From Windows 10 to 11 or Vice Versa with Top Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/windows-10-backup-fehler-unbekannte-oder-nicht-verwendbare-festplatten-erkannt-losungsansatze/"><u>Windows 10 Backup: Fehler 'Unbekannte Oder Nicht Verwendbare Festplatten Erkannt' - Lösungsansätze</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-real-time-vr-hardware-analysis/"><u>[New] 2024 Approved Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-no-wi-fi-no-worries-discover-the-best-offline-gaming-on-android/"><u>[Updated] 2024 Approved No Wi-Fi, No Worries! Discover the Best Offline Gaming on Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-break-bot-patterns-enhance-organic-video-reach-for-2024/"><u>[Updated] Break Bot Patterns, Enhance Organic Video Reach for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-auto-captioned-mastery-enhancing-visual-narratives/"><u>[Updated] In 2024, Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-diagnosing-and-fixing-overheating-issues-expert-advice-from-yl-computing/"><u>1. Diagnosing and Fixing Overheating Issues: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-red-magic-9-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Red Magic 9 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-between-wirecast-and-obs-for-streaming-for-2024/"><u>Choosing Between Wirecast and OBS for Streaming for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effortless-nourishment-with-arf-pets-auto-feeder-hands-off-mealtime-solutions/"><u>Effortless Nourishment with Arf Pet's Auto-Feeder: Hands-Off Mealtime Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-maintaining-a-high-performance-pc-by-yl-software-experts/"><u>Essential Tips for Maintaining a High-Performance PC by YL Software Experts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/high-definition-aurora-nature-scenes-stunning-photographic-wallpapers-by-yl-computing/"><u>High-Definition Aurora Nature Scenes: Stunning Photographic Wallpapers by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/reviving-treasured-moments-with-photo-coloring-by-yl-computing/"><u>Reviving Treasured Moments with Photo Coloring by YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solving-common-issues-a-step-by-step-guide-to-troubleshooting-windows-11-tips-from-yl-computing/"><u>Solving Common Issues: A Step-by-Step Guide to Troubleshooting Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshooting-guide-fixing-unrecognized-device-drivers-on-your-pc-with-yl-software-tips/"><u>Troubleshooting Guide: Fixing Unrecognized Device Drivers on Your PC with YL Software Tips</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/unveiling-the-intent-behind-the-construction-of-the-grand-canal-exploring-its-purpose-with-yl-software-experts/"><u>Unveiling the Intent Behind the Construction of the Grand Canal – Exploring Its Purpose with YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-computing-unveils-available-security-options-in-the-windows-control-panel-detailed-overview-and-tips/"><u>YL Computing Unveils Available Security Options in the Windows Control Panel – Detailed Overview and Tips</u></a></li>
 </ul></div>
 

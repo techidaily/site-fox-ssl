@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Brand's Celebratory Impact in 2012: Expert Marketing Calendar Advice and Top Five Insights Using Massmail Solutions"
-date: 2025-01-01T16:55:03.641Z
-updated: 2025-01-09T00:01:09.968Z
+date: 2025-01-11T20:44:20.094Z
+updated: 2025-01-14T17:02:49.472Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -66,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,24 +82,28 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-insiders-guide-to-dynamic-and-engaging-tiktok-edits/"><u>[New] In 2024, The Insider's Guide to Dynamic and Engaging TikTok Edits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/download-big-screen-fb-video-quality/"><u>Download Big Screen FB Video Quality</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-definition-cartoon-wallpaper-collections-stunning-hd-backdrops-funny-graphics-and-more-yl-computing-solutions/"><u>High-Definition Cartoon Wallpaper Collections: Stunning HD Backdrops, Funny Graphics & More - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-do-various-influences-determine-crypto-valuations-an-insight-by-yl-computing/"><u>How Do Various Influences Determine Crypto Valuations: An Insight by YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-engagement-with-these-premier-html5-players/"><u>In 2024, Boost Engagement with These Premier HTML5 Players</u></a></li>
-<li><a href="https://win-updates.techidaily.com/master-your-desktop-display-customizing-control-panel-settings-with-advice-from-yl-software-professionals/"><u>Master Your Desktop Display: Customizing Control Panel Settings with Advice From YL Software Professionals</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/reinstalling-programs-made-easy-essential-techniques-for-windows-users-by-yl-software-experts/"><u>Reinstalling Programs Made Easy: Essential Techniques for Windows Users by YL Software Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-crypto-mining-a-deep-dive-with-yl-software-solutions/"><u>Understanding Crypto-Mining: A Deep Dive with YL Software Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unexpected-behavior-troubleshooting-your-graphics-cards-performance-issues-insights-by-yl-computing/"><u>Unexpected Behavior: Troubleshooting Your Graphics Card's Performance Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/unveiling-ancient-conquests-the-chronicles-of-chinas-military-engagements-in-vietnam-by-yl-digital-solutions/"><u>Unveiling Ancient Conquests: The Chronicles of China's Military Engagements in Vietnam - By YL Digital Solutions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-cutting-edge-window-sound-solutions-top-picks-for-background-noise-eviction-from-recordings/"><u>Updated Cutting Edge Window Sound Solutions Top Picks for Background Noise Eviction From Recordings</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-5-meilleurs-logiciels-de-sauvegarde-pour-yahoo-mail-sous-windows-guide-complet/"><u>« Top 5 Meilleurs Logiciels De Sauvegarde Pour Yahoo Mail Sous Windows : Guide Complet »</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-881/"><u>如何在 Windows 8/8.1上有效地进行数据备份：常用方法介绍</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computing-with-toms-technology-insights/"><u>Explore Advanced Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guia-completa-3-formas-optimizadas-para-configurar-windows-veces-en-la-tecnologia-mas-rapida-ssd-nvme/"><u>Guía Completa: 3 Formas Optimizadas Para Configurar Windows Veces en La Tecnología Más Rápida, SSD NVMe</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-effortless-motion-pictures-time-lapse-on-samsung-galaxy/"><u>In 2024, Effortless Motion Pictures Time-Lapse on Samsung Galaxy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/learn-how-to-split-your-screen-while-watching-netflix-for-2024/"><u>Learn How To Split Your Screen While Watching Netflix for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/recover-missing-desktop-files-on-windows-1nk-7-effective-solutions-post-update/"><u>Recover Missing Desktop Files on Windows 1Nk | 7 Effective Solutions Post-Update</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/solutions-rapides-pour-empecher-lexplorateur-windows-de-se-lancer-automatiquement-avec-des-techniques-pratiques/"><u>Solutions Rapides Pour Empêcher L'Explorateur Windows De Se Lancer Automatiquement Avec Des Techniques Pratiques</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-phantom-v-fold-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Phantom V Fold without backup.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-by-drfone-android/"><u>Universal Unlock Pattern for Nokia</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-online-connectivity-issues-heres-your-comprehensive-solution/"><u>Xbox One Online Connectivity Issues? Here's Your Comprehensive Solution!</u></a></li>
 </ul></div>
 
