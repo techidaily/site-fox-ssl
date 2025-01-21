@@ -1,7 +1,7 @@
 ---
 title: "The Profitable Duo of AdSense & MassMail: Meet Jeremy Shoemaker's Lucrative Journey to Over $100,000"
-date: 2025-01-12T18:29:53.812Z
-updated: 2025-01-14T23:04:43.533Z
+date: 2025-01-16T17:00:47.448Z
+updated: 2025-01-21T01:24:44.114Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -47,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,10 +66,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -83,36 +79,40 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-ssl.techidaily.com/1-adult-swim-media-library-streaming-and-free-downloads-of-animated-series-original-movies-and-more/"><u>1. Adult Swim Media Library: Streaming and Free Downloads of Animated Series, Original Movies, and More</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-windows-11-expert-strategies-for-recording-high-quality-sounds/"><u>2024 Approved Windows 11 Expert Strategies for Recording High-Quality Sounds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-the-hidden-gems-how-dell-delivers-quality-in-their-affordable-feature-rich-laptops-a-comprehensive-review/"><u>Discovering the Hidden Gems: How Dell Delivers Quality in Their Affordable, Feature-Rich Laptops - A Comprehensive Review</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-3-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 3 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-dragons-dogma-2-performance-overcome-low-fps-and-stuttering-issues/"><u>Improve Dragon's Dogma 2 Performance: Overcome Low FPS and Stuttering Issues</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-community-cinema-collector/"><u>In 2024, Community Cinema Collector</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-animation-game-top-software-for-beginners-intermediates-and-experts/"><u>New Elevate Your Animation Game Top Software for Beginners, Intermediates, and Experts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pc-hdr-optimization-made-simple/"><u>PC HDR Optimization Made Simple</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-uploading-files-online-using-ftp-flipbuilder-learn-how/"><u>Step-by-Step Guide: Uploading Files Online Using FTP (FlipBuilder) - Learn How</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/understanding-why-your-flipbook-lacks-a-frame-bar-on-flipbuildercom-a-user-friendly-guide-to-custom-layouts/"><u>Understanding Why Your FlipBook Lacks a Frame Bar on FlipBuilder.com – A User-Friendly Guide to Custom Layouts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5ywo5pa55l2n5qplusu6lyd77ya5zyo6ycz5lqb6auy5zob6lso6iag5o2y5lit77ym5zoq5lia56en54wn54mh5lplusu5asn6l2v5lu255qe55so5oi35l2t6aqm5pu05aw977yf/"><u>全方位比較：在這些高品质膠捲中，哪一种照片修复软件的用户体验更好？</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ace-your-pc-sound-quality-free-downloads-for-logitech-g-pro-driver-suitable-for-all-windows-os/"><u>Ace Your PC Sound Quality: Free Downloads for Logitech G Pro Driver Suitable for All Windows OS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crafting-memorable-tiktok-personal-frames-for-attention-for-2024/"><u>Crafting Memorable TikTok Personal Frames for Attention for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-youtube-video-freezes-audio-continueschrome-and-firefox/"><u>How to Fix Youtube Video Freezes Audio Continues|Chrome & Firefox</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-typing-experience-with-keychron-q1-hes-magnetic-mechanism/"><u>Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/sofortige-losung-fur-asd-dateiverwaltung-effektives-wiederaufbauen/"><u>Sofortige Lösung Für ASD-Dateiverwaltung - Effektives Wiederaufbauen</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/the-complete-guide-on-safely-powering-down-a-vsan-cluster-managed-by-vcenter/"><u>The Complete Guide on Safely Powering Down a vSAN Cluster Managed by vCenter</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-ae-scripting-tools-and-plug-ins-for-2024/"><u>Top AE Scripting Tools & Plug-Ins for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/transient-monocular-blindness-often-indicates-a-transient-ischemic-attack-tia/"><u>Transient Monocular Blindness Often Indicates a Transient Ischemic Attack (TIA)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-screen-quality-in-an-ultra-portable-laptop-at-great-discount-prices-exclusive-review/"><u>Unmatched Screen Quality in an Ultra-Portable Laptop at Great Discount Prices – Exclusive Review</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/windows-11-losen-sie-den-kritischen-prozessfehler-erfolgreich-auf/"><u>Windows 11 Lösen Sie Den Kritischen Prozessfehler Erfolgreich Auf</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-softwares-ultimate-fix-for-scanner-software-mismatch-issues/"><u>YL Software's Ultimate Fix for Scanner-Software Mismatch Issues</u></a></li>
 </ul></div>
 

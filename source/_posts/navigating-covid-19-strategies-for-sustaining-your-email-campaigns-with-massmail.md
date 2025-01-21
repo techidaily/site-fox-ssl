@@ -1,7 +1,7 @@
 ---
 title: "Navigating Covid-19: Strategies for Sustaining Your Email Campaigns with MassMail"
-date: 2025-01-11T22:45:39.627Z
-updated: 2025-01-14T18:47:29.711Z
+date: 2025-01-18T02:02:10.666Z
+updated: 2025-01-21T01:50:39.921Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,6 +31,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -78,9 +78,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -89,6 +97,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -99,24 +111,16 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-real-time-vr-hardware-analysis/"><u>[New] 2024 Approved Real-Time VR Hardware Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-no-wi-fi-no-worries-discover-the-best-offline-gaming-on-android/"><u>[Updated] 2024 Approved No Wi-Fi, No Worries! Discover the Best Offline Gaming on Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-break-bot-patterns-enhance-organic-video-reach-for-2024/"><u>[Updated] Break Bot Patterns, Enhance Organic Video Reach for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-auto-captioned-mastery-enhancing-visual-narratives/"><u>[Updated] In 2024, Auto-Captioned Mastery Enhancing Visual Narratives</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-diagnosing-and-fixing-overheating-issues-expert-advice-from-yl-computing/"><u>1. Diagnosing and Fixing Overheating Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-red-magic-9-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Red Magic 9 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-between-wirecast-and-obs-for-streaming-for-2024/"><u>Choosing Between Wirecast and OBS for Streaming for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/effortless-nourishment-with-arf-pets-auto-feeder-hands-off-mealtime-solutions/"><u>Effortless Nourishment with Arf Pet's Auto-Feeder: Hands-Off Mealtime Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-maintaining-a-high-performance-pc-by-yl-software-experts/"><u>Essential Tips for Maintaining a High-Performance PC by YL Software Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/high-definition-aurora-nature-scenes-stunning-photographic-wallpapers-by-yl-computing/"><u>High-Definition Aurora Nature Scenes: Stunning Photographic Wallpapers by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/reviving-treasured-moments-with-photo-coloring-by-yl-computing/"><u>Reviving Treasured Moments with Photo Coloring by YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solving-common-issues-a-step-by-step-guide-to-troubleshooting-windows-11-tips-from-yl-computing/"><u>Solving Common Issues: A Step-by-Step Guide to Troubleshooting Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/troubleshooting-guide-fixing-unrecognized-device-drivers-on-your-pc-with-yl-software-tips/"><u>Troubleshooting Guide: Fixing Unrecognized Device Drivers on Your PC with YL Software Tips</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unveiling-the-intent-behind-the-construction-of-the-grand-canal-exploring-its-purpose-with-yl-software-experts/"><u>Unveiling the Intent Behind the Construction of the Grand Canal – Exploring Its Purpose with YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-solution-for-error-code-3-with-nvidia-windows/"><u>Unveiling the Solution for Error Code 3 with NVIDIA, Windows</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yl-computing-unveils-available-security-options-in-the-windows-control-panel-detailed-overview-and-tips/"><u>YL Computing Unveils Available Security Options in the Windows Control Panel – Detailed Overview and Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-traffic-into-cash-calculating-the-essential-youtube-number/"><u>[Updated] Turning Traffic Into Cash Calculating the Essential Youtube Number</u></a></li>
+<li><a href="https://facebook.techidaily.com/4-revolutionary-methods-for-locating-fresh-social-groups/"><u>4 Revolutionary Methods for Locating Fresh Social Groups</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/eficiente-migracion-y-restauracion-de-respaldo-desde-la-red-en-windows-server-2012/"><u>Eficiente Migración Y Restauración De Respaldo Desde La Red en Windows Server 2012</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-techniques-for-crafting-high-end-gopro-vlogs/"><u>Expert Techniques for Crafting High-End GoPro Vlogs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-comment-cloning-sur-un-steam-deck-avec-ssd-etapes-simplifiees/"><u>Guide Comment Cloning Sur Un Steam Deck Avec SSD : Étapes Simplifiées</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-online-converter-de-video-free-alterar-wmv-para-mkv/"><u>Movavi Online: Converter De Vídeo Free - Alterar WMV Para MKV</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-best-montage-songs-for-your-montage-video/"><u>New 10 Best Montage Songs for Your Montage Video</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/revive-your-files-expert-backup-restoration-techniques-for-windows-111087-users/"><u>Revive Your Files: Expert Backup Restoration Techniques for Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/synchronize-shared-directories-on-windows-7-three-effective-methods/"><u>Synchronize Shared Directories on Windows 7: Three Effective Methods</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-5-chrome-security-apps-protect-your-web-surfing-and-online-financial-transactions/"><u>Top 5 Chrome Security Apps: Protect Your Web Surfing & Online Financial Transactions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-youtube-video-marketing-strategies/"><u>Top 5 YouTube Video Marketing Strategies</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effektivnye-programmy-dlya-sozdaniya-rezervnyh-kopij-buffalo-nas-optimalnoe-reshenie-dlya-windows/"><u>Эффективные Программы Для Создания Резервных Копий Buffalo NAS: Оптимальное Решение Для Windows</u></a></li>
 </ul></div>
 
