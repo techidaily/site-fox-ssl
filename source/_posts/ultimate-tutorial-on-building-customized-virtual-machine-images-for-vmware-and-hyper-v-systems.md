@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Building Customized Virtual Machine Images for VMWare and Hyper-V Systems
-date: 2025-01-20T02:05:09.464Z
-updated: 2025-01-26T23:53:54.487Z
+date: 2025-02-03T18:13:23.719Z
+updated: 2025-02-08T17:10:06.011Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b4484815daf27a43d6a0afc55a2c8.jpg
@@ -28,16 +28,16 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -47,14 +47,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -85,10 +81,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -101,13 +93,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -124,6 +116,14 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +144,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -178,10 +174,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,21 +198,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevate-screen-brilliance-for-android/"><u>[New] 2024 Approved Elevate Screen Brilliance for Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-incorporating-vimeo-videos-seamlessly-in-microsoft-slides/"><u>[New] Incorporating Vimeo Videos Seamlessly in Microsoft Slides</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>[New] The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-your-youtube-profiles-a-guide-to-crafting-descriptions/"><u>[Updated] In 2024, Enhancing Your YouTube Profiles A Guide to Crafting Descriptions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-advice-on-acquiring-the-latest-360-cameras/"><u>2024 Approved Expert Advice on Acquiring the Latest 360 Cameras</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/apowerunlock-installer-walkthrough-simple-tutorial-for-quick-setup/"><u>ApowerUnlock Installer Walkthrough - Simple Tutorial For Quick Setup</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-on-converting-ogg-music-tracks-into-mp3-for-universal-playback/"><u>Comprehensive Guide on Converting OGG Music Tracks Into MP3 for Universal Playback</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/convert-swf-videos-free-easy-guide-from-flash-format-to-mp4-on-the-web/"><u>Convert SWF Videos Free: Easy Guide From Flash Format to MP4 on the Web</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-your-perfect-match-with-window-based-dating-app-tinder/"><u>Discover Your Perfect Match with Window-Based Dating App Tinder</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s21-fe-5g-2023-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S21 FE 5G (2023) FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-the-connection-tools-of-apowerpdf-document-editing/"><u>Expert Guide: Mastering the Connection Tools of ApowerPDF Document Editing</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/hands-free-solution-high-quality-recording-of-skype-chats-with-skype-call-logger/"><u>Hands-Free Solution: High-Quality Recording of Skype Chats with Skype Call Logger</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-google-pixel-8-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Google Pixel 8 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord/"><u>In 2024, The GIF-to-Sticker Methodology How to Express Yourself Better on Discord</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/revolutionary-q500-the-ultimate-4k-bird-for-2024/"><u>Revolutionary Q500 The Ultimate 4K Bird for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-converting-avi-files-efficiently-into-quicktimes-preferred-mov-format/"><u>Step-by-Step Guide: Converting AVI Files Efficiently Into QuickTime's Preferred MOV Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-boost-traffic-elevate-rankings-essential-youtube-seo/"><u>[New] 2024 Approved Boost Traffic, Elevate Rankings - Essential YouTube SEO</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>[New] In 2024, Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>[New] In 2024, The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-videoplayers-for-high-definition-on-android/"><u>[Updated] Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq5pig5yop6kaw6ig0ic0g44oj44op44kk44ow44os44kz44o844oa44o85yuv55s744gu5yan55sf5rov/"><u>効果的な映像視聴 - ドライブレコーダー動画の再生法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-vulnerability-the-growing-ai-risk-factor/"><u>Augmented Vulnerability: The Growing AI Risk Factor</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-mastering-video-edits-in-imovie-on-your-pc/"><u>Essential Tips for Mastering Video Edits in iMovie on Your PC</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/indias-tiktok-dilemma-secrets-to-preserving-your-downloaded-short-clips-post-ban/"><u>India's TikTok Dilemma: Secrets to Preserving Your Downloaded Short Clips Post-Ban</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/maximizing-user-engagement-with-optimal-search-outcome-presentation/"><u>Maximizing User Engagement with Optimal Search Outcome Presentation</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unraveling-history-long-term-effects-of-the-great-leap-forward-explained-by-yl-software-experts/"><u>Unraveling History: Long-Term Effects of the Great Leap Forward Explained by YL Software Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a56s-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A56s 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

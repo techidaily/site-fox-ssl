@@ -1,7 +1,7 @@
 ---
 title: Mastering Email Performance Indicators with MassMail Software Insights
-date: 2025-01-21T02:04:18.738Z
-updated: 2025-01-27T00:45:27.821Z
+date: 2025-02-03T18:33:00.151Z
+updated: 2025-02-08T23:04:48.035Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -50,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -63,7 +75,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -74,21 +86,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -97,10 +105,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -111,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[New] In 2024, Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-supreme-select-iphone-customized-sound-crafting/"><u>[New] Supreme Select IPhone Customized Sound Crafting</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-redefining-visual-impact-how-to-change-and-add-tweets-video-previews-for-2024/"><u>[Updated] Redefining Visual Impact How to Change and Add Tweets' Video Previews for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/detecting-and-diagnosing-graphics-card-issues-on-your-pc-with-windows-a-step-by-step-guide-by-yl-computing/"><u>Detecting and Diagnosing Graphics Card Issues on Your PC with Windows - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-find-n3-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Find N3 Device SIM</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elegant-blossom-icon-designs-by-yl-computing-your-premier-choice-in-yl-software-solutions/"><u>Elegant Blossom Icon Designs by YL Computing - Your Premier Choice in YL Software Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-chat-and-whisper-api-release-a-game-changer-for-companies/"><u>GPT-Chat and Whisper API Release - A Game Changer for Companies</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-your-graphics-card-responsible-for-system-crashes-exploring-the-facts-insights-by-yl-computing/"><u>Is Your Graphics Card Responsible for System Crashes? Exploring the Facts - Insights by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/left-4-dead-2-stability-solutions-how-to-avoid-in-game-crashing-issues/"><u>Left 4 Dead 2 Stability Solutions: How to Avoid In-Game Crashing Issues</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-issues-with-compromised-scanning-data-tips-and-support-by-yl-software-experts/"><u>Resolving Issues with Compromised Scanning Data - Tips and Support by YL Software Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-network-connectivity-problems-expert-tips-from-yl-computing/"><u>Resolving Network Connectivity Problems: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/revolutionizing-iphone-photography-with-hdr-techniques-for-2024/"><u>Revolutionizing iPhone Photography with HDR Techniques for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solving-non-responsive-application-issues-expert-guide-from-yl-computing/"><u>Solving Non-Responsive Application Issues: Expert Guide From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/superior-h265-encoder-and-decoder-for-windows-10-and-macos-the-top-hevc-converter/"><u>Superior H.265 Encoder & Decoder for Windows 10 & macOS - The Top HEVC Converter</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-rated-data-recovery-solutions-for-windows-operating-system-find-your-perfect-match-with-yl-computings-expert-picks/"><u>Top-Rated Data Recovery Solutions for Windows Operating System: Find Your Perfect Match with YL Computing's Expert Picks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-setting-up-your-printer-on-windows-10-expert-tips-from-yl-computing/"><u>Ultimate Guide: Setting Up Your Printer on Windows 10 - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-getting-started-with-video-editing-on-mac-os-x-yosemite/"><u>Updated 2024 Approved Getting Started with Video Editing on Mac OS X Yosemite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fast-track-to-using-ez-grabber-effectively-and-efficiently/"><u>[New] 2024 Approved Fast Track to Using EZ Grabber Effectively & Efficiently</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-do-we-experience-realities-in-a-virtual-sense-for-2024/"><u>[New] How Do We Experience Realities in a Virtual Sense for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-breaking-down-average-podcaster-salary/"><u>[New] In 2024, Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-speed-boost-for-vimeo-videos/"><u>[Updated] In 2024, Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/create-engaging-interfaces-easily-free-reactmaterial-ui-dashboard-with-customizable-argon-design-components-by-creativetim/"><u>Create Engaging Interfaces Easily: Free React/Material-UI Dashboard with Customizable Argon Design Components by @CreativeTim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/digital-canvas-of-kozue-yusa-elegant-wallpapers-and-imagery-curated-by-yl-software-solutions/"><u>Digital Canvas of Kozue Yusa: Elegant Wallpapers & Imagery Curated by YL Software Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-extensive-range-more-than-65-professional-bootstrap-elements-from-creative-tim/"><u>Discover the Extensive Range: More Than 65 Professional Bootstrap Elements From Creative Tim</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-screen-saving-solutions-in-windows-8-edition/"><u>Efficient Screen Saving Solutions in Windows 8 Edition</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-react-native-app-designs-top-templates-from-creative-tim/"><u>Free React Native App Designs: Top Templates From Creative Tim</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-shop-and-buy-virtual-reality-games-on-oculus-quest-2-platform/"><u>How to Shop and Buy Virtual Reality Games on Oculus Quest 2 Platform</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Code 22' - Comprehensive Steps to Reactivate Your Inaccessible Device
-date: 2025-01-24T17:48:43.915Z
-updated: 2025-01-26T22:56:40.259Z
+date: 2025-02-07T19:54:52.074Z
+updated: 2025-02-08T21:51:54.676Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54f28e65a2bdb8f8ae88e8ace.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
@@ -29,16 +29,12 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -51,7 +47,7 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
@@ -63,6 +59,10 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -100,10 +100,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -119,7 +115,7 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
@@ -134,17 +130,21 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -163,10 +163,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -188,7 +184,7 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Regularly back up important data in case of emergencies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -202,6 +198,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -238,7 +238,7 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -256,20 +256,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-tutorial-guide-to-fade-out-music-in-premiere-pro-for-2024/"><u>[Updated] Tutorial Guide To Fade Out Music In Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-recognizing-and-defending-against-forget-your-apple-password-scams-insights-from-malwarefox/"><u>1. Recognizing and Defending Against Forget Your Apple Password Scams: Insights From MalwareFox</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>2024 Approved Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/isoiso/"><u>最適なISOマウントソリューション発表：無料でISOイメージをスムーズに活用方法</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-overview-of-effective-sql-data-manipulation-methods/"><u>Comprehensive Overview of Effective SQL Data Manipulation Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-power-of-inisection-unlocking-enhanced-user-experience-in-documents/"><u>Discover the Power of IniSection: Unlocking Enhanced User Experience in Documents</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/enhance-usability-with-custom-frame-adjustments-in-application-setup-wizards/"><u>Enhance Usability with Custom Frame Adjustments in Application Setup Wizards</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-to-managing-chrome-extension-access-a-deep-dive-into-malwarefox-permissions/"><u>Guide to Managing Chrome Extension Access: A Deep Dive Into MalwareFox Permissions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-alternatives-to-xsplit-for-efficient-media-management/"><u>In 2024, Alternatives to Xsplit for Efficient Media Management</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/les-top-3-methodes-pour-restaurer-vos-fichiers-chk-originaux-en-perfection/"><u>Les Top 3 Méthodes Pour Restaurer Vos Fichiers CHK Originaux en Perfection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-battery-issues-with-sonys-ps5-controller-a-comprehensive-fix-guide/"><u>Overcoming Battery Issues with Sony's PS5 Controller - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/safety-of-adobe-flash-player-an-analysis-by-malwarefox/"><u>Safety of Adobe Flash Player: An Analysis by MalwareFox</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-musical-creativity-with-these-top-8-free-apple-device-tunes-tools/"><u>Unlocking Musical Creativity with These Top 8 Free Apple Device Tunes Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/video-tools-an-educators-guide-to-classroom-engagement/"><u>Video Tools An Educator's Guide to Classroom Engagement</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-steps-for-online-gamers-banner-use-for-2024/"><u>[New] Essential Steps for Online Gamers' Banner Use for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-building-a-powerful-twitter-marketing-strategy/"><u>[New] In 2024, Building a Powerful Twitter Marketing Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-unrestricted-pubg-visual-sequences/"><u>[Updated] Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-t2x-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/achieve-impeccable-macbook-pro-video-capture-expert-tips-and-tricks-for-crystal-clear-results/"><u>Achieve Impeccable MacBook Pro Video Capture: Expert Tips and Tricks for Crystal Clear Results</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-team-decision-making-with-advanced-group-selector-features/"><u>Efficient Team Decision-Making with Advanced Group Selector Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-watch-dogs-legion-an-in-depth-look-at-a-fresh-cityscape/"><u>Exploring Watch Dogs: Legion - An In-Depth Look at a Fresh Cityscape</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-editing-event-handlers-in-the-windows-dialog-box-interface/"><u>Guide to Editing Event Handlers in the Windows Dialog Box Interface</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-optimize-ifolder-synchronization-with-advanced-filter-settings/"><u>How To Optimize iFolder Synchronization with Advanced Filter Settings</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/improved-techniques-in-detecting-installed-file-updates/"><u>Improved Techniques in Detecting Installed File Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-13t-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi 13T Pro Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/peering-into-the-world-of-generative-ai/"><u>Peering Into the World of Generative AI</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-methods-for-projecting-your-ios-device-onto-a-tv-without-using-apples-hardware/"><u>Simple Methods for Projecting Your iOS Device Onto a TV without Using Apple's Hardware</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-moving-your-favorite-tunes-from-computer-to-iphone-8/"><u>Step-by-Step Guide: Moving Your Favorite Tunes From Computer to iPhone 8</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/the-ultimate-list-of-best-free-and-paid-software-for-making-professional-transparent-pngs-what-you-must-use/"><u>The Ultimate List of Best Free and Paid Software for Making Professional Transparent PNGs: What You Must Use</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-12-proplus-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 12 Pro+ 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-ebook-reader-seamlessly-converts-and-unlocks-ebook-content-everywhere/"><u>Top Picks: Ultimate eBook Reader - Seamlessly Converts and Unlocks eBook Content Everywhere!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-environment-variables-a-comprehensive-guide/"><u>Understanding Environment Variables: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211253203-9783988316448-witchcraft-astrology-guide/"><u>WITCHCRAFT ASTROLOGY GUIDE | Free Book</u></a></li>
 </ul></div>
 

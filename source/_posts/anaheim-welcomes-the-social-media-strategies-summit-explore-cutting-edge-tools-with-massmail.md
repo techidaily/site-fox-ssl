@@ -1,7 +1,7 @@
 ---
 title: "Anaheim Welcomes the Social Media Strategies Summit: Explore Cutting-Edge Tools with MassMail"
-date: 2025-01-23T21:07:33.265Z
-updated: 2025-01-26T18:33:12.668Z
+date: 2025-02-06T18:10:31.950Z
+updated: 2025-02-08T17:55:43.305Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,9 +32,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,16 +70,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -86,16 +86,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -110,17 +118,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,21 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-undead-delight-the-best-zombie-games-reviewed/"><u>[New] 2024 Approved Undead Delight The Best Zombie Games Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-taste-of-film-home-cooks-visual-journey-for-2024/"><u>[New] A Taste of Film Home Cook's Visual Journey for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-elite-zoonotic-pattern-compendium/"><u>[New] Elite Zoonotic Pattern Compendium</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-illuminating-the-world-of-photography-with-adobes-hdr-techniques/"><u>[New] Illuminating the World of Photography with Adobe's HDR Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-step-by-step-guide-to-crafting-facebook-visual-stories/"><u>2024 Approved A Step-by-Step Guide to Crafting Facebook Visual Stories</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comment-resoudre-lerreur-dinstallation-de-mises-a-jour-windows-code-x80240023-en-quatre-etapes-simples/"><u>Comment Résoudre L'Erreur D’Installation De Mises À Jour Windows (Code X80240023) en Quatre Étapes Simples</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-messaging-game-empowering-android-phone-keyboards-with-bing-ai-tech/"><u>Elevate Your Messaging Game: Empowering Android Phone Keyboards with Bing AI Tech</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/igined-guide/"><u>Igined Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/simplified-guide-wiping-your-acer-laptops-hard-drive-in-no-time/"><u>Simplified Guide: Wiping Your Acer Laptop's Hard Drive in No Time</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/the-premier-list-of-us-top-tier-digital-marketers-with-massmail-solutions/"><u>The Premier List of US Top-Tier Digital Marketers with MassMail Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-13-ferramentas-mais-eficientes-para-extrair-video-do-reddit-em-2024/"><u>Top 13 Ferramentas Mais Eficientes Para Extrair Video Do Reddit Em 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-collection-of-chrome-add-ons-for-enhanced-digital-marketing-powered-by-massmail-solutions/"><u>Ultimate Collection of Chrome Add-Ons for Enhanced Digital Marketing - Powered by MassMail Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unlocking-the-treasure-of-subscribers-in-5-seconds-master-email-marketing-with-massmail-software-solutions/"><u>Unlocking the Treasure of Subscribers in 5 Seconds - Master Email Marketing with MassMail Software Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728505975699-windows-11/"><u>Windows 11におけるファイル暗号化問題の解決法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leveraging-twitters-visual-content-on-snapchat/"><u>[New] 2024 Approved Leveraging Twitter's Visual Content on Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>[New] 2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pros-picks-the-best-11-soundstreamers-reviewed/"><u>[Updated] In 2024, Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>2024 Approved Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-determine-and-download-proper-sound-card-drivers-with-yl-softwares-help/"><u>How to Determine and Download Proper Sound Card Drivers with YL Software's Help</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-skies-with-top-10-beginner-drones/"><u>In 2024, Exploring the Skies with Top 10 Beginner Drones</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/maximizing-your-pcs-potential-the-impact-of-upgraded-memory-on-performance-expert-advice-from-yl-software/"><u>Maximizing Your PC's Potential: The Impact of Upgraded Memory on Performance - Expert Advice From YL Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/selecting-the-perfect-apc-uninterruptible-power-supply-ups-to-support-your-high-end-gaming-system/"><u>Selecting the Perfect APC Uninterruptible Power Supply (UPS) to Support Your High-End Gaming System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-tactics-to-record-lol-clashes/"><u>Ultimate Tactics to Record LOL Clashes</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/unlock-the-secrets-of-customizing-your-pc-with-control-panels-appearance-and-personalization-a-deep-dive-by-yl-software-experts/"><u>Unlock the Secrets of Customizing Your PC with Control Panel's 'Appearance and Personalization': A Deep Dive by YL Software Experts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/up-to-date-graphics-hardware-how-to-verify-and-update-with-yl-solutions/"><u>Up-to-Date Graphics Hardware: How to Verify and Update with YL Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-software-essentials-mastering-screen-configuration-and-adjustment-techniques/"><u>YL Software Essentials: Mastering Screen Configuration & Adjustment Techniques</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-softwares-troubleshooting-secrets-fixing-a-damaged-graphics-processor-easily/"><u>YL Software's Troubleshooting Secrets: Fixing a Damaged Graphics Processor Easily!</u></a></li>
 </ul></div>
 

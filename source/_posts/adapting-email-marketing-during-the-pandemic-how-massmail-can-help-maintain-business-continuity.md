@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Marketing During the Pandemic: How MassMail Can Help Maintain Business Continuity"
-date: 2025-01-19T19:48:39.063Z
-updated: 2025-01-26T16:17:33.171Z
+date: 2025-02-05T22:25:53.092Z
+updated: 2025-02-08T23:04:03.517Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -33,16 +37,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -71,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -82,20 +82,20 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -115,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -149,22 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-crafting-a-combined-video-narrative-on-iphone/"><u>[New] Crafting a Combined Video Narrative on iPhone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-beyond-the-hype-decoding-10-instagram-reels-truths/"><u>[New] In 2024, Beyond the Hype Decoding 10 Instagram Reels Truths</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways/"><u>[Updated] Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/automate-data-protection-simplify-your-life-with-wbadmin-or-alternative-solutions/"><u>Automate Data Protection: Simplify Your Life With Wbadmin or Alternative Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/herunterladen-der-kostenlosen-testversion-von-aomei-cyberbackup-fur-optimale-datensicherung/"><u>Herunterladen Der Kostenlosen Testversion Von AOMEI CyberBackup Für Optimale Datensicherung</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-easily-transform-mpeg-videos-into-3g2-format-for-free-a-guide-by-movavi/"><u>How to Easily Transform MPEG Videos Into 3G2 Format for Free: A Guide by Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-30-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Camon 30 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-smart-7-hd-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Smart 7 HD FRP Bypass</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-fundamentals-of-lenovo-onekey-recovery-in-windows-11-beginners-guide/"><u>Mastering the Fundamentals of Lenovo OneKey Recovery in Windows 11 - Beginner's Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-restoring-accidentally-erased-information-on-your-iphone-13-or-14/"><u>Step-by-Step Guide: Restoring Accidentally Erased Information on Your iPhone 13 or 14</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-tutorial-restore-your-files-using-skp-file-recovery-software/"><u>Step-by-Step Tutorial: Restore Your Files Using SKP File Recovery Software.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tecnica-simple-para-extraer-archivos-desde-la-imagen-del-sistema-en-windows-10/"><u>Técnica Simple Para Extraer Archivos Desde La Imagen Del Sistema en Windows 10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
-<li><a href="https://techidaily.com/vivo-s18e-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo S18e Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728473756612-windows-server-201n/"><u>Windows Server 201N恢复驱动器设置的两种方法 -一详解</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/windows-serveraomei-backupper/"><u>Windows Server最優秀バックアップツール「AOMEI Backupper」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-digital-artistry-on-your-phone-top-8-multimedia-enhancement-apps/"><u>[Updated] 2024 Approved Digital Artistry on Your Phone Top 8 Multimedia Enhancement Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[Updated] 2024 Approved Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5ywo6z2i55qe44ov44o844oj44ox44ot44kw44op44og44ks44kk44oj77ya44km44kn44ow44oa44o844k45yq5546h55qe5ymk6zmk5oqa6kgt44cn/"><u>「全面的ワードプログラムガイド：ウェブページ効率的削除技術」</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-thriving-on-instagram-strategies-for-powerful-video-marketing/"><u>2024 Approved Thriving on Instagram Strategies for Powerful Video Marketing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/from-problem-to-solution-amd-driver-now-detectable-on-wndows-10/"><u>From Problem to Solution: AMD Driver Now Detectable on Wndows 10</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-fix-the-system-restoration-cannot-continue-due-to-missing-disk-partition-issue-with-these-5-methods/"><u>How to Fix the 'System Restoration Cannot Continue Due to Missing Disk Partition' Issue with These 5 Methods</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/installation-securisee-et-raffinee-de-windows-11-sur-un-nouveau-ssd-une-approche-facile/"><u>Installation Sécurisée Et Raffinée De Windows 11 Sur Un Nouveau SSD: Une Approche Facile</u></a></li>
+<li><a href="https://win-dash.techidaily.com/level-up-performance-tuning-the-asus-rx-970-for-gamers/"><u>Level Up Performance: Tuning the ASUS RX 970 for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/strategic-planning-of-podcast-drop-times-for-2024/"><u>Strategic Planning of Podcast Drop Times for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-step-by-step-instructions-on-acquiring-and-setting-up-free-iphone-x-12-13-14-and-15-ringtone/"><u>Ultimate Guide: Step-by-Step Instructions on Acquiring & Setting Up Free iPhone X, 12, 13, 14, & 15 Ringtone</u></a></li>
 </ul></div>
 
