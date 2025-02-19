@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Site for Free: A Step-by-Step Guide to Obtaining an SSL Certificate Using MassMail Pro"
-date: 2025-02-03T17:32:14.948Z
-updated: 2025-02-08T22:37:10.481Z
+date: 2025-02-11T23:57:18.475Z
+updated: 2025-02-18T18:57:38.554Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -75,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -86,6 +82,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -93,10 +93,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -110,13 +106,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-short-videos-and-everything-about-them/"><u>[Updated] Facebook Short Videos and Everything About Them</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enthralling-audienrances-the-most-captivating-6-videos/"><u>[Updated] In 2024, Enthralling Audienrances The Most Captivating 6 Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-making-the-most-of-your-television-with-fb-live/"><u>[Updated] In 2024, Making the Most of Your Television with FB Live</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-youtube-equipment-for-beginners-ultimate-guide/"><u>2024 Approved YouTube Equipment for Beginners [Ultimate Guide]</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-and-yl-software/"><u>Boost Your PC's Performance: Expert Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/dynamic-abstract-animations-and-backgrounds-with-rotating-lasers-download-high-quality-movies-from-yl-software-solutions/"><u>Dynamic Abstract Animations & Backgrounds with Rotating Lasers, Download High-Quality Movies From YL Software Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-bios-update-tutorial-for-your-computer-using-yl-computing-tools/"><u>Easy BIOS Update Tutorial for Your Computer Using YL Computing Tools</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elegant-dark-blue-geometric-designs-high-quality-images-and-wallpapers-by-yl-computing/"><u>Elegant Dark Blue Geometric Designs: High-Quality Images & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-handle-the-intricate-error-code-403-in-roblox-on-windows/"><u>How to Handle the Intricate Error Code 403 in Roblox on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-your-data-avoiding-privacy-risks-with-chatgpt/"><u>How to Safeguard Your Data: Avoiding Privacy Risks with ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/implications-of-dojs-lawsuit-against-apple-potential-effects-on-ios-devices-and-app-creators-explored/"><u>Implications of DOJ's Lawsuit Against Apple: Potential Effects on iOS Devices & App Creators Explored</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/navigating-through-system-crashes-identifying-key-triggers-for-blue-screen-glitches-with-yls-guidance/"><u>Navigating Through System Crashes: Identifying Key Triggers for Blue Screen Glitches with YL's Guidance</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/overcoming-challenges-the-role-of-politics-in-maintaining-strength-for-precious-metals-and-crude-analysis-from-yl-software/"><u>Overcoming Challenges: The Role of Politics in Maintaining Strength for Precious Metals and Crude – Analysis From YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/troubleshooting-common-issues-why-your-wi-fi-printer-may-be-disconnecting-expertise-by-yl/"><u>Troubleshooting Common Issues: Why Your Wi-Fi Printer May Be Disconnecting - Expertise by YL</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g24-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G24? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-secure-social-space-end-following-protocols/"><u>[New] 2024 Approved Secure Social Space End Following Protocols</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-best-text-effects-for-your-video/"><u>[New] Top 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-beats-that-last-a-lifetime-top-tiktok-hits-of-2024-you-cant-forget/"><u>[Updated] Beats That Last a Lifetime Top TikTok Hits of 2024 You Can't Forget</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028203907-4/"><u>「最適な手順：動画を四角形にカットするテクニック4つ」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recapture-retro-essence-expert-tips-for-retroarcs-shader-use/"><u>Recapture Retro Essence: Expert Tips for RetroArc's Shader Use</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/sicherheit-auf-hochstem-niveau-erreichen-einrichten-von-firewall-einstellungen-fur-windows-server-201920162012/"><u>Sicherheit Auf Höchstem Niveau Erreichen: Einrichten Von Firewall-Einstellungen Für Windows Server 2019/2016/2012</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-migrating-from-an-mbr-hard-drive-to-a-gpt-solid-state-drive-without-os-reinstalls/"><u>Step-by-Step Guide: Migrating From an MBR Hard Drive to a GPT Solid State Drive Without OS Reinstalls</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/une-solution-simple-et-intuitive-pour-transferer-votre-disque-dur-sur-un-ssd-rapide-de-500-go/"><u>Une Solution Simple Et Intuitive Pour Transférer Votre Disque Dur Sur Un SSD Rapide De 500 Go</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728480946648-windows-11/"><u>Windows 11におけるネットワークドライブ同期問題の解決手順</u></a></li>
 </ul></div>
 

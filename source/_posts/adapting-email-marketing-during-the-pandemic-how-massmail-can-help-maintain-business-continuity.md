@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Marketing During the Pandemic: How MassMail Can Help Maintain Business Continuity"
-date: 2025-02-05T22:25:53.092Z
-updated: 2025-02-08T23:04:03.517Z
+date: 2025-02-11T21:11:33.608Z
+updated: 2025-02-18T23:17:31.507Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -52,11 +52,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,13 +78,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,17 +94,9 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -115,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -149,15 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-digital-artistry-on-your-phone-top-8-multimedia-enhancement-apps/"><u>[Updated] 2024 Approved Digital Artistry on Your Phone Top 8 Multimedia Enhancement Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[Updated] 2024 Approved Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/44cm5ywo6z2i55qe44ov44o844oj44ox44ot44kw44op44og44ks44kk44oj77ya44km44kn44ow44oa44o844k45yq5546h55qe5ymk6zmk5oqa6kgt44cn/"><u>「全面的ワードプログラムガイド：ウェブページ効率的削除技術」</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-thriving-on-instagram-strategies-for-powerful-video-marketing/"><u>2024 Approved Thriving on Instagram Strategies for Powerful Video Marketing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/from-problem-to-solution-amd-driver-now-detectable-on-wndows-10/"><u>From Problem to Solution: AMD Driver Now Detectable on Wndows 10</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-fix-the-system-restoration-cannot-continue-due-to-missing-disk-partition-issue-with-these-5-methods/"><u>How to Fix the 'System Restoration Cannot Continue Due to Missing Disk Partition' Issue with These 5 Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/installation-securisee-et-raffinee-de-windows-11-sur-un-nouveau-ssd-une-approche-facile/"><u>Installation Sécurisée Et Raffinée De Windows 11 Sur Un Nouveau SSD: Une Approche Facile</u></a></li>
-<li><a href="https://win-dash.techidaily.com/level-up-performance-tuning-the-asus-rx-970-for-gamers/"><u>Level Up Performance: Tuning the ASUS RX 970 for Gamers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/strategic-planning-of-podcast-drop-times-for-2024/"><u>Strategic Planning of Podcast Drop Times for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-step-by-step-instructions-on-acquiring-and-setting-up-free-iphone-x-12-13-14-and-15-ringtone/"><u>Ultimate Guide: Step-by-Step Instructions on Acquiring & Setting Up Free iPhone X, 12, 13, 14, & 15 Ringtone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-preparing-for-facebooks-updated-marketing-strategy/"><u>[New] 2024 Approved Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easing-into-your-youtube-watches-3-methods-50-chars-for-2024/"><u>[New] Easing Into Your YouTube Watches 3 Methods (50 Chars) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-efficiently-documenting-your-fb-chats-and-meets/"><u>2024 Approved Efficiently Documenting Your FB Chats & Meets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-big-sale-alert-for-gamers-highly-acclaimed-immersive-audio-systems-at-a-steal-read-about-my-top-picks-and-the-best-deals-today/"><u>Amazon's Big Sale Alert for Gamers: Highly Acclaimed Immersive Audio Systems at a Steal! Read About My Top Picks and the Best Deals Today!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/choosing-a-wise-cryptocurrency-investment-key-factors-explained-by-yl-software-experts/"><u>Choosing a Wise Cryptocurrency Investment: Key Factors Explained by YL Software Experts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/connecting-your-scanner-with-windows-a-step-by-step-guide-from-yl-computing/"><u>Connecting Your Scanner with Windows: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/cryptocurrencies-versus-fiat-unveiling-key-contrasts-with-guidance-from-yl-software-experts/"><u>Cryptocurrencies Versus Fiat: Unveiling Key Contrasts with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-fancy-games-the-intersection-of-ai-and-dungeons-and-dragons/"><u>Enhance Your Fancy Games: The Intersection of AI and Dungeons & Dragons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-essentials-in-av1-compression/"><u>Exploring the Essentials in AV1 Compression</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/high-definition-money-heist-s4-themes-stunning-walls-backgrounds-and-visuals-curated-by-yl-computing/"><u>High-Definition Money Heist S4 Themes: Stunning Walls, Backgrounds & Visuals - Curated by YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grid-mastery-in-photos-with-our-select-apps/"><u>In 2024, Grid Mastery in Photos with Our Select Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-digital-conversion-old-photos-to-video/"><u>Mastering Digital Conversion Old Photos to Video</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nba-2k23-pc-freezing-issues-resolved-top-7-reliable-solutions/"><u>NBA 2K23 PC Freezing Issues Resolved: Top 7 Reliable Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/optimize-your-pixels-tips-to-decrease-image-size-on-windows-pcs-with-yl-tools/"><u>Optimize Your Pixels: Tips to Decrease Image Size on Windows PCs with YL Tools</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/unraveling-the-mystery-the-reason-behind-universal-minimum-audio-loudness-an-insight-by-yl-computing/"><u>Unraveling the Mystery: The Reason Behind Universal Minimum Audio Loudness - An Insight by YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/xenomorph-themed-digital-artwork-premium-desktop-walls-and-visuals-by-yl-computing/"><u>Xenomorph Themed Digital Artwork: Premium Desktop Walls & Visuals by YL Computing</u></a></li>
 </ul></div>
 
