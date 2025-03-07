@@ -1,7 +1,7 @@
 ---
 title: Ricostruisci Il Tuo Sistema Con I Passi Di Recupero Della Partizione Perduta Su Windows 11
-date: 2025-02-13T19:12:24.565Z
-updated: 2025-02-18T16:20:18.184Z
+date: 2025-02-28T17:52:40.221Z
+updated: 2025-03-07T04:44:41.629Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b12c1a140a3344398be10869a2b844a6fc484f74ef7b38393e9a6d380bb9dbb1.jpg
@@ -43,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -77,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -96,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -133,10 +121,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
@@ -161,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,15 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-command-attention-elevating-your-page-to-the-social-summit/"><u>[New] 2024 Approved Command Attention Elevating Your Page to the Social Summit</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/boosting-cta-clicks-in-your-email-campaigns-top-5-strategies-with-massmail/"><u>Boosting CTA Clicks in Your Email Campaigns: Top 5 Strategies with MassMail</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/efficient-mov-editing-and-recording-tutorial-for-windows-11-users-for-2024/"><u>Efficient MOV Editing and Recording Tutorial for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/health-communication-winning-on-social-networks-for-2024/"><u>Health Communication Winning on Social Networks for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-restore-old-versions-of-a-word-document-top-5-recovery-methods/"><u>How to Restore Old Versions of a Word Document - Top 5 Recovery Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-navigating-to-success-boosting-viewership-and-subs-on-youtube/"><u>In 2024, Navigating to Success Boosting Viewership and Subs on Youtube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aining-creative-commons-on-youtube-for-greater-exposure-for-2024/"><u>Maintaining Creative Commons on YouTube for Greater Exposure for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/selecting-the-best-mail-extractor-key-considerations-with-infographics-massmail-expertise/"><u>Selecting the Best Mail Extractor: Key Considerations with Infographics | MassMail Expertise</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/sposta-rapidamente-foto-dellipad-in-un-dispositivo-usb-flash-per-larchiviazione/"><u>Sposta Rapidamente Foto Dell'iPad in Un Dispositivo USB Flash per L'archiviazione</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-lenovo-hybrid-laptopandroid-tablet-showdown-assessing-its-capabilities-and-envisioning-its-full-potential-techexplorers-review/"><u>The Lenovo Hybrid Laptop/Android Tablet Showdown: Assessing Its Capabilities & Envisioning Its Full Potential | TechExplorers Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-capture-and-share-best-social-media-tools-of-the-year-for-2024/"><u>[New] Capture and Share Best Social Media Tools of the Year for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-compress-iphone-videos-how-to-shorten-without-quality-loss-for-2024/"><u>[New] Compress iPhone Videos How to Shorten Without Quality Loss for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quick-and-clear-swap-clown-fins-voices-on-pcs-for-2024/"><u>[Updated] Quick & Clear Swap Clown Fins' Voices on PCs for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-winbluescreen-tackle-wdf-api-crashes-on-windows/"><u>Banish WinBlueScreen: Tackle WDF API Crashes on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-companion-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Right AI Companion: Claude Vs. ChatGPT for Daily Use</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-design-masterclass-get-started-with-our-expert-created-template-by-creative-tim/"><u>Free NextJS & Tailwind Design Masterclass: Get Started with Our Expert-Created Template by Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-nextjs-and-tailwind-integration-starter-kit-with-customizable-landing-pages-by-creative-tim/"><u>Free NextJS and Tailwind Integration Starter Kit with Customizable Landing Pages by Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-reactive-ui-dashboard-with-argon-and-material-ui-integration-by-creative-tim/"><u>Free Reactive UI Dashboard with Argon and Material-UI Integration by Creative Tim</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-reno-10-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo Reno 10 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-fall-guys-from-crashing-on-launch-a-complete-guide/"><u>How to Prevent Fall Guys From Crashing on Launch - A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-boost-engagement-sharing-streams-from-twitch-on-fb/"><u>In 2024, Boost Engagement Sharing Streams From Twitch on FB</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/innovative-bootstrap-angular-admin-panel-and-dashboard-design-by-creative-tim-exceeds-11-features/"><u>Innovative Bootstrap Angular Admin Panel & Dashboard Design by Creative Tim - Exceeds 11 Features</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/modern-bootstrap-control-center-no-cost-bootstrap-4-management-theme-from-creative-tim/"><u>Modern Bootstrap Control Center: No-Cost Bootstrap 4 Management Theme From Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/next-level-productivity-nuxt-dashboard-pro-v2-featuring-argon-and-seamless-laravel-support-designed-by-creative-tim/"><u>Next-Level Productivity: Nuxt Dashboard PRO v2 Featuring Argon & Seamless Laravel Support | Designed by Creative Tim</u></a></li>
 </ul></div>
 

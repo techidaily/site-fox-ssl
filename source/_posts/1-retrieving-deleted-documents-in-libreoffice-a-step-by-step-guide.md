@@ -1,7 +1,7 @@
 ---
 title: "1. Retrieving Deleted Documents in LibreOffice: A Step-by-Step Guide"
-date: 2025-02-12T22:51:20.089Z
-updated: 2025-02-18T20:39:32.536Z
+date: 2025-03-04T04:29:19.891Z
+updated: 2025-03-07T04:09:23.565Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cece118b77c428c885565f6981.jpg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -41,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -59,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -90,19 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -114,17 +94,9 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -146,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -163,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -202,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -256,20 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>[New] 2024 Approved Top Gamers' Screen Guide Best Monitors at 4K Quality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-capture-and-store-fb-conversations-best-methods-summarized/"><u>[Updated] 2024 Approved Capture & Store FB Conversations - Best Methods Summarized</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-novices-nook-top-6-minecraft-homes-explained/"><u>[Updated] In 2024, Novice's Nook Top 6 Minecraft Homes Explained</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>2024 Approved Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/complete-user-manual-mastering-the-use-of-windows-shutdown-utility/"><u>Complete User Manual: Mastering the Use of Windows Shutdown Utility</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-steps-how-to-set-a-custom-ringtone-on-your-iphone-x/"><u>Easy Steps: How to Set a Custom Ringtone on Your iPhone X</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/hassle-free-guide-speedy-solutions-for-transforming-mov-files-into-mp4-format/"><u>Hassle-Free Guide: Speedy Solutions for Transforming MOV Files Into MP4 Format</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-mirroring-your-phones-screen-onto-another-android-device/"><u>Step-by-Step Guide: Mirroring Your Phone's Screen Onto Another Android Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x9b-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor X9b Device</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-free-image-compression-applications-best-picks-for-web-and-pc/"><u>Top Free Image Compression Applications: Best Picks for Web and PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/top-techniques-for-moving-images-from-your-pixel-3-smartphone-to-a-computer/"><u>Top Techniques for Moving Images From Your Pixel 3 Smartphone to a Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/ultimate-guide-how-to-effortlessly-manage-your-android-phone-via-ios/"><u>Ultimate Guide: How to Effortlessly Manage Your Android Phone via iOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-mobile-shots-the-top-iphone-photography-apps-7plus/"><u>[New] Maximize Mobile Shots The Top iPhone Photography Apps (7+)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-ripristina-i-driver-eliminati-nel-tuo-sistema-operativo-windows-10-con-modi-3-un-tutorial-facile/"><u>1. Ripristina I Driver Eliminati Nel Tuo Sistema Operativo Windows 10 Con Modi 3 - Un Tutorial Facile!</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/come-velocemente-riparare-i-problemi-di-sincronizzazione-lenta-su-microsoft-outlook/"><u>Come Velocemente Riparare I Problemi Di Sincronizzazione Lenta Su Microsoft Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oppo-a38-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Oppo A38 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-complete-your-windows-11-overcome-the-99-hurdle-with-these-simple-tricks/"><u>How to Complete Your Windows 지원 11 설치 - Overcome the 99% Hurdle with These Simple Tricks</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-to-safely-restore-a-windows-server-2003-image-with-secure-boot-enabled/"><u>How to Safely Restore a Windows Server 2003 Image with Secure Boot Enabled</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-creating-memorable-youtube-shorts-10-must-do-tips/"><u>In 2024, Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ipad-doppelbildentfernung-schritt-fur-schritt-leitfaden-fur-air-pro-und-mini-modelle/"><u>IPad-Doppelbildentfernung: Schritt-Für-Schritt-Leitfaden Für Air, Pro Und Mini Modelle</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-connection-challenges-11-solutions-for-your-airpods-and-iphone-dilemma/"><u>Overcoming Connection Challenges: 11 Solutions for Your AirPods and iPhone Dilemma</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/section-3a-the-adaptive-immune-response/"><u>Section 3A: The Adaptive Immune Response</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-purchasing-the-right-tv-for-your-household-needs/"><u>Step-by-Step Guide: Purchasing the Right TV for Your Household Needs</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-solution-resolving-nonfunctional-usb-c-on-your-hp-laptop/"><u>Step-by-Step Solution: Resolving Nonfunctional USB-C on Your HP Laptop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-adventures-with-these-7-no-cost-ai-itinerary-builders-inspired-by-chatgpt/"><u>Streamline Your Adventures with These 7 No-Cost, AI Itinerary Builders Inspired by ChatGPT</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rezensierte-ersatzprodukte-fur-xcopy-unter-windows-11-7-und-xp-eine-umfassende-liste/"><u>Top-Rezensierte Ersatzprodukte Für Xcopy Unter Windows 11, 7 Und XP - Eine Umfassende Liste</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/troubleshoot-iphones-non-updating-shared-photo-albums-with-these-7-expert-tips/"><u>Troubleshoot iPhone's Non-Updating Shared Photo Albums with These 7 Expert Tips</u></a></li>
 </ul></div>
 

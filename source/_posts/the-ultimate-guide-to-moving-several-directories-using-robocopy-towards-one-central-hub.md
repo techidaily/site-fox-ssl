@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Moving Several Directories Using Robocopy Towards One Central Hub
-date: 2025-02-12T21:30:44.829Z
-updated: 2025-02-18T23:37:20.196Z
+date: 2025-03-01T00:52:21.816Z
+updated: 2025-03-07T03:53:16.070Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7017365a21e0c4d6f492b770.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -105,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-simplifying-social-media-your-guide-to-facebook-youtube-syncing/"><u>[New] In 2024, Simplifying Social Media Your Guide to Facebook-YouTube Syncing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-screen-partnerships-and-talent-licensing/"><u>[New] Screen Partnerships and Talent Licensing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ahead-of-tomorrow-key-youtube-gatherings-post-vidcon/"><u>[Updated] 2024 Approved Ahead of Tomorrow Key Youtube Gatherings (Post-VidCon)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/57ch5zau5pa55rov77ya5oco6bq85b6e562g6kiy5pys6zu76iwm56gs56kf5lit5zue5b6p5bey57at5rai5asx55qe5pah5lu2/"><u>簡單方法：怎麼從筆記本電腦硬碟中回復已經消失的文件</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comment-debloquer-lissue-de-non-ouverture-des-fichiers-par-double-clic-dans-windows-10-un-guide-complet/"><u>Comment Débloquer L'Issue De Non-Ouverture Des Fichiers Par Double Clic Dans Windows 10: Un Guide Complet</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-restore-removed-drive-on-windows-11-a-simple-guide/"><u>Easy Steps to Restore Removed Drive on Windows 11: A Simple Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/entertaining-sales-pitch-laughs-sharing-comical-advertising-narratives-via-massmail-solutions/"><u>Entertaining Sales Pitch Laughs: Sharing Comical Advertising Narratives via MassMail Solutions</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/evaluating-corporate-cybersecurity-addressing-the-challenge-of-data-breaches-with-massmail-solutions/"><u>Evaluating Corporate Cybersecurity: Addressing the Challenge of Data Breaches with MassMail Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-mediatrans-makes-seamless-sharing-of-images-videos-and-music-across-iphone-ipad-and-pc/"><u>How MediaTrans Makes Seamless Sharing of Images, Videos & Music Across iPhone, iPad & PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mass-mailing-mastery-with-massmail-software-unlock-shock-marketing-strategies/"><u>Mass Mailing Mastery with MassMail Software: Unlock Shock Marketing Strategies!</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-social-media-love-your-facebook-dating-beginning/"><u>Navigating Social Media Love: Your Facebook Dating Beginning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-red-magic-9-proplus-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Red Magic 9 Pro+ has been deleted.</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/reviving-accidentally-deleted-spreadsheets-on-google-sheets-with-these-4-simple-tricks/"><u>Reviving Accidentally Deleted Spreadsheets on Google Sheets with These 4 Simple Tricks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g23-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G23 FRP</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/strategies-pratiques-pour-la-conduite-et-le-suivi-des-ordinateurs-de-lentreprise/"><u>Stratégies Pratiques Pour La Conduite Et Le Suivi Des Ordinateurs De L'Entreprise</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-videodxgkrnl-crashes-in-windows-environments/"><u>Troubleshooting Tips for Fixing 'Video_Dxgkrnl' Crashes in Windows Environments</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/umfassende-anleitung-zum-sicheren-und-vollstandigen-loschen-von-m2-ssds-unter-windows-11/"><u>Umfassende Anleitung Zum Sicheren Und Vollständigen Löschen Von M.2 SSDs Unter Windows 11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-wireguard-why-this-vpn-protocol-stands-out-in-the-tech-world/"><u>Understanding WireGuard: Why This VPN Protocol Stands Out in the Tech World</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/oggmp38/"><u>フリーソフトでシームレスに音楽変換！OGG形式へのMP3移行トップ8選</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>[New] Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-check-comparing-bandicams-performance-to-competitors-for-2024/"><u>[Updated] The Ultimate Check Comparing Bandicam's Performance to Competitors for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-ultimate-collection-30plus-vite-starter-templates-and-designs-creative-tim/"><u>1. Ultimate Collection: 30+ Vite Starter Templates and Designs | Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/advanced-argon-dashboard-v2-pro-enhanced-php-management-with-creative-tims-expertise/"><u>Advanced Argon Dashboard v2 Pro: Enhanced PHP Management with Creative Tim's Expertise</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/advanced-material-ui-kit-pro-edition-by-creative-tim/"><u>Advanced Material UI Kit - Pro Edition by Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/creative-tims-argon-react-native-starterkit-complimentary-boost-for-rapid-prototyping/"><u>Creative Tim's Argon React Native Starterkit: Complimentary Boost for Rapid Prototyping</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/creative-tims-soft-ui-customizable-larvel-backend-with-updivision-collaboration/"><u>Creative Tim's Soft UI: Customizable Larvel Backend with UPDIVISION Collaboration</u></a></li>
+<li><a href="https://discover-help.techidaily.com/discover-ways-to-retrieve-your-computers-system-details-with-yl-computing-solutions/"><u>Discover Ways to Retrieve Your Computer's System Details with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/enhanced-angular-ui-kit-professional-edition-with-integrated-bootstrap-4-for-developers-creative-tim/"><u>Enhanced Angular UI Kit - Professional Edition with Integrated Bootstrap 4 for Developers | Creative Tim</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-react-native-app-designs-top-templates-from-creative-tim/"><u>Free React Native App Designs: Top Templates From Creative Tim</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/processor-based-assessments-of-top-tablet-computers/"><u>Processor-Based Assessments of Top Tablet Computers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/proven-methods-for-downloading-multiple-tiktok-videos-for-2024/"><u>Proven Methods for Downloading Multiple TikTok Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-of-smartwatches-exploring-the-samsung-galaxy-watch5s-blend-of-tradition-and-innovation/"><u>The Evolution of Smartwatches: Exploring the Samsung Galaxy Watch5's Blend of Tradition and Innovation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s17e-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo S17e Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/what-are-the-alternatives-to-googles-ar-appearance/"><u>What Are The Alternatives To Google's AR Appearance?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

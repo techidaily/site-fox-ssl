@@ -1,7 +1,7 @@
 ---
 title: Stratégies Pratiques Pour La Conduite Et Le Suivi Des Ordinateurs De L'Entreprise
-date: 2025-02-05T21:28:59.110Z
-updated: 2025-02-08T19:16:08.505Z
+date: 2025-03-06T10:52:08.941Z
+updated: 2025-03-07T00:04:19.255Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c7ecdd3b24dbb573f2037e37.jpg
@@ -72,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -87,10 +83,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -105,10 +97,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -130,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -148,27 +132,15 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -199,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -236,10 +200,6 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -256,18 +216,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-insights-on-effective-spotify-ad-targeting/"><u>[New] 2024 Approved Insights on Effective Spotify Ad Targeting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-camera-live-screen-capture-analysis-and-top-replacements/"><u>[New] 2024 Approved Unlock Camera Live Screen Capture Analysis & Top Replacements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-building-rapport-an-interviewers-toolkit-for-2024/"><u>[New] Building Rapport An Interviewer's Toolkit for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-guide-to-top-hexacopter-models/"><u>[New] Essential Guide to Top Hexacopter Models</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-professional-take-the-syma-x5c-ideal-first-timers-droning-companion/"><u>[Updated] Professional Take The Syma X5C – Ideal First-Timer's Droning Companion</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-stranger-things-ensemble-ultimate-collection-of-character-wallpapers-and-imagery-digital-artwork-by-yl-computing/"><u>1. Stranger Things Ensemble: Ultimate Collection of Character Wallpapers & Imagery - Digital Artwork by YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-gimbals-for-dslr-and-mobiles-no-more-shakes/"><u>Cutting-Edge Gimbals for DSLR & Mobiles - No More Shakes</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/how-to-check-if-your-scanner-program-is-up-to-date-with-latest-version-tips-by-yl-computing/"><u>How to Check if Your Scanner Program Is Up-to-Date with Latest Version - Tips by YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pixiz-masterclass-merging-photography-and-motion/"><u>In 2024, Pixiz Masterclass Merging Photography and Motion</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/key-session-configurations-boosting-website-engagement-through-effective-management/"><u>Key Session Configurations: Boosting Website Engagement Through Effective Management</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-camon-30-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Camon 30 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yl-computing-guide-simple-steps-to-remove-files-on-your-computer/"><u>YL Computing Guide: Simple Steps to Remove Files on Your Computer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/yl-computing-unveils-available-security-options-in-the-windows-control-panel-detailed-overview-and-tips/"><u>YL Computing Unveils Available Security Options in the Windows Control Panel – Detailed Overview and Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[New] 2024 Approved Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-synergy-connecting-twitch-streams-with-fb/"><u>[New] 2024 Approved Social Media Synergy Connecting Twitch Streams with FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-8-real-life-strategies-to-increase-youtube-reach/"><u>[New] 2024 Approved Top 8 Real-Life Strategies to Increase YouTube Reach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-liftoff-your-phone-images-with-free-magnification-app/"><u>2024 Approved Liftoff Your Phone Images with Free Magnification App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bosses-educators-assessing-gpt-with-4-digital-lenses/"><u>Bosses, Educators - Assessing GPT with 4 Digital Lenses</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/igined-guide/"><u>Igined Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/maximize-conversions-using-massmail-tools-and-techniques-for-successful-campaigns/"><u>Maximize Conversions Using MassMail Tools & Techniques for Successful Campaigns</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/quick-guide-seamless-windows-11-setup-on-your-latest-hardware/"><u>Quick Guide: Seamless Windows 11 Setup on Your Latest Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ultimate-collection-of-chrome-add-ons-for-enhanced-digital-marketing-powered-by-massmail-solutions/"><u>Ultimate Collection of Chrome Add-Ons for Enhanced Digital Marketing - Powered by MassMail Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/unlocking-the-treasure-of-subscribers-in-5-seconds-master-email-marketing-with-massmail-software-solutions/"><u>Unlocking the Treasure of Subscribers in 5 Seconds - Master Email Marketing with MassMail Software Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-8-plus-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone 8 Plus i Do? Get Answers here</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
 

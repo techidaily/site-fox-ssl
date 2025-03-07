@@ -1,7 +1,7 @@
 ---
 title: "Guía Paso a Paso: Cómo Hacer Que Tus Archivos Y Carpetas Se Actualicen Automáticamente en Windows 11, 8 Y 7"
-date: 2025-02-02T23:43:20.203Z
-updated: 2025-02-08T23:36:39.047Z
+date: 2025-03-06T14:11:19.982Z
+updated: 2025-03-07T14:41:23.277Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8da2710c62b22806e55635c8b.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -46,10 +42,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -72,10 +64,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -100,10 +88,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -161,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,22 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-rss-feed-development/"><u>[New] Mastering Podcast RSS Feed Development</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[New] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-digital-film-composer/"><u>[Updated] Digital Film Composer</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/a-comprehensive-tutorial-for-enjoying-and-excelling-at-real-racing-n3-on-a-windows-or-mac-machine/"><u>A Comprehensive Tutorial for Enjoying and Excelling at Real Racing N°3 on a Windows or Mac Machine</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/apowerunlock-installer-walkthrough-simple-tutorial-for-quick-setup/"><u>ApowerUnlock Installer Walkthrough - Simple Tutorial For Quick Setup</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-on-converting-ogg-music-tracks-into-mp3-for-universal-playback/"><u>Comprehensive Guide on Converting OGG Music Tracks Into MP3 for Universal Playback</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-the-perfect-gaming-channel-header/"><u>Crafting the Perfect Gaming Channel Header</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-clear-voice-capture-in-win-pcs/"><u>Ensuring Clear Voice Capture in Win PCs</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-the-connection-tools-of-apowerpdf-document-editing/"><u>Expert Guide: Mastering the Connection Tools of ApowerPDF Document Editing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/youtube-to-igtv-top-methods-unveiled/"><u>From YouTube to IGTV Top Methods Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-online-content-deletion-with-these-8-steps/"><u>Master Online Content Deletion with These 8 Steps</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/mastering-the-art-of-editing-bilingual-chat-interfaces-tips-and-tricks/"><u>Mastering the Art of Editing Bilingual Chat Interfaces: Tips and Tricks</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-action-issue-critical-error-106-efficiently/"><u>Resolving 'Action! Issue: Critical Error 106' Efficiently</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-how-to-create-a-youtube-video-recording-with-the-action-effect/"><u>Step-by-Step Guide: How to Create a YouTube Video Recording with the 'Action' Effect</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/tailored-template-solutions-creating-personalized-project-designs/"><u>Tailored Template Solutions: Creating Personalized Project Designs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-5-mice-you-need-to-try-with-your-ipad-for-seamless-navigation/"><u>Top 5 Mice You Need to Try with Your iPad for Seamless Navigation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k/"><u>[New] DJI Phantom 3 Standard Vs. Advanced Vs. Professional Vs. 4K</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premier-knowledge-trivia-video-channels-for-2024/"><u>[New] Premier Knowledge Trivia Video Channels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speaker-tape-recorder-iphone-2024/"><u>[New] Speaker Tape Recorder (iPhone 2024)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-professional-video-editing-does-m1-macbook-air-hold-up-for-2024/"><u>[Updated] Professional Video Editing Does M1 MacBook Air Hold Up for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-vibrant-indian-rollers-high-quality-wallpapers-and-backgrounds-from-yl-computings-extensive-collection/"><u>1. Vibrant Indian Rollers: High-Quality Wallpapers & Backgrounds From YL Computing's Extensive Collection</u></a></li>
+<li><a href="https://network-issues.techidaily.com/controlling-big-screen-size-in-win10/"><u>Controlling Big Screen Size in Win10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-downloading-your-samsung-850-evo-drives-drivers/"><u>Easy Steps to Downloading Your Samsung 850 EVO Drive's Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-to-eradicate-mmc-snap-in-anomalies/"><u>Expert Tips to Eradicate MMC Snap-In Anomalies</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/high-resolution-white-blossoms-hd-wallpaper-collection-premium-backdrops-and-imagery-yl-tech-solutions/"><u>High-Resolution White Blossoms HD Wallpaper Collection | Premium Backdrops & Imagery - YL Tech Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>In 2024, Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-connectivity-issues-when-your-new-network-card-fails-to-provide-internet-expert-guidance-by-yl-software/"><u>Resolving Connectivity Issues When Your New Network Card Fails to Provide Internet - Expert Guidance by YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-guide-replacing-computer-hardware-components-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Replacing Computer Hardware Components with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-intermittent-computer-lockups-a-guide-by-yl-software-experts/"><u>Understanding Intermittent Computer Lockups: A Guide by YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: The Adaptive Immune Response"
-date: 2025-02-02T20:22:29.696Z
-updated: 2025-02-08T23:22:22.039Z
+date: 2025-03-02T11:36:27.739Z
+updated: 2025-03-07T00:48:04.649Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b1b22d3eef75a6f40f6097c7.jpg
@@ -65,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -89,17 +85,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -117,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -136,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-ssl.techidaily.com/57ch5zau5pa55rov77ya5oco6bq85b6e562g6kiy5pys6zu76iwm56gs56kf5lit5zue5b6p5bey57at5rai5asx55qe5pah5lu2/"><u>簡單方法：怎麼從筆記本電腦硬碟中回復已經消失的文件</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-and-paid-clipchamp-substitutes-for-video-editing-and-conversion/"><u>Best Free and Paid Clipchamp Substitutes for Video Editing & Conversion</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/easy-steps-to-restore-removed-drive-on-windows-11-a-simple-guide/"><u>Easy Steps to Restore Removed Drive on Windows 11: A Simple Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/evaluating-corporate-cybersecurity-addressing-the-challenge-of-data-breaches-with-massmail-solutions/"><u>Evaluating Corporate Cybersecurity: Addressing the Challenge of Data Breaches with MassMail Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-hot-30i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Hot 30i</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>In 2024, Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/launching-zoom-sessions-smoothly-with-android/"><u>Launching Zoom Sessions Smoothly with Android</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/reviving-accidentally-deleted-spreadsheets-on-google-sheets-with-these-4-simple-tricks/"><u>Reviving Accidentally Deleted Spreadsheets on Google Sheets with These 4 Simple Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/story-3-the-delayed-reaction-assumption-answer-d/"><u>Story 3: The Delayed Reaction Assumption (Answer D)</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/strategies-pratiques-pour-la-conduite-et-le-suivi-des-ordinateurs-de-lentreprise/"><u>Stratégies Pratiques Pour La Conduite Et Le Suivi Des Ordinateurs De L'Entreprise</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-youtube-camera-buying-guide/"><u>The Ultimate YouTube Camera Buying Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/umfassende-anleitung-zum-sicheren-und-vollstandigen-loschen-von-m2-ssds-unter-windows-11/"><u>Umfassende Anleitung Zum Sicheren Und Vollständigen Löschen Von M.2 SSDs Unter Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-striking-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>[Updated] 2024 Approved Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>[Updated] In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-creer-une-image-de-sauvegarde-pour-securiser-votre-sistema-operativo-windows/"><u>Comment Créer Une Image De Sauvegarde Pour Sécuriser Votre Sistema Operativo Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-complet-pour-selectionner-et-configurer-un-disque-de-sauvegarde-externe/"><u>Guide Complet Pour Sélectionner Et Configurer Un Disque De Sauvegarde Externe</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-a05-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy A05 Devices</u></a></li>
+<li><a href="https://win-help.techidaily.com/master-the-art-of-file-transfers-on-windows-platform-yl-tech-tips-from-yl-software/"><u>Master the Art of File Transfers on Windows Platform - YL Tech Tips From YL Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/masterful-solutions-proven-methods-to-resolve-excel-freezing-issues/"><u>Masterful Solutions: Proven Methods to Resolve 'Excel Freezing' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-connection-hooking-up-playstation-vr-to-your-desktop-pc/"><u>Mastering the Connection: Hooking up PlayStation VR to Your Desktop PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-default-view-configurations-in-windows/"><u>Reinstating Default View Configurations in Windows</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/soluciones-faciles-y-probadas-evitar-bucle-de-arranque-con-hp-dell-o-asus-en-windows-10/"><u>Soluciones Fáciles Y Probadas: Evitar Bucle De Arranque Con HP, Dell O Asus en Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/syncopated-sounds-discovering-crossfades/"><u>Syncopated Sounds Discovering Crossfades</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-webm-video-compressors-for-online-use-for-2024/"><u>The Best WebM Video Compressors for Online Use for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rated-no-cost-windows-system-backup-applications-for-pc-and-servers/"><u>Top Rated No-Cost Windows System Backup Applications for PC & Servers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1728491528194-windows-server-2022/"><u>Windows Server 2022支援期限完全ガイド：バックアップ戦略の重要性</u></a></li>
 </ul></div>
 

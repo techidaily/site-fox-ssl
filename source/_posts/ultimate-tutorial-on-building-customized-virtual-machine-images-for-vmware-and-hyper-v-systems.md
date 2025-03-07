@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Building Customized Virtual Machine Images for VMWare and Hyper-V Systems
-date: 2025-02-03T18:13:23.719Z
-updated: 2025-02-08T17:10:06.011Z
+date: 2025-03-04T04:21:40.974Z
+updated: 2025-03-07T04:52:21.994Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b4484815daf27a43d6a0afc55a2c8.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -97,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -116,14 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,17 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-boost-traffic-elevate-rankings-essential-youtube-seo/"><u>[New] 2024 Approved Boost Traffic, Elevate Rankings - Essential YouTube SEO</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>[New] In 2024, Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>[New] In 2024, The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-videoplayers-for-high-definition-on-android/"><u>[Updated] Precision Videoplayers for High Definition on Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq5pig5yop6kaw6ig0ic0g44oj44op44kk44ow44os44kz44o844oa44o85yuv55s744gu5yan55sf5rov/"><u>効果的な映像視聴 - ドライブレコーダー動画の再生法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmented-vulnerability-the-growing-ai-risk-factor/"><u>Augmented Vulnerability: The Growing AI Risk Factor</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/essential-tips-for-mastering-video-edits-in-imovie-on-your-pc/"><u>Essential Tips for Mastering Video Edits in iMovie on Your PC</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/indias-tiktok-dilemma-secrets-to-preserving-your-downloaded-short-clips-post-ban/"><u>India's TikTok Dilemma: Secrets to Preserving Your Downloaded Short Clips Post-Ban</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/maximizing-user-engagement-with-optimal-search-outcome-presentation/"><u>Maximizing User Engagement with Optimal Search Outcome Presentation</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/unraveling-history-long-term-effects-of-the-great-leap-forward-explained-by-yl-software-experts/"><u>Unraveling History: Long-Term Effects of the Great Leap Forward Explained by YL Software Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a56s-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A56s 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>[New] 2024 Approved Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xcellence-in-editing-selecting-the-right-software-for-2024/"><u>[New] Excellence in Editing Selecting the Right Software for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-wanderlusts-to-web-presence-your-strategy-for-professional-blogging-success/"><u>[New] From Wanderlusts To Web Presence Your Strategy for Professional Blogging Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-captivate-and-convert-creating-high-roi-animated-ads-on-facebook/"><u>[Updated] Captivate and Convert Creating High-ROI Animated Ads on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/boost-your-machines-efficiency-quickly-with-our-guide-powered-by-yl-solutions/"><u>Boost Your Machine’s Efficiency Quickly with Our Guide - Powered by YL Solutions</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/essential-measures-for-avoiding-computer-hardware-issues-expert-insights-from-yl-systems-engineering/"><u>Essential Measures for Avoiding Computer Hardware Issues: Expert Insights From YL Systems Engineering</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/exploring-future-uses-of-cryptocurrency-a-comprehensive-guide-by-yl-computing/"><u>Exploring Future Uses of Cryptocurrency: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/step-by-step-finding-and-installing-the-latest-driver-for-your-windows-printer-with-yls-advice/"><u>Step-by-Step: Finding and Installing the Latest Driver for Your Windows Printer with YL's Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pathway-to-perfect-images-step-by-step-backdrop-erasure/"><u>The Pathway to Perfect Images Step-By-Step Backdrop Erasure</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/understanding-scanner-clarity-why-are-your-scanned-images-turning-out-fuzzy-exploring-solutions-with-yl-software/"><u>Understanding Scanner Clarity: Why Are Your Scanned Images Turning Out Fuzzy? Exploring Solutions with YL Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-bokeh-effects-apps-for-2024/"><u>Updated Best Bokeh Effects Apps for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-software-explores-who-was-chinas-ultimate-monarch-and-when-did-his-reign-end-understanding-the-collapse/"><u>YL Software Explores: Who Was China's Ultimate Monarch and When Did His Reign End? Understanding the Collapse</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/yl-software-insights-solving-the-mystery-of-undetected-usb-drives-by-your-scanner/"><u>YL Software Insights: Solving the Mystery of Undetected USB Drives by Your Scanner</u></a></li>
 </ul></div>
 
